@@ -4,6 +4,7 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
 更新于3/8/22 欢迎提出意见和建议
 
 ————————停车类————————
+
 -NYC DOT停车标志地图：
 https://nycdotsigns.net/
 咪表停车metered缴费及ParkNYC手机App：
@@ -14,6 +15,7 @@ SpotHero街边, SpotAngels街边,
 ParkWhiz预订, ParkMobile街边及预订
 
 ————————EZPass类————————
+
 -NJ EZPass 折扣计划：
 https://www.ezpassnj.com/en/about/plans.shtml
 月费条款：
@@ -33,6 +35,7 @@ PA Carpool Plan多人共乘优惠计划介绍：
 https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts
 
 ———————道路收费类———————
+
 -NJ Turnpike和GS Pkwy 资费标准：
 https://www.njta.com/toll-calculator
 
@@ -63,6 +66,7 @@ https://capemaycountynj.gov/657/Toll-Schedule
 https://www.bcbridges.org/toll-rates-e-zpass
 
 ———————违章处理类———————
+
 -NJ路费违章violation处理：
 https://www.ezpassnj.com/vector/violations/violationInquiry.do?locale=en_US&from=Home&btnLogin.x=1&formid=frmViol
 
