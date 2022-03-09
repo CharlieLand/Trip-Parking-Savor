@@ -14,7 +14,7 @@ https://parknyc.parkmobile.us/parknyc/
 SpotHero街边, SpotAngels街边, 
 ParkWhiz预订, ParkMobile街边及预订
 
-————————EZPass类————————
+———————EZPass类———————
 
 -NJ EZPass 折扣计划：
 https://www.ezpassnj.com/en/about/plans.shtml
