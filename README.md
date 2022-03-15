@@ -3,10 +3,10 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
 
 更新于3/14/2022第二版 欢迎提出意见和建议   
 
-地图推荐：Google Maps及Apple Map路况信息相对精准
-Waze，用户反馈路况及警察信息
-openstreetmap可显示道路种类（玫红色表示freeway，一般限速较高）
-Google Earth可三维显示街景（如NYC建筑之旅）
+地图推荐：Google Maps及Apple Map路况信息相对精准    
+Waze，用户反馈路况及警察信息   
+openstreetmap可显示道路种类（玫红色表示freeway，一般限速较高）   
+Google Earth可三维显示街景（如NYC建筑之旅）  
 
 ————————停车类————————   
 -NYC停车   
@@ -156,5 +156,9 @@ https://www1.nyc.gov/site/finance/vehicles/dispute-a-ticket.page 或Pay or Dispu
 攻略区：    
 1.New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC    
 
+从I-287或NJ18进入US1 North过了Menlo Park之后按指示牌提前靠右进入Garden State Parkway North入口（卡车禁行）   
+行驶10miles左右从出口140A US22 East出，注意提前变道进入出口。（如果错过可以从Union收费站出口142转入I-78 East，toll为$1.96）   
+US22靠左行驶7-8mile从左侧出口进入US1-9 North Express（经过Pulaski Skyway），之后一直靠左直行即可抵达隧道入口。  
+若驶入I-78，请走Local中间车道，按提示进入US1-9，后面转入US1-9 Express Pulaski Skyway。   
 
 2.RUNB区域前往DC    
