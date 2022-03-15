@@ -1,10 +1,14 @@
 # Trip-Parking-Savor
 The repo is to reduce your cost on tolls, parking fees, and other transportation fares within the NYC Bay Area(NJ Mainly).   
 
-更新于3/9/2022 欢迎提出意见和建议   
+更新于3/14/2022第二版 欢迎提出意见和建议   
+
+地图推荐：Google Maps及Apple Map路况信息相对精准
+Waze，用户反馈路况及警察信息
+openstreetmap可显示道路种类（玫红色表示freeway，一般限速较高）
+Google Earth可三维显示街景（如NYC建筑之旅）
 
 ————————停车类————————   
-
 -NYC停车   
 标志地图：   
 https://nycdotsigns.net/   
@@ -18,12 +22,12 @@ ParkWhiz预订, ParkMobile街边及预订
 ———————EZPass类———————   
 -NJ EZPass折扣计划：   
 https://www.ezpassnj.com/en/about/plans.shtml    
-月费条款：   
+条款（月费$1）：   
 https://www.ezpassnj.com/vector/retailers/tollTagRegistrationNewCustomer.do   
 
 -NY EZPass折扣计划：   
 https://www.e-zpassny.com/en/about/plans.shtml   
-月费条款：   
+条款（月费PANYNJ版$1，MTA及NYSBA版免费）：   
 https://www.e-zpassny.com/en/about/terms_ind.shtml   
 on-the-go tag 购买地点：   
 https://www.e-zpassny.com/en/onthego/locations.shtml   
@@ -32,6 +36,8 @@ https://www.e-zpassny.com/en/faq/paypertrip.shtml#:~:text=PAY%20PER%20TRIP%20is%
 
 -Port Authority港航局史丹顿岛桥梁PASI通行折扣计划及PA Carpool Plan多人共乘优惠计划介绍：   
 https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts   
+
+推荐：注册NYEZPass，选择PACP、PASI，绑定银行账户和一张信用卡后将充值方式Autopay改成PayPerTrip可防止从信用卡中被自动扣巨款！
 
 ———————道路收费类———————   
 -Port Authority NY & NJ 港航局（NY与NJ州际收费桥梁隧道）资费标准：   
@@ -44,7 +50,7 @@ https://www.panynj.gov/bridges-tunnels/en/tolls.html
 -NJ Turnpike和Garden State Parkway资费标准：   
 提示：1. Turnpike走Truck车道部分路段有3人及以上Carpool Lane（钻石共乘车道）   
 2. 享受Turnpike平峰时段折扣需要使用NJ EZPass   
-3. GS Pkwy出口130到140之间免费通行   
+3. GS Pkwy出口130（US1北入口到140A（US22东向）之间免费通行   
 路费计算器：   
 https://www.njta.com/toll-calculator   
 
@@ -146,3 +152,9 @@ https://www.e-zpassny.com/vector/violations/violationInquiry.do?locale=en_US&fro
 
 -NYC交罚单及申诉：   
 https://www1.nyc.gov/site/finance/vehicles/dispute-a-ticket.page 或Pay or Dispute App   
+
+攻略区：    
+1.New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC    
+
+
+2.RUNB区域前往DC    
