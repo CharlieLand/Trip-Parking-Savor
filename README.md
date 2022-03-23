@@ -80,7 +80,8 @@ Thruway路费计算器：
 https://wwwapps.thruway.ny.gov/tollcalculator/   
 
 #### * NJ与DE州际I-295 Delaware Memorial Bridge资费：   
-提示：这是跨越特拉华河最南边的桥,也是唯一直连Delaware的桥   
+提示：1. 这是跨越特拉华河最南边的桥,也是唯一直连Delaware的桥   
+2. 仅收取进入DE方向
 https://www.delawarememorialbridge.com/dmb-travel
 
 #### * NJ和费城跨Delaware河桥梁资费：   
