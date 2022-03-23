@@ -5,13 +5,14 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
 
 【New】电子狗（雷达监测器）购买推荐：https://www.bestbuy.com/site/escort-x80-radar-detector-black/5797708.p?skuId=5797708 感谢群友Jchen的分享：与Waze并用效果更佳    
 
-———————————————————————    
+———————————————————————
 ## 地图类   
 * Google Maps及Apple Map路况信息相对精准  
 * Google Earth可显示三维街景（如NYC建筑之旅），而Google Maps的街景是二维拍摄的。  
 * Waze，用户反馈路况及警察信息   
 * OpenStreetMap可显示道路种类（玫红色表示freeway，一般限速较高）  
-【强推】OsmAnd(ios,android) OsmAnd+(android) 可以自定义路线导航并叠加Google Traffic及Map图层的超强导航工具    
+【强推】OsmAnd(ios,android) OsmAnd+(android) 可以自定义路线导航并叠加Google地图与路况的超强导航工具，欢迎交流分享路线规划相关话题！！    
+教程：https://osmand.net/features/start   
 
 ———————————————————————    
 ## 停车类   
