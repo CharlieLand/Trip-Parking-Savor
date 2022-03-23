@@ -7,21 +7,21 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
 
 ———————————————————————    
 ## 地图类   
-Google Maps及Apple Map路况信息相对精准    
-Waze，用户反馈路况及警察信息   
-OpenStreetMap可显示道路种类（玫红色表示freeway，一般限速较高）  
+* Google Maps及Apple Map路况信息相对精准  
+* Google Earth可显示三维街景（如NYC建筑之旅），而Google Maps的街景是二维拍摄的。  
+* Waze，用户反馈路况及警察信息   
+* OpenStreetMap可显示道路种类（玫红色表示freeway，一般限速较高）  
 【强推】OsmAnd(ios,android) OsmAnd+(android) 可以自定义路线导航并叠加Google Traffic及Map图层的超强导航工具    
-Google Earth可显示三维街景（如NYC建筑之旅），而Google Maps的街景是二维拍摄的。
 
 ———————————————————————    
 ## 停车类   
-#### NYC停车   
+#### * NYC停车   
 标志地图：   
 https://nycdotsigns.net/   
 咪表停车metered缴费及ParkNYC手机App：   
 https://parknyc.parkmobile.us/parknyc/   
 
-#### 实用停车位寻找预订App：   
+####  * 实用停车位寻找预订App：   
 SpotHero街边, SpotAngels街边,    
 ParkWhiz预订, ParkMobile街边及预订   
 
