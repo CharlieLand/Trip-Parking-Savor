@@ -57,8 +57,8 @@ https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts
 https://www.panynj.gov/bridges-tunnels/en/tolls.html   
 截至目前：跨Hudson河的两隧一桥或者一个自然月未使用三次PASI（未去满三次史丹顿岛）：高峰期$13.75，平峰期$11.75   
 高峰期: 工作日6–10 a.m., 4–8 p.m.; 周六周日: 11 a.m. – 9 p.m.    
-PACP共乘计划：$7.75
-【强推】PASI史岛计划：$6.88
+PACP共乘计划：$7.75.  
+【强推】PASI史岛计划：$6.88   
 【强推】1. Staten Island St George码头附近有SP+停车场和Municipal Metered停车场，SP+停车场在Groupon上24hr仅需$9.5，Municipal Metered Parking $1.5/hr 上限18hr $12   
 【强推】2. 使用PASI计划将车停放在St George码头后有免费的Staten Island Ferry前往Downtown和旁边单程收费$2.75的NYC Ferry前往世贸中心或Midtown West   
 
