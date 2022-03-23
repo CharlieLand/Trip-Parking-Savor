@@ -54,6 +54,10 @@ https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts
 提示：1. 仅收进入NYC方向   
 2. 斜体的设施已经无法走人工收费通道享受Carpool 3人及以上合乘优惠   
 https://www.panynj.gov/bridges-tunnels/en/tolls.html   
+截至目前：跨Hudson河的两隧一桥或者一个自然月未使用三次PASI（未去满三次史丹顿岛）：高峰期$13.75，平峰期$11.75   
+高峰期: 工作日6–10 a.m., 4–8 p.m.; 周六周日: 11 a.m. – 9 p.m.    
+PACP共乘计划：$7.75
+PASI史岛计划：$6.88
 
 #### * NJ Turnpike和Garden State Parkway资费标准：   
 提示：1. Turnpike走Truck车道部分路段有3人及以上Carpool Lane（钻石共乘车道）   
@@ -95,7 +99,7 @@ http://www.drpa.org/travel/toll-schedule.html
 New Hope-Lambertville (Route 202), I-78, Easton-Phillipsburg (Route 22),   
 Portland-Columbia, Delaware Water Gap (I-80), and Milford-Montague (Route 206)：   
 https://www.drjtbc.org/travel-info/toll-rates   
-* I-95 Delaware River Bridge：   
+* I-95 Delaware River Bridge连接PA Turnpike（很贵，非常不推荐）：   
 https://www.paturnpike.com/toll-calculator/toll-schedules   
 * 神奇的私人收费桥梁Dingmans Ferry Bridge：   
 https://dcdbc.com/ratesandrestr.php   
