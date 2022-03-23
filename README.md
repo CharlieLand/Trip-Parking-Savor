@@ -215,5 +215,5 @@ I-95在New Heaven转I-91，并于CT15汇合后继续沿I-91
 在Hartford经过US5(CT15)转I-84进入麻省MA  
 经过CT/MA边界后，转I-90 Massachusetts Turnpike一路直达Boston   
 Massachusetts（MA）路费详情：https://www.ezdrivema.com/TollCalculator   
-Toll:$1.96+1.96+5.75+3.95~4.65=13.62~14.32（去程），3.95~4.65+$1.96+1.96=7.87～8.57（回程）   
+Toll:$1.96+1.96+5.75+3.95\~4.65=13.62\~ 14.32（去程），3.95\~4.65+$1.96+1.96=7.87\～8.57（回程）   
 提示：如果从I-287 North前往Gov. Mario M. Cuomo Br可节省$3.92
