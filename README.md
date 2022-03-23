@@ -5,14 +5,16 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
 
 【New】电子狗（雷达监测器）购买推荐：https://www.bestbuy.com/site/escort-x80-radar-detector-black/5797708.p?skuId=5797708 感谢群友Jchen的分享    
 
-———————## 地图类———————    
+———————————————————————    
+## 地图类   
 Google Maps及Apple Map路况信息相对精准    
 Waze，用户反馈路况及警察信息   
 OpenStreetMap可显示道路种类（玫红色表示freeway，一般限速较高）  
 【强推】OsmAnd(ios,android) OsmAnd+(android) 可以自定义路线导航并叠加Google Traffic及Map图层的超强导航工具    
 Google Earth可显示三维街景（如NYC建筑之旅），而Google Maps的街景是二维拍摄的。
 
-———————## 停车类———————   
+———————————————————————    
+## 停车类   
 -NYC停车   
 标志地图：   
 https://nycdotsigns.net/   
@@ -23,7 +25,8 @@ https://parknyc.parkmobile.us/parknyc/
 SpotHero街边, SpotAngels街边,    
 ParkWhiz预订, ParkMobile街边及预订   
 
-——————## EZPass类——————   
+———————————————————————    
+## EZPass类   
 -NJ EZPass折扣计划：   
 https://www.ezpassnj.com/en/about/plans.shtml    
 条款（月费$1）：   
@@ -43,7 +46,8 @@ https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts
 
 推荐：注册NYEZPass，选择PACP、PASI，绑定银行账户和一张信用卡后将充值方式Autopay改成PayPerTrip可防止从信用卡中被自动扣巨款！
 
-——————## 道路收费类——————   
+———————————————————————    
+## 道路收费类      
 -Port Authority NY & NJ 港航局（NY与NJ州际收费桥梁隧道）资费标准：   
 跨Hudson河进入曼哈顿岛：**Lincoln Tunnel**, **George Washington Bridge Upper and _Lower Level_**, **_Holland Tunnel_**,    
 进入史丹顿岛：**_Outerbridge Crossing_**, _Goethals Bridge_ and _Bayonne Bridge_   
@@ -147,7 +151,8 @@ https://www.ferry.nyc/routes-and-schedules/
 Downtown往返IKEA的NY Water Taxi：   
 https://nywatertaxi.com/   
 
-——————## 违章处理类——————   
+———————————————————————    
+## 违章处理类    
 -NJ路费违章violation处理：   
 https://www.ezpassnj.com/vector/violations/violationInquiry.do?locale=en_US&from=Home&btnLogin.x=1&formid=frmViol   
 
