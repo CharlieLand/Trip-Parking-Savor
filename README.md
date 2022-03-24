@@ -135,14 +135,13 @@ Kingston-Rhinecliff Br, Rip Van Winkle Br
 【Toll】$1.45   
 https://nysba.ny.gov/toll-rates   
 
-#### * 【推荐】NJ与DE间： 
+#### * 【推荐】NJ与DE间跨特拉华河桥梁： 
 * Delaware Memorial Br(I-295)   
 【Toll】$4.75(NJ/DE EZP)/$5(NY EZP)   
 提示：
   1. 这是跨越特拉华河最南边的桥,也是NJ唯一直连DE的桥   
   2. 进入DE方向单向收费   
-
-* https://www.delawarememorialbridge.com/dmb-travel   
+https://www.delawarememorialbridge.com/dmb-travel   
 
 #### * NJ和费城跨特拉华河桥梁：     
 * Betsy Ross Br(NJ90), Ben Franklin Br(I-676), Walt Whitman Br(I-76) and Commodore Barry Br(US322)   
