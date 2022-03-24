@@ -266,9 +266,12 @@ Toll:$0(去程走US22，回程走I-78或US22)，$1.96（去程走I-78）。「�
 * 继续沿 I-95 到 DE/MD 边界时从最后一个出口右转绕行 DE896、DE4、MD279，过了边界后继续走 I-95，I-95 Express Lane收费$1.93（高峰）/1.49（平峰）/0.61（夜间）。   
 * Baltimore市区视路况选择：Fort McHenry Tunnel(I-95) 或 Baltimore Harbor Tunnel(I-895) 或 Francis Scott Key Br(I-695)   
 * 最后接 MD295 Baltimore-Washington Pkwy 即可到达（DC市区接I-695可绕开地面道路）   
-MD收费公路资费标准：https://mdta.maryland.gov/TollRatesTables   
-路费计算器：https://driveezmd.com/toll-rate-calculator/   
-线路走向：https://www.google.com/maps/d/u/1/edit?mid=1Y2pXAs_-QpFOPdTUF0kiYVQAE80crSl4&usp=sharing   
+MD收费公路资费标准：   
+https://mdta.maryland.gov/TollRatesTables   
+路费计算器：   
+https://driveezmd.com/toll-rate-calculator/   
+线路走向：   
+https://www.google.com/maps/d/u/1/edit?mid=1Y2pXAs_-QpFOPdTUF0kiYVQAE80crSl4&usp=sharing   
 Toll:$9（去程，绕行DE/MD边界），$13（去程，直接过边界），$12（回程，绕行边界），$16（回程，直接过边界）   
 
 #### * RUNB区域往返GWB乔治华盛顿大桥入口   
@@ -284,6 +287,7 @@ Toll:去回程都是$1.96，相比直接走I-95 NJ Turnpike省$8左右
 * I-95 在 New Heaven 转 I-91，并于 CT15 汇合后继续沿 I-91    
 * 在 Hartford 经过 US5(CT15) 转 I-84 进入MA  
 * 经过 CT/MA 边界后，转 I-90 MA Turnpike一路直达Boston   
-MA路费计算器：https://www.ezdrivema.com/TollCalculator   
+MA路费计算器：   
+https://www.ezdrivema.com/TollCalculator   
 Toll:$1.96+1.96+5.75+3.95 \~ 4.65=$13.62 \~ 14.32（去程），$3.95 \~ 4.65+1.96+1.96=$7.87 \~ 8.57（回程）   
 提示：如果一路从 I-287 North前往Gov. Mario M. Cuomo Br可节省$3.92
