@@ -113,7 +113,7 @@ https://www.njta.com/toll-calculator
 * Bronx与法拉盛之间：Bronx-Whitestone Bridge   
 * Bronx与曼岛之间：Henry Hudson Bridge   
 【Toll】$6.55(NY EZP)/10.17(NJ EZP)/8.36(Improperly Mounted NY EZP)   
-提示：
+* 提示：
 1. NJ EZPass按照 Tolls By Mail $10.17   
 2. 双向收费   
 https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars   
@@ -124,7 +124,7 @@ https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars
 https://wwwapps.thruway.ny.gov/tollcalculator/   
 【Hot】M. Cuomo Br：   
 【Toll】$5.75   
-提示：自西向东单向收费   
+* 提示：自西向东单向收费   
 https://www.thruway.ny.gov/news/pressrel/2021/12/2021-12-20-gmmcb-toll-increase.html   
 
 * NYSBA：   
@@ -136,7 +136,7 @@ https://nysba.ny.gov/toll-rates
 #### * 【推荐】NJ与DE间： 
 * Delaware Memorial Br(I-295)
 【Toll】$4.75(NJ/DE EZP)/$5(NY EZP)   
-提示：
+* 提示：
 1. 这是跨越特拉华河最南边的桥,也是NJ唯一直连DE的桥   
 2. 进入DE方向单向收费   
 https://www.delawarememorialbridge.com/dmb-travel   
@@ -144,7 +144,7 @@ https://www.delawarememorialbridge.com/dmb-travel
 #### * NJ和费城跨特拉华河桥梁：     
 * Betsy Ross Br(NJ90), Ben Franklin Br(I-676), Walt Whitman Br(I-76) and Commodore Barry Br(US322)   
 【Toll】$5 
-提示：进入费城方向单向收费    
+* 提示：进入费城方向单向收费    
 http://www.drpa.org/travel/toll-schedule.html   
 
 #### * NJ和PA（除费城）跨特拉华河收费桥梁：   
@@ -159,7 +159,7 @@ https://www.paturnpike.com/toll-calculator/toll-schedules
 * Burlington County跨特拉华河桥梁Tacony-Palmyra Br(NJ73), Burlington-Bristol Br(NJ413)：   
 【Toll】$3   
 https://www.bcbridges.org/toll-rates-e-zpass   
-提示：
+* 提示：
 1. 以上桥梁进入PA方向单向收费   
 2. PA对EZPass一视同仁，资费一致   
 
