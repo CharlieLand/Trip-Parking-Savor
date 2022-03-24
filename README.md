@@ -90,7 +90,8 @@ https://www.e-zpassny.com/en/faq/paypertrip.shtml#:~:text=PAY%20PER%20TRIP%20is%
 * 提示：
 1. 进入NYC方向单向收费   
 2. LT 及 GWB 上层Upper Level可以走人工收费通道告知收费员3人及以上的Carpool，即使用PACP   
-https://www.panynj.gov/bridges-tunnels/en/tolls.html   
+
+* https://www.panynj.gov/bridges-tunnels/en/tolls.html   
 【Toll】使用NJ EZP或 NY EZP行驶 HT, LT, GWB 或者一个自然月内PASI不足3次：高峰期$13.75，平峰期$11.75； PACP：$7.75； PASI：$6.88     
 外州EZPass或邮寄路费Tolls by Mail：$16
 高峰期: 工作日6\~10 am, 4\~8 pm； 周六周日: 11 am \~ 9 pm    
@@ -103,7 +104,8 @@ https://www.panynj.gov/bridges-tunnels/en/tolls.html
 1. 【推荐】NJTP 走Truck车道部分路段有3人及以上Carpool Lane（钻石共乘车道）   
 2. 享受NJTP平峰折扣需要使用NJ EZPass   
 3. 【强推】GS Pkwy出口130A（US1 North入口）到140A（US22 East）之间免费通行   
-路费计算器：   
+
+* 路费计算器：   
 https://www.njta.com/toll-calculator   
 
 #### * NYC MTA收费公路：   
@@ -116,7 +118,8 @@ https://www.njta.com/toll-calculator
 * 提示：
 1. NJ EZPass按照 Tolls By Mail $10.17   
 2. 双向收费   
-https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars   
+
+* https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars   
 
 #### * NYS收费公路：
 * Thruway Authority：前往新英格兰：Gov. Mario M. Cuomo Br(MCB,I-287) 及 Castleton-on-Hudson(I87 to I-90 connector) Br   
@@ -128,7 +131,7 @@ https://wwwapps.thruway.ny.gov/tollcalculator/
 https://www.thruway.ny.gov/news/pressrel/2021/12/2021-12-20-gmmcb-toll-increase.html   
 
 * NYSBA：   
-熊山大桥Bear Mountain Br(US202), Newburgh-Beacon Br(I-84), Mid-Hudson Br(US44),   
+* 熊山大桥Bear Mountain Br(US202), Newburgh-Beacon Br(I-84), Mid-Hudson Br(US44),   
 Kingston-Rhinecliff Br, Rip Van Winkle Br   
 【Toll】$1.45
 https://nysba.ny.gov/toll-rates   
@@ -139,7 +142,8 @@ https://nysba.ny.gov/toll-rates
 * 提示：
 1. 这是跨越特拉华河最南边的桥,也是NJ唯一直连DE的桥   
 2. 进入DE方向单向收费   
-https://www.delawarememorialbridge.com/dmb-travel   
+
+* https://www.delawarememorialbridge.com/dmb-travel   
 
 #### * NJ和费城跨特拉华河桥梁：     
 * Betsy Ross Br(NJ90), Ben Franklin Br(I-676), Walt Whitman Br(I-76) and Commodore Barry Br(US322)   
