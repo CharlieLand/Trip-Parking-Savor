@@ -93,7 +93,7 @@ https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts
 * 资费标准：
 https://www.panynj.gov/bridges-tunnels/en/tolls.html   
 【Toll】使用NJ EZP或 NY EZP行驶 HT, LT, GWB 或者一个自然月内PASI不足3次：高峰期$13.75，平峰期$11.75； PACP：$7.75； PASI：$6.88     
-外州EZPass或邮寄路费Tolls by Mail：$16
+外州EZPass或邮寄路费Tolls by Mail：$16   
 高峰期: 工作日6\~10 am, 4\~8 pm； 周六周日: 11 am \~ 9 pm    
 【强推】从OBX/GB进入SI，将车停放在 St George Terminal 后有免费的 Staten Island Ferry 前往 Downtown 及 单程收费$2.75的 NYC Ferry 前往 WTC 或 Midtown West；     
 史岛SGT码头附近有Empire Outlet附属SP+停车场 及 码头附属Municipal Metered停车场。SP+停车场在Groupon上24hr仅需$9.5，Municipal $1.5/hr 上限18hr $12   
@@ -126,10 +126,11 @@ https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars
 * Thruway Authority：前往新英格兰：Gov. Mario M. Cuomo Br(MCB,I-287) 及 Castleton-on-Hudson(I87 to I-90 connector) Br   
 路费计算器：   
 https://wwwapps.thruway.ny.gov/tollcalculator/   
-【Hot】M. Cuomo Br：   
+【Hot】M. Cuomo Br 资费：
+https://www.thruway.ny.gov/news/pressrel/2021/12/2021-12-20-gmmcb-toll-increase.html   
 【Toll】$5.75    
 提示：自西向东单向收费   
-https://www.thruway.ny.gov/news/pressrel/2021/12/2021-12-20-gmmcb-toll-increase.html   
+
 
 * NYSBA：   
 熊山大桥Bear Mountain Br(US202), Newburgh-Beacon Br(I-84), Mid-Hudson Br(US44),   
@@ -137,6 +138,7 @@ Kingston-Rhinecliff Br, Rip Van Winkle Br
 【Toll】$1.45   
 资费标准：    
 https://nysba.ny.gov/toll-rates   
+提示：自西向东单向收费   
 
 #### * 【推荐】NJ与DE间跨特拉华河桥梁： 
 * Delaware Memorial Br(I-295)   
@@ -152,8 +154,7 @@ https://www.delawarememorialbridge.com/dmb-travel
 资费标准：   
 http://www.drpa.org/travel/toll-schedule.html    
 【Toll】$5   
-提示：
-  进入费城方向单向收费    
+提示：进入费城方向单向收费    
 
 #### * NJ和PA（除费城）跨特拉华河收费桥梁：   
 * 【Hot】Trenton-Morrisville Br(US1),【Hot】Scudder Falls Br(I-295),    
