@@ -154,8 +154,10 @@ https://www.paturnpike.com/toll-calculator/toll-schedules
 * Burlington County跨特拉华河桥梁Tacony-Palmyra Br(NJ73), Burlington-Bristol Br(NJ413)：   
 【Toll】$3   
 https://www.bcbridges.org/toll-rates-e-zpass   
+
 提示：1. 以上桥梁进入PA方向单向收费   
-2. PA对EZPass一视同仁，资费一致
+2. PA对EZPass一视同仁，资费一致   
+
 * 私人收费桥梁Dingmans Ferry Br(NJ739)：   
 【Toll】$1   
 https://dcdbc.com/ratesandrestr.php   
