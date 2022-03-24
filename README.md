@@ -87,7 +87,7 @@ https://www.e-zpassny.com/en/faq/paypertrip.shtml#:~:text=PAY%20PER%20TRIP%20is%
 * 从NJ进入曼岛：**Holland Tunnel(HT)**, **Lincoln Tunnel(LT)**, **George Washington Bridge(GWB)**,     
 * 从NJ进入史岛：**Outerbridge Crossing(OBX)**, Goethals Bridge(GB), Bayonne Bridge(BB)   
 
-提示：
+* 提示：
 1. 进入NYC方向单向收费   
 2. LT 及 GWB 上层Upper Level可以走人工收费通道告知收费员3人及以上的Carpool，即使用PACP   
 https://www.panynj.gov/bridges-tunnels/en/tolls.html   
@@ -99,7 +99,7 @@ https://www.panynj.gov/bridges-tunnels/en/tolls.html
 
 
 #### * NJ Turnpike 及 GS Pkwy：   
-提示：
+* 提示：
 1. 【推荐】NJTP 走Truck车道部分路段有3人及以上Carpool Lane（钻石共乘车道）   
 2. 享受NJTP平峰折扣需要使用NJ EZPass   
 3. 【强推】GS Pkwy出口130A（US1 North入口）到140A（US22 East）之间免费通行   
