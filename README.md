@@ -42,7 +42,8 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
 * Waze 使用户能上报路况及警察信息， Waze Carpool可以为他人提供顺风车   
 * OpenStreetMap 可显示道路种类（颜色越深一般限速越高，分叉越少）  
 【强推】OsmAnd(ios,android) OsmAnd+(android) 可以自定义路线导航并叠加Google地图与路况的超强导航工具，欢迎交流分享路线规划相关话题！！    
-教程：https://osmand.net/features/start   
+教程：   
+https://osmand.net/features/start   
 
 ———————————————————————    
 ## 停车类   
@@ -60,13 +61,15 @@ https://parknyc.parkmobile.us/parknyc/
 
 ———————————————————————    
 ## EZPass类   
-#### * NJ EZPass通勤折扣计划：   
-* https://www.ezpassnj.com/en/about/plans.shtml    
+#### * NJ EZPass   
+* 通勤折扣计划：   
+https://www.ezpassnj.com/en/about/plans.shtml    
 条款（月费$1）：   
 https://www.ezpassnj.com/vector/retailers/tollTagRegistrationNewCustomer.do   
 
 #### * NY EZPass通勤折扣计划：   
-* https://www.e-zpassny.com/en/about/plans.shtml   
+* 通勤折扣计划：   
+https://www.e-zpassny.com/en/about/plans.shtml   
 条款（月费PANYNJ版$1，【强推】MTA及NYSBA版免费）：   
 https://www.e-zpassny.com/en/about/terms_ind.shtml   
 【推荐】on-the-go tag 购买地点：   
@@ -75,7 +78,8 @@ https://www.e-zpassny.com/en/onthego/locations.shtml
 https://www.e-zpassny.com/en/faq/paypertrip.shtml#:~:text=PAY%20PER%20TRIP%20is%20the,account%20balance%20is%20not%20required.   
 
 #### * 【强推】PANYNJ PASI Plan 史岛桥梁折扣计划 及 PANYNJ PACP 3人及以上共乘Carpool优惠计划介绍：   
-* https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts   
+* 计划介绍：    
+https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts   
 【推荐】NY EZPass：网上注册（月费$1）或 NYC/NYS 实体店购买on-the-go tag（无月费），   
 选择Standard Plan、PACP、PASI，   
 绑定银行账户和一张信用卡后将充值方式Autopay改成Pay-Per-Trip(PPT)，   
@@ -146,7 +150,7 @@ https://www.delawarememorialbridge.com/dmb-travel
 #### * NJ和费城跨特拉华河桥梁：     
 * Betsy Ross Br(NJ90), Ben Franklin Br(I-676), Walt Whitman Br(I-76) and Commodore Barry Br(US322)   
 资费标准：   
-http://www.drpa.org/travel/toll-schedule.html   
+http://www.drpa.org/travel/toll-schedule.html    
 【Toll】$5   
 提示：
   进入费城方向单向收费    
@@ -156,7 +160,7 @@ http://www.drpa.org/travel/toll-schedule.html
 New Hope-Lambertville Br(US202), 【Hot】I-78, Easton-Phillipsburg Br(US22),   
 Portland-Columbia Br,【Hot】Delaware Water Gap Br(I-80), Milford-Montague Br(US206)   
 资费标准：   
-https://www.drjtbc.org/travel-info/toll-rates 
+https://www.drjtbc.org/travel-info/toll-rates   
 【Toll】$1.25   
 * Delaware River Br(I-95) 连接 PA Turnpike（很贵，非常不推荐）：   
 资费标准：   
@@ -164,7 +168,7 @@ https://www.paturnpike.com/toll-calculator/toll-schedules
 【Toll】$6.5/8.7   
 * Burlington County跨特拉华河桥梁Tacony-Palmyra Br(NJ73), Burlington-Bristol Br(NJ413)：   
 资费标准：   
-https://www.bcbridges.org/toll-rates-e-zpass   
+https://www.bcbridges.org/toll-rates-e-zpass    
 【Toll】$3   
 * 提示：
   1. 以上桥梁进入PA方向单向收费   
