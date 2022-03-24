@@ -125,8 +125,8 @@ https://www.njta.com/toll-calculator
 路费计算器：   
 https://wwwapps.thruway.ny.gov/tollcalculator/   
 【Hot】M. Cuomo Br：   
-【Toll】$5.75   
-* 提示：自西向东单向收费   
+【Toll】$5.75    
+提示：自西向东单向收费   
 https://www.thruway.ny.gov/news/pressrel/2021/12/2021-12-20-gmmcb-toll-increase.html   
 
 * NYSBA：   
