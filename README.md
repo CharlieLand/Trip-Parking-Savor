@@ -7,33 +7,33 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
 
 ## 基础知识
 #### 美国公路等级  
-* 州际公路Interstate，如I-95，I-287等   
-* 国道US Route，如US1，US9，US22等   
-* 州道State Route，如NJ18，NJ27，NY440等   
-* 县道County Route，如Middle Sex529等   
-* 收费公路Turnpike，如NJ Turnpike，PA Turnpike   
-* 花园道路Parkway，如Garden State Parkway(GS Pkwy)，Belt Parkway   
+* 州际公路  Interstate，如I-95，I-287等   
+* 国道     US Route，如US1，US9，US22等   
+* 州道     State Route，如NJ18，NJ27，NY440等   
+* 县道     County Route，如Middle Sex529等   
+* 收费公路  Turnpike，如NJ Turnpike，PA Turnpike   
+* 花园道路  Parkway，如Garden State Parkway(GS Pkwy)，Belt Parkway   
 
 #### 常见缩写
-* NJ New Jersey 新泽西州   
-* NYC New York City 纽约市   
-* NYS New York State 纽约州   
-* 曼岛 Manhattan 曼哈顿岛   
-* WTC World Trade Center 世贸中心   
-* PANYNJ Port Authority NY & NJ 纽约与新泽西港务局   
-* PATH Port Authority Trans-Hudson 港务局穿越哈德逊河铁路   
-* SI/史岛 Staten Island 史丹顿岛   
-* Bk Brooklyn 布鲁克林（布碌仑）   
-* LIC Long Island City 长岛市   
-* JC Jersey City 泽西市   
-* PA Pennsylvania 宾州   
-* CT Connecticut 康州   
-* DE Delaware 特拉华州（免税州）   
-* MD Maryland 马里兰州   
-* MA Massachusetts 麻省   
-* DC Washington, District of Columbia 首都华盛顿（哥伦比亚特区）   
-* MTA Metropolitan Transportation Authority 大都会运输署   
-* NYSBA NY State Bridge Authority 纽约州桥梁管理局
+* NJ      New Jersey 新泽西州   
+* NYC     New York City 纽约市   
+* NYS     New York State 纽约州   
+* 曼岛     Manhattan 曼哈顿岛   
+* WTC     World Trade Center 世贸中心   
+* PANYNJ  Port Authority NY & NJ 纽约与新泽西港务局   
+* PATH    Port Authority Trans-Hudson 港务局穿越哈德逊河铁路   
+* SI/史岛  Staten Island 史丹顿岛   
+* Bk      Brooklyn 布鲁克林（布碌仑）   
+* LIC     Long Island City 长岛市   
+* JC      Jersey City 泽西市   
+* PA      Pennsylvania 宾州   
+* CT      Connecticut 康州   
+* DE      Delaware 特拉华州（免税州）   
+* MD      Maryland 马里兰州   
+* MA      Massachusetts 麻省   
+* DC      Washington, District of Columbia 首都华盛顿（哥伦比亚特区）   
+* MTA     Metropolitan Transportation Authority 大都会运输署   
+* NYSBA   NY State Bridge Authority 纽约州桥梁管理局
 
 ———————————————————————
 ## 地图类   
