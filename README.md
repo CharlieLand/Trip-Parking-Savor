@@ -204,7 +204,7 @@ https://www.amtrak.com/home.html
 #### * NJ与NY水路客运：   
 **【推荐】NY/NJ港口航线图**：   
 https://www.panynj.gov/port-authority/en/help-center/ferries.html   
-**【推荐】NJ与NY之间跨Hudson河的NY Waterway**：   
+**【推荐】NJ与NY之间跨哈德逊河的NY Waterway**：   
 https://www.nywaterway.com/ferryroutesschedules.aspx   
 Liberty Landing Ferry靠近Liberty State Park：   
 https://www.libertylandingcityferry.com/   
