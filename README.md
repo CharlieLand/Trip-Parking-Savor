@@ -88,8 +88,8 @@ https://www.e-zpassny.com/en/faq/paypertrip.shtml#:~:text=PAY%20PER%20TRIP%20is%
 * 从NJ进入史岛：**Outerbridge Crossing(OBX)**, Goethals Bridge(GB), Bayonne Bridge(BB)   
 
 * 提示：
- 1. 进入NYC方向单向收费   
- 2. LT 及 GWB 上层Upper Level可以走人工收费通道告知收费员3人及以上的Carpool，即使用PACP   
+  1. 进入NYC方向单向收费   
+  2. LT 及 GWB 上层Upper Level可以走人工收费通道告知收费员3人及以上的Carpool，即使用PACP   
 
 * https://www.panynj.gov/bridges-tunnels/en/tolls.html   
 【Toll】使用NJ EZP或 NY EZP行驶 HT, LT, GWB 或者一个自然月内PASI不足3次：高峰期$13.75，平峰期$11.75； PACP：$7.75； PASI：$6.88     
@@ -101,9 +101,9 @@ https://www.e-zpassny.com/en/faq/paypertrip.shtml#:~:text=PAY%20PER%20TRIP%20is%
 
 #### * NJ Turnpike 及 GS Pkwy：   
 * 提示：
-1. 【推荐】NJTP 走Truck车道部分路段有3人及以上Carpool Lane（钻石共乘车道）   
-2. 享受NJTP平峰折扣需要使用NJ EZPass   
-3. 【强推】GS Pkwy出口130A（US1 North入口）到140A（US22 East）之间免费通行   
+  1. 【推荐】NJTP 走Truck车道部分路段有3人及以上Carpool Lane（钻石共乘车道）   
+  2. 享受NJTP平峰折扣需要使用NJ EZPass   
+  3. 【强推】GS Pkwy出口130A（US1 North入口）到140A（US22 East）之间免费通行   
 
 * 路费计算器：   
 https://www.njta.com/toll-calculator   
@@ -116,8 +116,8 @@ https://www.njta.com/toll-calculator
 * Bronx与曼岛之间：Henry Hudson Bridge   
 【Toll】$6.55(NY EZP)/10.17(NJ EZP)/8.36(Improperly Mounted NY EZP)   
 * 提示：
-1. NJ EZPass按照 Tolls By Mail $10.17   
-2. 双向收费   
+  1. NJ EZPass按照 Tolls By Mail $10.17   
+  2. 双向收费   
 
 * https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars   
 
@@ -140,8 +140,8 @@ https://nysba.ny.gov/toll-rates
 * Delaware Memorial Br(I-295)
 【Toll】$4.75(NJ/DE EZP)/$5(NY EZP)   
 * 提示：
-1. 这是跨越特拉华河最南边的桥,也是NJ唯一直连DE的桥   
-2. 进入DE方向单向收费   
+  1. 这是跨越特拉华河最南边的桥,也是NJ唯一直连DE的桥   
+  2. 进入DE方向单向收费   
 
 * https://www.delawarememorialbridge.com/dmb-travel   
 
@@ -164,8 +164,8 @@ https://www.paturnpike.com/toll-calculator/toll-schedules
 【Toll】$3   
 https://www.bcbridges.org/toll-rates-e-zpass   
 * 提示：
-1. 以上桥梁进入PA方向单向收费   
-2. PA对EZPass一视同仁，资费一致   
+  1. 以上桥梁进入PA方向单向收费   
+  2. PA对EZPass一视同仁，资费一致   
 
 * 私人收费桥梁Dingmans Ferry Br(NJ739)：   
 【Toll】$1   
