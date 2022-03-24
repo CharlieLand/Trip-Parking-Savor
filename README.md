@@ -77,7 +77,7 @@ https://www.e-zpassny.com/en/onthego/locations.shtml
 【Hot】每趟支付(Pay Per Trip, PPT)：   
 https://www.e-zpassny.com/en/faq/paypertrip.shtml#:~:text=PAY%20PER%20TRIP%20is%20the,account%20balance%20is%20not%20required.   
 
-#### * 【强推】PANYNJ PASI Plan 史岛桥梁折扣计划 及 PANYNJ PACP 3人及以上共乘Carpool优惠计划介绍：   
+#### * 【强推】PANYNJ PASI Plan 史岛桥梁折扣计划 及 PANYNJ PACP 3人及以上共乘Carpool优惠计划   
 * 计划介绍：    
 https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts   
 【推荐】NY EZPass：网上注册（月费$1）或 NYC/NYS 实体店购买on-the-go tag（无月费），   
