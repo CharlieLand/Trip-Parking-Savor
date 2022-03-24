@@ -114,7 +114,7 @@ Toll: $6.55(NY EZP)/10.17(NJ EZP)/8.36(Improperly Mounted NY EZP)
 2. 双向收费   
 https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars   
 
-#### * NY州收费公路：
+#### * NYS收费公路：
 * Thruway Authority：前往新英格兰：Gov. Mario M. Cuomo Br(MCB,I-287) 及 Castleton-on-Hudson(I87 to I-90 connector) Br   
 路费计算器：   
 https://wwwapps.thruway.ny.gov/tollcalculator/   
@@ -124,7 +124,7 @@ Toll:$5.75
 https://www.thruway.ny.gov/news/pressrel/2021/12/2021-12-20-gmmcb-toll-increase.html   
 
 * NYSBA：   
-Toll:$1.45
+Toll:$1.45   
 熊山大桥Bear Mountain Br(US202), Newburgh-Beacon Br(I-84), Mid-Hudson Br(US44),   
 Kingston-Rhinecliff Br, Rip Van Winkle Br   
 https://nysba.ny.gov/toll-rates   
@@ -136,7 +136,7 @@ Toll:$4.75(NJ/DE EZP)/$5(NY EZP)
 https://www.delawarememorialbridge.com/dmb-travel   
 
 #### * NJ和费城跨特拉华河桥梁：   
-Toll:$5 
+Toll:$5   
 Betsy Ross Br(NJ90), Ben Franklin Br(I-676), Walt Whitman Br(I-76) and Commodore Barry Br(US322)   
 提示：进入费城方向单向收费    
 http://www.drpa.org/travel/toll-schedule.html   
