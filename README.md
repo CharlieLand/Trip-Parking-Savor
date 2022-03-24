@@ -111,7 +111,7 @@ https://www.njta.com/toll-calculator
 * Bronx与曼岛之间：Henry Hudson Bridge   
 
 【Toll】$6.55(NY EZP)/10.17(NJ EZP)/8.36(Improperly Mounted NY EZP)   
-提示：1. NJ EZPass按照 Tolls By Mail $10.17；   
+提示：1. NJ EZPass按照 Tolls By Mail $10.17   
 2. 双向收费   
 https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars   
 
