@@ -104,7 +104,7 @@ Toll：使用NJ EZP或 NY EZP行驶 HT, LT, GWB 或者一个自然月内PASI不�
 https://www.njta.com/toll-calculator   
 
 #### * NYC MTA收费公路：   
-【Hot】* **史丹顿岛与布鲁克林间：Verrazzano-Narrows Bridge**   
+* **【Hot】史丹顿岛与布鲁克林间：Verrazzano-Narrows Bridge**   
 * **Queens与曼岛间：Queens Midtown Tunnel**   
 * **Bk与曼岛间：Hugh L. Carey Tunnel**   
 * Bronx与法拉盛之间：Bronx-Whitestone Bridge   
