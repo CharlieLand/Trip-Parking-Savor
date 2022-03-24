@@ -87,7 +87,7 @@ https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts
 
 ———————————————————————    
 ## 道路收费类      
-#### * 【HOT】PANYNJ NY与NJ州际收费桥梁隧道：   
+#### * 【HOT】PANYNJ NY与NJ州际收费桥梁隧道   
 * 从NJ进入曼岛：**Holland Tunnel(HT)**, **Lincoln Tunnel(LT)**, **George Washington Bridge(GWB)**,     
 * 从NJ进入史岛：**Outerbridge Crossing(OBX)**, Goethals Bridge(GB), Bayonne Bridge(BB)   
 * 资费标准：   
@@ -101,7 +101,7 @@ https://www.panynj.gov/bridges-tunnels/en/tolls.html
   1. 进入NYC方向单向收费   
   2. LT 及 GWB 上层Upper Level可以走人工收费通道告知收费员3人及以上的Carpool，即使用PACP   
 
-#### * NJ Turnpike 及 GS Pkwy：   
+#### * NJ Turnpike 及 【HOT】GS Pkwy   
 * 路费计算器：   
 https://www.njta.com/toll-calculator   
 * 提示：   
@@ -109,7 +109,7 @@ https://www.njta.com/toll-calculator
   2. 享受NJTP平峰折扣需要使用NJ EZPass   
   3. 【强推】GS Pkwy出口130A（US1 North入口）到140A（US22 East）之间免费通行   
 
-#### * NYC MTA收费公路：   
+#### * NYC MTA收费公路   
 * **【Hot】史丹顿岛与布鲁克林间：Verrazzano-Narrows Bridge**   
 * **Queens与曼岛间：Queens Midtown Tunnel**   
 * **Bk与曼岛间：Hugh L. Carey Tunnel**   
@@ -122,7 +122,7 @@ https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars
   1. NJ EZPass按照 Tolls By Mail $10.17   
   2. 双向收费    
 
-#### * NYS收费公路：
+#### * NYS收费公路
 * Thruway Authority：前往新英格兰：Gov. Mario M. Cuomo Br(MCB,I-287) 及 Castleton-on-Hudson(I87 to I-90 connector) Br   
 路费计算器：   
 https://wwwapps.thruway.ny.gov/tollcalculator/   
@@ -130,7 +130,6 @@ https://wwwapps.thruway.ny.gov/tollcalculator/
 https://www.thruway.ny.gov/news/pressrel/2021/12/2021-12-20-gmmcb-toll-increase.html   
 【Toll】$5.75    
 提示：自西向东单向收费   
-
 
 * NYSBA：   
 熊山大桥Bear Mountain Br(US202), Newburgh-Beacon Br(I-84), Mid-Hudson Br(US44),   
@@ -140,7 +139,7 @@ Kingston-Rhinecliff Br, Rip Van Winkle Br
 https://nysba.ny.gov/toll-rates   
 提示：自西向东单向收费   
 
-#### * 【推荐】NJ与DE间跨特拉华河桥梁： 
+#### * 【Hot】NJ与DE间跨特拉华河桥梁
 * Delaware Memorial Br(I-295)   
 资费标准：    
 https://www.delawarememorialbridge.com/dmb-travel   
@@ -149,14 +148,14 @@ https://www.delawarememorialbridge.com/dmb-travel
   1. 这是跨越特拉华河最南边的桥,也是NJ唯一直连DE的桥   
   2. 进入DE方向单向收费   
 
-#### * NJ和费城跨特拉华河桥梁：     
+#### * NJ与费城间跨特拉华河桥梁     
 * Betsy Ross Br(NJ90), Ben Franklin Br(I-676), Walt Whitman Br(I-76) and Commodore Barry Br(US322)   
 资费标准：   
 http://www.drpa.org/travel/toll-schedule.html    
 【Toll】$5   
 提示：进入费城方向单向收费    
 
-#### * NJ和PA（除费城）跨特拉华河收费桥梁：   
+#### * NJ与PA（除费城）间跨特拉华河收费桥梁   
 * 【Hot】Trenton-Morrisville Br(US1),【Hot】Scudder Falls Br(I-295),    
 New Hope-Lambertville Br(US202), 【Hot】I-78, Easton-Phillipsburg Br(US22),   
 Portland-Columbia Br,【Hot】Delaware Water Gap Br(I-80), Milford-Montague Br(US206)   
@@ -180,7 +179,7 @@ https://www.bcbridges.org/toll-rates-e-zpass
 https://dcdbc.com/ratesandrestr.php   
 【Toll】$1   
 
-#### * NJ和PA（除费城）跨特拉华河免费桥梁：   
+#### * NJ与PA（除费城）间跨特拉华河免费桥梁：   
 * 【Hot】US1 旁边的Lower Trenton Br（Trenton Makes）除非一定要走免费道路，否则不推荐,   
 具有历史意义的Washington Crossing Br,   
 US202旁边的New Hope-Lambertville Br和Centre Bridge-Stockton Br,   
@@ -189,7 +188,7 @@ Upper Black Eddy–Milford Br,
 Riegelsville Br,   
 US22旁边的Northampton Street Br,   
 最北的Riverton–Belvidere Br   
-* 免费NJ/PA间跨州桥梁：   
+* 免费NJ与PA间跨州桥梁：   
 https://nj1015.com/10-toll-free-bridges-connecting-nj-and-pa/   
 
 #### * Atlantic City Expressway：   
@@ -204,7 +203,7 @@ https://www.cmlf.com/schedules-fares
 
 ———————————————————————    
 ## 公共交通出行类    
-#### * NJ及NY公路铁路客运：   
+#### * NJ及NY公路铁路客运   
 * NJ官网：   
 https://www.state.nj.us/nj/trans/buses/   
 **【Hot】NJ Transit**：   
@@ -223,7 +222,7 @@ https://www.panynj.gov/path/en/index.html
 Amtrak官网：   
 https://www.amtrak.com/home.html   
 
-#### * NJ与NY水路客运：   
+#### * NJ与NY水路客运   
 * **【推荐】NY/NJ港口航线图**：   
 https://www.panynj.gov/port-authority/en/help-center/ferries.html   
 * **【推荐】NJ与NY之间跨哈德逊河的NY Waterway**：   
@@ -233,7 +232,7 @@ https://www.libertylandingcityferry.com/
 * Highlands, NJ往返NYC：   
 https://seastreak.com/ferry-routes-and-schedules/   
 
-#### * NYC内水路客运：   
+#### * NYC内水路客运   
 * **【强推】往返于Battery Park City或Midtown West和St George Terminal, SI之间的快艇单程$2.75，15分钟抵达Downtown！！**   
 * 免费轮渡：史丹顿岛轮渡Staten Island Ferry   
 * 收费轮渡：NYC Ferry：   
@@ -243,13 +242,13 @@ https://nywatertaxi.com/
 
 ———————————————————————    
 ## 违章处理类    
-#### * NJ路费违章violation处理：   
+#### * NJ路费违章violation处理   
 * https://www.ezpassnj.com/vector/violations/violationInquiry.do?locale=en_US&from=Home&btnLogin.x=1&formid=frmViol   
 
-#### * NY路费违章处理：   
+#### * NY路费违章处理   
 * https://www.e-zpassny.com/vector/violations/violationInquiry.do?locale=en_US&from=Home   
 
-#### * NYC交罚单及申诉：   
+#### * NYC交罚单及申诉   
 * https://www1.nyc.gov/site/finance/vehicles/dispute-a-ticket.page 或 Pay or Dispute App   
 
 ——————————————————————— 
