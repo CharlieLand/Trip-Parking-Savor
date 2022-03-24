@@ -67,7 +67,7 @@ https://www.ezpassnj.com/en/about/plans.shtml
 条款（月费$1）：   
 https://www.ezpassnj.com/vector/retailers/tollTagRegistrationNewCustomer.do   
 
-#### * NY EZPass通勤折扣计划：   
+#### * NY EZPass   
 * 通勤折扣计划：   
 https://www.e-zpassny.com/en/about/plans.shtml   
 条款（月费PANYNJ版$1，【强推】MTA及NYSBA版免费）：   
