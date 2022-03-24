@@ -76,7 +76,6 @@ https://www.e-zpassny.com/en/faq/paypertrip.shtml#:~:text=PAY%20PER%20TRIP%20is%
 
 #### * 【强推】PANYNJ PASI Plan 史岛桥梁折扣计划 及 PANYNJ PACP 3人及以上共乘Carpool优惠计划介绍：   
 * https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts   
-
 【推荐】NY EZPass：网上注册（月费$1）或 NYC/NYS 实体店购买on-the-go tag（无月费），   
 选择Standard Plan、PACP、PASI，   
 绑定银行账户和一张信用卡后将充值方式Autopay改成Pay-Per-Trip(PPT)，   
@@ -85,8 +84,8 @@ https://www.e-zpassny.com/en/faq/paypertrip.shtml#:~:text=PAY%20PER%20TRIP%20is%
 ———————————————————————    
 ## 道路收费类      
 #### * 【HOT】PANYNJ NY与NJ州际收费桥梁隧道：   
-从NJ进入曼岛：**Holland Tunnel(HT)**, **Lincoln Tunnel(LT)**, **George Washington Bridge(GWB)**,     
-从NJ进入史岛：**Outerbridge Crossing(OBX)**, Goethals Bridge(GB), Bayonne Bridge(BB)   
+* 从NJ进入曼岛：**Holland Tunnel(HT)**, **Lincoln Tunnel(LT)**, **George Washington Bridge(GWB)**,     
+* 从NJ进入史岛：**Outerbridge Crossing(OBX)**, Goethals Bridge(GB), Bayonne Bridge(BB)   
 提示：1. 进入NYC方向单向收费   
 2. LT 及 GWB 上层Upper Level可以走人工收费通道告知收费员3人及以上的Carpool，即使用PACP   
 https://www.panynj.gov/bridges-tunnels/en/tolls.html   
@@ -98,7 +97,7 @@ https://www.panynj.gov/bridges-tunnels/en/tolls.html
 
 
 #### * NJ Turnpike 及 GS Pkwy：   
-提示：1.【推荐】NJTP 走Truck车道部分路段有3人及以上Carpool Lane（钻石共乘车道）   
+* 提示：1.【推荐】NJTP 走Truck车道部分路段有3人及以上Carpool Lane（钻石共乘车道）   
 2. 享受NJTP平峰折扣需要使用NJ EZPass   
 3.【强推】GS Pkwy出口130A（US1 North入口）到140A（US22 East）之间免费通行   
 路费计算器：   
@@ -110,7 +109,6 @@ https://www.njta.com/toll-calculator
 * **Bk与曼岛间：Hugh L. Carey Tunnel**   
 * Bronx与法拉盛之间：Bronx-Whitestone Bridge   
 * Bronx与曼岛之间：Henry Hudson Bridge   
-
 【Toll】$6.55(NY EZP)/10.17(NJ EZP)/8.36(Improperly Mounted NY EZP)   
 提示：1. NJ EZPass按照 Tolls By Mail $10.17   
 2. 双向收费   
@@ -132,13 +130,13 @@ Kingston-Rhinecliff Br, Rip Van Winkle Br
 https://nysba.ny.gov/toll-rates   
 
 #### * 【推荐】NJ与DE间Delaware Memorial Br(I-295)：  
-【Toll】$4.75(NJ/DE EZP)/$5(NY EZP)   
+* 【Toll】$4.75(NJ/DE EZP)/$5(NY EZP)   
 提示：1. 这是跨越特拉华河最南边的桥,也是NJ唯一直连DE的桥   
 2. 进入DE方向单向收费   
 https://www.delawarememorialbridge.com/dmb-travel   
 
 #### * NJ和费城跨特拉华河桥梁：     
-Betsy Ross Br(NJ90), Ben Franklin Br(I-676), Walt Whitman Br(I-76) and Commodore Barry Br(US322)   
+* Betsy Ross Br(NJ90), Ben Franklin Br(I-676), Walt Whitman Br(I-76) and Commodore Barry Br(US322)   
 【Toll】$5 
 提示：进入费城方向单向收费    
 http://www.drpa.org/travel/toll-schedule.html   
@@ -155,7 +153,6 @@ https://www.paturnpike.com/toll-calculator/toll-schedules
 * Burlington County跨特拉华河桥梁Tacony-Palmyra Br(NJ73), Burlington-Bristol Br(NJ413)：   
 【Toll】$3   
 https://www.bcbridges.org/toll-rates-e-zpass   
-
 提示：1. 以上桥梁进入PA方向单向收费   
 2. PA对EZPass一视同仁，资费一致   
 
@@ -165,7 +162,7 @@ https://dcdbc.com/ratesandrestr.php
   
 
 #### * NJ和PA（除费城）跨特拉华河免费桥梁：   
-【Hot】US1 旁边的Lower Trenton Br（Trenton Makes）除非一定要走免费道路，否则不推荐,   
+* 【Hot】US1 旁边的Lower Trenton Br（Trenton Makes）除非一定要走免费道路，否则不推荐,   
 具有历史意义的Washington Crossing Br,   
 US202旁边的New Hope-Lambertville Br和Centre Bridge-Stockton Br,   
 Uhlerstown–Frenchtown Br,   
@@ -177,17 +174,17 @@ US22旁边的Northampton Street Br,
 https://nj1015.com/10-toll-free-bridges-connecting-nj-and-pa/   
 
 #### * Atlantic City Expressway：   
-https://www.sjta.com/acexpressway/toll_info.asp   
+* https://www.sjta.com/acexpressway/toll_info.asp   
 
 #### * Cape May County Bridges：   
-https://capemaycountynj.gov/657/Toll-Schedule   
+* https://capemaycountynj.gov/657/Toll-Schedule   
 Cape May, NJ轮渡去Lewes, DE（昂贵，不推荐）：   
 https://www.cmlf.com/schedules-fares   
 
 ———————————————————————    
 ## 公共交通出行类    
 #### * NJ及NY公路铁路客运：   
-NJ官网：   
+* NJ官网：   
 https://www.state.nj.us/nj/trans/buses/   
 **【Hot】NJ Transit**：   
 https://www.njtransit.com/   
@@ -206,33 +203,33 @@ Amtrak官网：
 https://www.amtrak.com/home.html   
 
 #### * NJ与NY水路客运：   
-**【推荐】NY/NJ港口航线图**：   
+* **【推荐】NY/NJ港口航线图**：   
 https://www.panynj.gov/port-authority/en/help-center/ferries.html   
-**【推荐】NJ与NY之间跨哈德逊河的NY Waterway**：   
+* **【推荐】NJ与NY之间跨哈德逊河的NY Waterway**：   
 https://www.nywaterway.com/ferryroutesschedules.aspx   
-Liberty Landing Ferry靠近Liberty State Park：   
+* Liberty Landing Ferry靠近Liberty State Park：   
 https://www.libertylandingcityferry.com/   
-Highlands, NJ往返NYC：   
+* Highlands, NJ往返NYC：   
 https://seastreak.com/ferry-routes-and-schedules/   
 
 #### * NYC内水路客运：   
-**【强推】往返于Battery Park City或Midtown West和St George Terminal, SI之间的快艇单程$2.75，15分钟抵达Downtown！！**   
-免费轮渡：史丹顿岛轮渡Staten Island Ferry   
-收费轮渡：NYC Ferry：   
+* **【强推】往返于Battery Park City或Midtown West和St George Terminal, SI之间的快艇单程$2.75，15分钟抵达Downtown！！**   
+* 免费轮渡：史丹顿岛轮渡Staten Island Ferry   
+* 收费轮渡：NYC Ferry：   
 https://www.ferry.nyc/routes-and-schedules/   
-Downtown往返IKEA的NY Water Taxi：   
+* Downtown往返IKEA的NY Water Taxi：   
 https://nywatertaxi.com/   
 
 ———————————————————————    
 ## 违章处理类    
 #### * NJ路费违章violation处理：   
-https://www.ezpassnj.com/vector/violations/violationInquiry.do?locale=en_US&from=Home&btnLogin.x=1&formid=frmViol   
+* https://www.ezpassnj.com/vector/violations/violationInquiry.do?locale=en_US&from=Home&btnLogin.x=1&formid=frmViol   
 
 #### * NY路费违章处理：   
-https://www.e-zpassny.com/vector/violations/violationInquiry.do?locale=en_US&from=Home   
+* https://www.e-zpassny.com/vector/violations/violationInquiry.do?locale=en_US&from=Home   
 
 #### * NYC交罚单及申诉：   
-https://www1.nyc.gov/site/finance/vehicles/dispute-a-ticket.page 或 Pay or Dispute App   
+* https://www1.nyc.gov/site/finance/vehicles/dispute-a-ticket.page 或 Pay or Dispute App   
 
 ——————————————————————— 
 ## 攻略区    
