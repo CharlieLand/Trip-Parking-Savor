@@ -86,27 +86,24 @@ https://www.e-zpassny.com/en/faq/paypertrip.shtml#:~:text=PAY%20PER%20TRIP%20is%
 #### * 【HOT】PANYNJ NY与NJ州际收费桥梁隧道：   
 * 从NJ进入曼岛：**Holland Tunnel(HT)**, **Lincoln Tunnel(LT)**, **George Washington Bridge(GWB)**,     
 * 从NJ进入史岛：**Outerbridge Crossing(OBX)**, Goethals Bridge(GB), Bayonne Bridge(BB)   
-
-* 提示：
-  1. 进入NYC方向单向收费   
-  2. LT 及 GWB 上层Upper Level可以走人工收费通道告知收费员3人及以上的Carpool，即使用PACP   
-
-* https://www.panynj.gov/bridges-tunnels/en/tolls.html   
+* 资费标准：
+https://www.panynj.gov/bridges-tunnels/en/tolls.html   
 【Toll】使用NJ EZP或 NY EZP行驶 HT, LT, GWB 或者一个自然月内PASI不足3次：高峰期$13.75，平峰期$11.75； PACP：$7.75； PASI：$6.88     
 外州EZPass或邮寄路费Tolls by Mail：$16
 高峰期: 工作日6\~10 am, 4\~8 pm； 周六周日: 11 am \~ 9 pm    
 【强推】从OBX/GB进入SI，将车停放在 St George Terminal 后有免费的 Staten Island Ferry 前往 Downtown 及 单程收费$2.75的 NYC Ferry 前往 WTC 或 Midtown West；     
 史岛SGT码头附近有Empire Outlet附属SP+停车场 及 码头附属Municipal Metered停车场。SP+停车场在Groupon上24hr仅需$9.5，Municipal $1.5/hr 上限18hr $12   
-
+* 提示：    
+  1. 进入NYC方向单向收费   
+  2. LT 及 GWB 上层Upper Level可以走人工收费通道告知收费员3人及以上的Carpool，即使用PACP   
 
 #### * NJ Turnpike 及 GS Pkwy：   
-* 提示：
+* 路费计算器：   
+https://www.njta.com/toll-calculator   
+* 提示：   
   1. 【推荐】NJTP 走Truck车道部分路段有3人及以上Carpool Lane（钻石共乘车道）   
   2. 享受NJTP平峰折扣需要使用NJ EZPass   
   3. 【强推】GS Pkwy出口130A（US1 North入口）到140A（US22 East）之间免费通行   
-
-* 路费计算器：   
-https://www.njta.com/toll-calculator   
 
 #### * NYC MTA收费公路：   
 * **【Hot】史丹顿岛与布鲁克林间：Verrazzano-Narrows Bridge**   
@@ -114,11 +111,12 @@ https://www.njta.com/toll-calculator
 * **Bk与曼岛间：Hugh L. Carey Tunnel**   
 * Bronx与法拉盛之间：Bronx-Whitestone Bridge   
 * Bronx与曼岛之间：Henry Hudson Bridge   
+* 资费标准：    
+https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars   
+【Toll】$6.55(NY EZP)/10.17(NJ EZP)/8.36(Improperly Mounted NY EZP)  
 * 提示：
   1. NJ EZPass按照 Tolls By Mail $10.17   
-  2. 双向收费   
-* https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars   
-【Toll】$6.55(NY EZP)/10.17(NJ EZP)/8.36(Improperly Mounted NY EZP)   
+  2. 双向收费    
 
 #### * NYS收费公路：
 * Thruway Authority：前往新英格兰：Gov. Mario M. Cuomo Br(MCB,I-287) 及 Castleton-on-Hudson(I87 to I-90 connector) Br   
@@ -133,42 +131,49 @@ https://www.thruway.ny.gov/news/pressrel/2021/12/2021-12-20-gmmcb-toll-increase.
 熊山大桥Bear Mountain Br(US202), Newburgh-Beacon Br(I-84), Mid-Hudson Br(US44),   
 Kingston-Rhinecliff Br, Rip Van Winkle Br   
 【Toll】$1.45   
+资费标准：    
 https://nysba.ny.gov/toll-rates   
 
 #### * 【推荐】NJ与DE间跨特拉华河桥梁： 
 * Delaware Memorial Br(I-295)   
+资费标准：    
+https://www.delawarememorialbridge.com/dmb-travel   
 【Toll】$4.75(NJ/DE EZP)/$5(NY EZP)   
 提示：
   1. 这是跨越特拉华河最南边的桥,也是NJ唯一直连DE的桥   
   2. 进入DE方向单向收费   
-https://www.delawarememorialbridge.com/dmb-travel   
 
 #### * NJ和费城跨特拉华河桥梁：     
 * Betsy Ross Br(NJ90), Ben Franklin Br(I-676), Walt Whitman Br(I-76) and Commodore Barry Br(US322)   
-【Toll】$5 
-* 提示：进入费城方向单向收费    
+资费标准：   
 http://www.drpa.org/travel/toll-schedule.html   
+【Toll】$5   
+提示：
+  进入费城方向单向收费    
 
 #### * NJ和PA（除费城）跨特拉华河收费桥梁：   
 * 【Hot】Trenton-Morrisville Br(US1),【Hot】Scudder Falls Br(I-295),    
 New Hope-Lambertville Br(US202), 【Hot】I-78, Easton-Phillipsburg Br(US22),   
 Portland-Columbia Br,【Hot】Delaware Water Gap Br(I-80), Milford-Montague Br(US206)   
+资费标准：   
+https://www.drjtbc.org/travel-info/toll-rates 
 【Toll】$1.25   
-https://www.drjtbc.org/travel-info/toll-rates   
 * Delaware River Br(I-95) 连接 PA Turnpike（很贵，非常不推荐）：   
-【Toll】$6.5/8.7   
+资费标准：   
 https://www.paturnpike.com/toll-calculator/toll-schedules   
+【Toll】$6.5/8.7   
 * Burlington County跨特拉华河桥梁Tacony-Palmyra Br(NJ73), Burlington-Bristol Br(NJ413)：   
-【Toll】$3   
+资费标准：   
 https://www.bcbridges.org/toll-rates-e-zpass   
+【Toll】$3   
 * 提示：
   1. 以上桥梁进入PA方向单向收费   
   2. PA对EZPass一视同仁，资费一致   
 
 * 私人收费桥梁Dingmans Ferry Br(NJ739)：   
-【Toll】$1   
+资费标准：   
 https://dcdbc.com/ratesandrestr.php   
-  
+【Toll】$1   
 
 #### * NJ和PA（除费城）跨特拉华河免费桥梁：   
 * 【Hot】US1 旁边的Lower Trenton Br（Trenton Makes）除非一定要走免费道路，否则不推荐,   
@@ -179,15 +184,17 @@ Upper Black Eddy–Milford Br,
 Riegelsville Br,   
 US22旁边的Northampton Street Br,   
 最北的Riverton–Belvidere Br   
-免费NJ/PA间跨州桥梁：   
+* 免费NJ/PA间跨州桥梁：   
 https://nj1015.com/10-toll-free-bridges-connecting-nj-and-pa/   
 
 #### * Atlantic City Expressway：   
-* https://www.sjta.com/acexpressway/toll_info.asp   
+* 资费标准：   
+https://www.sjta.com/acexpressway/toll_info.asp   
 
 #### * Cape May County Bridges：   
-* https://capemaycountynj.gov/657/Toll-Schedule   
-Cape May, NJ轮渡去Lewes, DE（昂贵，不推荐）：   
+* 资费标准：   
+https://capemaycountynj.gov/657/Toll-Schedule   
+* Cape May, NJ轮渡去Lewes, DE（昂贵，不推荐）：   
 https://www.cmlf.com/schedules-fares   
 
 ———————————————————————    
