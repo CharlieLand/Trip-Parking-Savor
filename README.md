@@ -76,7 +76,7 @@ https://www.e-zpassny.com/en/faq/paypertrip.shtml#:~:text=PAY%20PER%20TRIP%20is%
 #### * 【强推】PANYNJ PASI Plan 史岛桥梁折扣计划 及 PANYNJ PACP 3人及以上共乘Carpool优惠计划介绍：   
 https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts   
 
-【推荐】NY EZPass：网上注册（月费$1） 或 NYC/NYS 实体店购买on-the-go tag（无月费），   
+【推荐】NY EZPass：网上注册（月费$1）或 NYC/NYS 实体店购买on-the-go tag（无月费），   
 选择Standard Plan、PACP、PASI，   
 绑定银行账户和一张信用卡后将充值方式Autopay改成Pay-Per-Trip(PPT)，   
 将退还tag的押金$10，防止从信用卡中被自动扣巨款！   
@@ -89,7 +89,7 @@ https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts
 提示：1. 进入NYC方向单向收费   
 2. LT 及 GWB 上层Upper Level可以走人工收费通道告知收费员3人及以上的Carpool，即使用PACP   
 https://www.panynj.gov/bridges-tunnels/en/tolls.html   
-Toll：使用NJ EZP或 NY EZP行驶 HT, LT, GWB 或者一个自然月内PASI不足3次：高峰期$13.75，平峰期$11.75； PACP：$7.75； PASI：$6.88     
+【Toll】使用NJ EZP或 NY EZP行驶 HT, LT, GWB 或者一个自然月内PASI不足3次：高峰期$13.75，平峰期$11.75； PACP：$7.75； PASI：$6.88     
 外州EZPass或邮寄路费Tolls by Mail：$16
 高峰期: 工作日6\~10 am, 4\~8 pm； 周六周日: 11 am \~ 9 pm    
 【强推】从OBX/GB进入SI，将车停放在 St George Terminal 后有免费的 Staten Island Ferry 前往 Downtown 及 单程收费$2.75的 NYC Ferry 前往 WTC 或 Midtown West；     
@@ -97,9 +97,9 @@ Toll：使用NJ EZP或 NY EZP行驶 HT, LT, GWB 或者一个自然月内PASI不�
 
 
 #### * NJ Turnpike 及 GS Pkwy：   
-提示：1. 【推荐】NJTP 走Truck车道部分路段有3人及以上Carpool Lane（钻石共乘车道）   
+提示：1.【推荐】NJTP 走Truck车道部分路段有3人及以上Carpool Lane（钻石共乘车道）   
 2. 享受NJTP平峰折扣需要使用NJ EZPass   
-3. 【强推】GS Pkwy出口130A（US1 North入口）到140A（US22 East）之间免费通行   
+3.【强推】GS Pkwy出口130A（US1 North入口）到140A（US22 East）之间免费通行   
 路费计算器：   
 https://www.njta.com/toll-calculator   
 
@@ -109,7 +109,7 @@ https://www.njta.com/toll-calculator
 * **Bk与曼岛间：Hugh L. Carey Tunnel**   
 * Bronx与法拉盛之间：Bronx-Whitestone Bridge   
 * Bronx与曼岛之间：Henry Hudson Bridge   
-Toll: $6.55(NY EZP)/10.17(NJ EZP)/8.36(Improperly Mounted NY EZP)   
+【Toll】$6.55(NY EZP)/10.17(NJ EZP)/8.36(Improperly Mounted NY EZP)   
 提示：1. NJ EZPass按照 Tolls By Mail $10.17:   
 2. 双向收费   
 https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars   
@@ -119,25 +119,25 @@ https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars
 路费计算器：   
 https://wwwapps.thruway.ny.gov/tollcalculator/   
 【Hot】M. Cuomo Br：   
-Toll:$5.75   
+【Toll】$5.75   
 提示：自西向东单向收费   
 https://www.thruway.ny.gov/news/pressrel/2021/12/2021-12-20-gmmcb-toll-increase.html   
 
-* NYSBA：   
-Toll:$1.45   
+* NYSBA：      
 熊山大桥Bear Mountain Br(US202), Newburgh-Beacon Br(I-84), Mid-Hudson Br(US44),   
 Kingston-Rhinecliff Br, Rip Van Winkle Br   
+【Toll】$1.45
 https://nysba.ny.gov/toll-rates   
 
 #### * 【推荐】NJ与DE间Delaware Memorial Br(I-295)：  
-Toll:$4.75(NJ/DE EZP)/$5(NY EZP)   
+【Toll】$4.75(NJ/DE EZP)/$5(NY EZP)   
 提示：1. 这是跨越特拉华河最南边的桥,也是NJ唯一直连DE的桥   
 2. 进入DE方向单向收费   
 https://www.delawarememorialbridge.com/dmb-travel   
 
-#### * NJ和费城跨特拉华河桥梁：   
-Toll:$5   
+#### * NJ和费城跨特拉华河桥梁：     
 Betsy Ross Br(NJ90), Ben Franklin Br(I-676), Walt Whitman Br(I-76) and Commodore Barry Br(US322)   
+【Toll】$5 
 提示：进入费城方向单向收费    
 http://www.drpa.org/travel/toll-schedule.html   
 
@@ -145,18 +145,18 @@ http://www.drpa.org/travel/toll-schedule.html
 * 【Hot】Trenton-Morrisville Br(US1),【Hot】Scudder Falls Br(I-295),    
 New Hope-Lambertville Br(US202), 【Hot】I-78, Easton-Phillipsburg Br(US22),   
 Portland-Columbia Br,【Hot】Delaware Water Gap Br(I-80), Milford-Montague Br(US206)   
-Toll:$1.25   
+【Toll】$1.25   
 https://www.drjtbc.org/travel-info/toll-rates   
 * Delaware River Br(I-95) 连接 PA Turnpike（很贵，非常不推荐）：   
-Toll:$6.5/8.7   
+【Toll】$6.5/8.7   
 https://www.paturnpike.com/toll-calculator/toll-schedules   
 * Burlington County跨特拉华河桥梁Tacony-Palmyra Br(NJ73), Burlington-Bristol Br(NJ413)：   
-Toll:$3   
+【Toll】$3   
 https://www.bcbridges.org/toll-rates-e-zpass   
 提示：1. 以上桥梁进入PA方向单向收费   
 2. PA对EZPass一视同仁，资费一致
 * 私人收费桥梁Dingmans Ferry Br(NJ739)：   
-Toll:$1   
+【Toll】$1   
 https://dcdbc.com/ratesandrestr.php   
   
 
