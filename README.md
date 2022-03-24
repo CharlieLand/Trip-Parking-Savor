@@ -47,25 +47,26 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
 ———————————————————————    
 ## 停车类   
 #### * NYC停车   
-路边停车告示标志地图：   
+* 路边停车告示标志地图：   
 https://nycdotsigns.net/   
-咪表停车Metered Parking缴费及ParkNYC手机App：   
+* 咪表停车Metered Parking缴费及ParkNYC手机App：   
 https://parknyc.parkmobile.us/parknyc/   
 
-#### * 实用停车位寻找预订App：   
-SpotHero街边, SpotAngels街边,    
-ParkWhiz预订, 
-【Hot】ParkMobile街边及预订，还可以替代ParkNYC！！   
+#### * 实用停车位寻找预订App   
+* SpotHero街边,   
+* SpotAngels街边,    
+* ParkWhiz预订,   
+* 【Hot】ParkMobile街边及预订，还可以替代ParkNYC！！   
 
 ———————————————————————    
 ## EZPass类   
 #### * NJ EZPass通勤折扣计划：   
-https://www.ezpassnj.com/en/about/plans.shtml    
+* https://www.ezpassnj.com/en/about/plans.shtml    
 条款（月费$1）：   
 https://www.ezpassnj.com/vector/retailers/tollTagRegistrationNewCustomer.do   
 
 #### * NY EZPass通勤折扣计划：   
-https://www.e-zpassny.com/en/about/plans.shtml   
+* https://www.e-zpassny.com/en/about/plans.shtml   
 条款（月费PANYNJ版$1，【强推】MTA及NYSBA版免费）：   
 https://www.e-zpassny.com/en/about/terms_ind.shtml   
 【推荐】on-the-go tag 购买地点：   
@@ -74,7 +75,7 @@ https://www.e-zpassny.com/en/onthego/locations.shtml
 https://www.e-zpassny.com/en/faq/paypertrip.shtml#:~:text=PAY%20PER%20TRIP%20is%20the,account%20balance%20is%20not%20required.   
 
 #### * 【强推】PANYNJ PASI Plan 史岛桥梁折扣计划 及 PANYNJ PACP 3人及以上共乘Carpool优惠计划介绍：   
-https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts   
+* https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts   
 
 【推荐】NY EZPass：网上注册（月费$1）或 NYC/NYS 实体店购买on-the-go tag（无月费），   
 选择Standard Plan、PACP、PASI，   
