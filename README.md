@@ -11,8 +11,8 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
 * 国道     US Route，如US1，US9，US22等   
 * 州道     State Route，如NJ18，NJ27，NY440等   
 * 县道     County Route，如Middle Sex529等   
-* 收费公路  Turnpike，如NJ Turnpike，PA Turnpike   
-* 花园道路  Parkway，如Garden State Parkway(GS Pkwy)，Belt Parkway   
+* 收费公路  Turnpike，如NJ Turnpike，PA Turnpike等   
+* 花园道路  Parkway，如Garden State Parkway(GS Pkwy)，Belt Parkway等   
 
 #### 常见缩写
 * NJ      | New Jersey 新泽西州   
