@@ -109,8 +109,9 @@ https://www.njta.com/toll-calculator
 * **Bk与曼岛间：Hugh L. Carey Tunnel**   
 * Bronx与法拉盛之间：Bronx-Whitestone Bridge   
 * Bronx与曼岛之间：Henry Hudson Bridge   
+
 【Toll】$6.55(NY EZP)/10.17(NJ EZP)/8.36(Improperly Mounted NY EZP)   
-提示：1. NJ EZPass按照 Tolls By Mail $10.17:   
+提示：1. NJ EZPass按照 Tolls By Mail $10.17；   
 2. 双向收费   
 https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars   
 
@@ -118,6 +119,7 @@ https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars
 * Thruway Authority：前往新英格兰：Gov. Mario M. Cuomo Br(MCB,I-287) 及 Castleton-on-Hudson(I87 to I-90 connector) Br   
 路费计算器：   
 https://wwwapps.thruway.ny.gov/tollcalculator/   
+
 【Hot】M. Cuomo Br：   
 【Toll】$5.75   
 提示：自西向东单向收费   
@@ -126,6 +128,7 @@ https://www.thruway.ny.gov/news/pressrel/2021/12/2021-12-20-gmmcb-toll-increase.
 * NYSBA：      
 熊山大桥Bear Mountain Br(US202), Newburgh-Beacon Br(I-84), Mid-Hudson Br(US44),   
 Kingston-Rhinecliff Br, Rip Van Winkle Br   
+
 【Toll】$1.45
 https://nysba.ny.gov/toll-rates   
 
