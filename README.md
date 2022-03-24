@@ -136,9 +136,9 @@ Kingston-Rhinecliff Br, Rip Van Winkle Br
 https://nysba.ny.gov/toll-rates   
 
 #### * 【推荐】NJ与DE间： 
-* Delaware Memorial Br(I-295)
+* Delaware Memorial Br(I-295)   
 【Toll】$4.75(NJ/DE EZP)/$5(NY EZP)   
-* 提示：
+提示：
   1. 这是跨越特拉华河最南边的桥,也是NJ唯一直连DE的桥   
   2. 进入DE方向单向收费   
 
