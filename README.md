@@ -124,9 +124,9 @@ https://wwwapps.thruway.ny.gov/tollcalculator/
 提示：自西向东单向收费   
 https://www.thruway.ny.gov/news/pressrel/2021/12/2021-12-20-gmmcb-toll-increase.html   
 
-* NYSBA：      
-* 熊山大桥Bear Mountain Br(US202), Newburgh-Beacon Br(I-84), Mid-Hudson Br(US44),   
-... Kingston-Rhinecliff Br, Rip Van Winkle Br   
+* NYSBA：   
+熊山大桥Bear Mountain Br(US202), Newburgh-Beacon Br(I-84), Mid-Hudson Br(US44),   
+Kingston-Rhinecliff Br, Rip Van Winkle Br   
 【Toll】$1.45
 https://nysba.ny.gov/toll-rates   
 
