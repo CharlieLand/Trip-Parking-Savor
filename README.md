@@ -85,7 +85,7 @@ https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts
 ## 道路收费类      
 #### * 【HOT】PANYNJ NY与NJ州际收费桥梁隧道：   
 从NJ进入曼岛：**Holland Tunnel(HT)**, **Lincoln Tunnel(LT)**, **George Washington Bridge(GWB)**,     
-从NJ进入史岛：**Outerbridge Crossing(OBX)**, Goethals Bridge(GB) and Bayonne Bridge(BB)   
+从NJ进入史岛：**Outerbridge Crossing(OBX)**, Goethals Bridge(GB), Bayonne Bridge(BB)   
 提示：1. 进入NYC方向单向收费   
 2. LT 及 GWB 上层Upper Level可以走人工收费通道告知收费员3人及以上的Carpool，即使用PACP   
 https://www.panynj.gov/bridges-tunnels/en/tolls.html   
