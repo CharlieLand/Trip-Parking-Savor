@@ -1,7 +1,7 @@
 # Trip-Parking-Savor
 The repo is to reduce your cost on tolls, parking fees, and other transportation fares within the NYC Bay Area(NJ Mainly).   
 
-更新于4/22/2022， 欢迎提出意见和建议   
+更新于4/23/2022， 欢迎提出意见和建议   
 
 【Note】电子狗（雷达监测器）购买推荐：https://www.bestbuy.com/site/escort-x80-radar-detector-black/5797708.p?skuId=5797708 感谢群友Jchen的分享：与Waze并用效果更佳   
 【New】荷兰隧道林肯隧道夜间进入纽约方向施工信息敬请关注Port Authority官网   
@@ -313,7 +313,7 @@ https://www.ezdrivema.com/TollCalculator
 Toll:$1.96+1.96+5.75+3.95 \~ 4.65=$13.62 \~ 14.32（去程），$3.95 \~ 4.65+1.96+1.96=$7.87 \~ 8.57（回程）   
 提示：如果一路从 I-287 North前往Gov. Mario M. Cuomo Br可节省$3.92   
 
-#### * 【Hot】RUNB区域前往DC（浪漫樱花之旅）   
+#### * RUNB区域前往MD/DC/VA   
 * 沿 US1 South 过了 Princeton 后上 I-295 East， 直到 Delaware Memorial Br（NJ EZP $4.75, NY EZP $5）。    
 * 继续沿 I-95 到 DE/MD 边界时从最后一个出口右转绕行 DE896、DE4、MD279，过了边界后继续走 I-95，I-95 Express Lane收费$1.93（高峰）/1.49（平峰）/0.61（夜间）。   
 * Baltimore市区视路况选择：Fort McHenry Tunnel(I-95) 或 Baltimore Harbor Tunnel(I-895) 或 Francis Scott Key Br(I-695)   
