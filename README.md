@@ -19,7 +19,7 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
 4. [EZPass类](#EZPass类)
     - [NJ EZPass](#NJ-EZPass)
     - [NY EZPass](#NY-EZPass)
-    - [【强推】PANYNJ PASI及PACP](#【强推-PANYNJ-PASI-Plan-史岛桥梁折扣计划-及-PANYNJ-PACP-3人及以上共乘Carpool优惠计划)
+    - [【强推】PANYNJ PASI及PACP](#【强推】-PANYNJ-PASI-Plan-史岛桥梁折扣计划-及-PANYNJ-PACP-3人及以上共乘Carpool优惠计划)
 5. [道路收费类](#道路收费类)
     - [【HOT】PANYNJ NY与NJ州际收费桥梁隧道](#【HOT】PANYNJ-NY与NJ州际收费桥梁隧道)
     - [NJ Turnpike及【HOT】GS Pkwy](#NJ-Turnpike及【HOT】GS-Pkwy)
