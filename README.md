@@ -52,8 +52,18 @@ https://osmand.net/features/start
 ———————————————————————    
 ## 停车类   
 #### * NYC停车   
+* 停车规定：   
+https://www1.nyc.gov/html/dot/html/motorist/parking-regulations.shtml   
+* 换边停车说明：   
+https://www1.nyc.gov/html/dot/html/motorist/alternate-side-parking.shtml   
 * 路边停车告示标志地图：   
 https://nycdotsigns.net/   
+* 路边停车资费：   
+https://www1.nyc.gov/html/dot/html/motorist/parking-rates.shtml   
+* 市政停车场Municipal Parking地图：   
+https://www1.nyc.gov/html/dot/html/motorist/parkinglist.shtml   
+* 每周交通提示：   
+https://www1.nyc.gov/html/dot/html/motorist/weektraf.shtml   
 * 咪表停车Metered Parking缴费及ParkNYC手机App：   
 https://parknyc.parkmobile.us/parknyc/   
 
