@@ -22,7 +22,7 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
     - [【强推】PANYNJ PASI及PACP](#【强推】PANYNJ-PASI-Plan-史岛桥梁折扣计划-及-PANYNJ-PACP-3人及以上共乘Carpool优惠计划)
 5. [道路收费类](#道路收费类)
     - [【HOT】PANYNJ NY与NJ州际收费桥梁隧道](#【HOT】PANYNJ-NY与NJ州际收费桥梁隧道)
-    - [NJ Turnpike 及【HOT】GS Pkwy](#NJ-Turnpike-及-【HOT】GS Pkwy)
+    - [NJ Turnpike及【HOT】GS Pkwy](#NJ-Turnpike及【HOT】GS-Pkwy)
     - [NYC MTA收费公路](#NYC-MTA收费公路)
     - [NYS收费公路](#NYS收费公路)
     - [【Hot】NJ与DE间跨特拉华河桥梁](#【Hot】NJ与DE间跨特拉华河桥梁)
@@ -162,7 +162,7 @@ https://www.panynj.gov/bridges-tunnels/en/tolls.html
   E. 3人白天从林肯隧道/乔治华盛顿大桥上层进NYC中城，晚上从OBX/GB/BB回NJ，必经Verrazano大桥。收费：NY:$7.75+6.55=$14.3；NJ:$7.75+10.17=$17.92；外州EZPass或无EZPass统一收$16+10.17=$26.17。   
 
 
-#### NJ Turnpike 及 【HOT】GS Pkwy   
+#### NJ Turnpike及【HOT】GS Pkwy   
 * 路费计算器：   
 https://www.njta.com/toll-calculator   
 * 提示：   
