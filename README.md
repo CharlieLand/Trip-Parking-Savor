@@ -28,7 +28,7 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
 * PATH    | Port Authority Trans-Hudson 港务局穿越哈德逊河铁路   
 * SI/史岛  | Staten Island 史丹顿岛   
 * Bk      | Brooklyn 布鲁克林（布碌仑）   
-* LIC     | Long Island City 长岛市   
+* LIC     | Long Island City 长岛市，属于皇后区Queens   
 * JC      | Jersey City 泽西市   
 * PA      | Pennsylvania 宾州   
 * CT      | Connecticut 康州   
@@ -54,7 +54,7 @@ https://osmand.net/features/start
 #### * NYC停车   
 * 停车规定：   
 https://www1.nyc.gov/html/dot/html/motorist/parking-regulations.shtml   
-* 换边停车说明：   
+* 换边停车条例及暂停执行日期：   
 https://www1.nyc.gov/html/dot/html/motorist/alternate-side-parking.shtml   
 https://www1.nyc.gov/html/dot/downloads/pdf/2022-asp-calendar-traditional-chinese.pdf （繁体中文，2022版）  
 * 路边停车告示标志地图：   
@@ -95,10 +95,10 @@ https://www.e-zpassny.com/en/faq/paypertrip.shtml#:~:text=PAY%20PER%20TRIP%20is%
 #### * 【强推】PANYNJ PASI Plan 史岛桥梁折扣计划 及 PANYNJ PACP 3人及以上共乘Carpool优惠计划   
 * 计划介绍：    
 https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts   
-【推荐】NY EZPass：网上注册（月费$1）或 NYC/NYS 实体店购买on-the-go tag（无月费），   
+**【推荐】各州居民（含NJ）都可以办NY EZPass：网上注册（月费$1）或 NYC/NYS 实体店购买on-the-go tag（无月费），   
 选择Standard Plan、PACP、PASI，   
 绑定银行账户和一张信用卡后将充值方式Autopay改成Pay-Per-Trip(PPT)，   
-将退还tag的押金$10，防止从信用卡中被自动扣巨款！   
+将退还tag的押金$10，防止从信用卡中被自动扣巨款！**   
 
 ———————————————————————    
 ## 道路收费类      
@@ -116,10 +116,11 @@ https://www.panynj.gov/bridges-tunnels/en/tolls.html
   1. 进入NYC方向单向收费，即回程不收费   
   2. LT 及 GWB 上层Upper Level可以走人工收费通道告知收费员3人及以上的Carpool，即使用PACP   
 * 例：  
-  A. 白天从荷兰隧道进NYC下城，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，无论几人乘车都不能享受$7.75的折扣。收费：高峰期NJ/NY EZPass付$13.75，其余时间$11.75；外州EZPass或无EZPass统一收$16。  
+  A. 白天从荷兰隧道/乔治华盛顿大桥下层进NYC下城，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，无论几人乘车都不能享受$7.75的折扣。收费：高峰期NJ/NY EZPass付$13.75，其余时间$11.75；外州EZPass或无EZPass统一收$16。  
   B. 3人白天从林肯隧道/乔治华盛顿大桥上层进NYC中城，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，需要经过Cash **&** EZPass车道声明Carpool享受$7.75的折扣，同时EZPass账户中需要增加PACP计划。收费：NY或NJ EZPass付$7.75；外州EZPass或无EZPass统一收$16。   
-  C. 白天从OBX/GB/BB进SI(温馨提示：SI的超速抓拍较多)，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，中途必经Verrazano大桥（参考下面NYC MTA收费公路条目）。收费：1）若这个自然月去SI大于等于3次，则每次NY EZPass付$6.88+6.55=$13.43，NJ EZPass付$6.88+10.17=$17.05，同时EZPass账户中需要增加PASI计划；2）若这个自然月去SI小于3次，则每次高峰期NY EZPass付$13.75+6.55=$20.3，NJ EZPass付$13.75+10.17=$23.92，其余时间NY EZPass付$11.75+6.55=$18.3，NJ EZPass付$11.75+10.17=$21.92；3）外州EZPass或无EZPass统一收$16+10.17=$26.17，不适用于上述优惠计划。   
+  C. 白天从OBX/GB/BB进SI(温馨提示：SI的超速抓拍较多)，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，中途必经Verrazano大桥（参考下面NYC MTA收费公路条目）。收费：1）若该自然月从NJ进入SI大于等于3次，则每次NY EZPass付$6.88+6.55=$13.43，NJ EZPass付$6.88+10.17=$17.05，同时EZPass账户中需要增加PASI计划；2）若该自然月去SI小于3次，则每次高峰期NY EZPass付$13.75+6.55=$20.3，NJ EZPass付$13.75+10.17=$23.92，其余时间NY EZPass付$11.75+6.55=$18.3，NJ EZPass付$11.75+10.17=$21.92；3）外州EZPass或无EZPass统一收$16+10.17=$26.17，不适用上述优惠计划。   
   D. 白天从OBX/GB/BB进SI，晚上从OBX/GB/BB回NJ。收费：参考C。若需要进入曼岛或布鲁克林，必经Verrazano大桥，则应增加回程经过Verrazano大桥$6.55/$10.17的费用。情况1：NY:$6.88+6.55\*2=$19.98，NJ:$6.88+10.17\*2=$27.22；情况2：高峰期NY:$13.75+6.55\*2=$26.85，NJ:$13.75+10.17\*2=$34.09，其余时间NY:$11.75+6.55\*2=$24.85，NJ:$11.75+10.17\*2=$32.09；情况3：$16+10.17\*2=$36.34。   
+  E. 3人白天从林肯隧道/乔治华盛顿大桥上层进NYC中城，晚上从OBX/GB/BB回NJ，必经Verrazano大桥。收费：NY:$7.75+6.55=$14.3；NJ:$7.75+10.17=$17.92；外州EZPass或无EZPass统一收$16+10.17=$26.17。   
 
 
 #### * NJ Turnpike 及 【HOT】GS Pkwy   
