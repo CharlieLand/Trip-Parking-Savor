@@ -1,9 +1,13 @@
 # Trip-Parking-Savor
 The repo is to reduce your cost on tolls, parking fees, and other transportation fares within the NYC Bay Area(NJ Mainly).   
 
-更新于3/23/2022， 欢迎提出意见和建议   
+更新于4/22/2022， 欢迎提出意见和建议   
 
-【New】电子狗（雷达监测器）购买推荐：https://www.bestbuy.com/site/escort-x80-radar-detector-black/5797708.p?skuId=5797708 感谢群友Jchen的分享：与Waze并用效果更佳    
+【Note】电子狗（雷达监测器）购买推荐：https://www.bestbuy.com/site/escort-x80-radar-detector-black/5797708.p?skuId=5797708 感谢群友Jchen的分享：与Waze并用效果更佳   
+【New】荷兰隧道林肯隧道夜间进入纽约方向施工信息敬请关注Port Authority官网   
+【New】道路收费类新增常见案例   
+
+基础知识 地图类 停车类 EZPass类 道路收费类 公共交通出行类 攻略区   
 
 ## 基础知识
 #### 美国公路等级  
@@ -57,7 +61,7 @@ https://parknyc.parkmobile.us/parknyc/
 * SpotHero街边,   
 * SpotAngels街边,    
 * ParkWhiz预订,   
-* 【Hot】ParkMobile街边及预订，还可以替代ParkNYC！！   
+* 【Hot】ParkMobile街边及预订，还可以部分替代ParkNYC！！   
 
 ———————————————————————    
 ## EZPass类   
@@ -94,12 +98,17 @@ https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts
 https://www.panynj.gov/bridges-tunnels/en/tolls.html   
 【Toll】使用NJ EZP或 NY EZP行驶 HT, LT, GWB 或者一个自然月内PASI不足3次：高峰期$13.75，平峰期$11.75； PACP：$7.75； PASI：$6.88     
 外州EZPass或邮寄路费Tolls by Mail：$16   
-高峰期: 工作日6\~10 am, 4\~8 pm； 周六周日: 11 am \~ 9 pm    
+**高峰期: 工作日6\~10 am, 4\~8 pm； 周六周日: 11 am \~ 9 pm**     
 【强推】从OBX/GB进入SI，将车停放在 St George Terminal 后有免费的 Staten Island Ferry 前往 Downtown 及 单程收费$2.75的 NYC Ferry 前往 WTC 或 Midtown West；     
 史岛SGT码头附近有Empire Outlet附属SP+停车场 及 码头附属Municipal Metered停车场。SP+停车场在Groupon上24hr仅需$9.5，Municipal $1.5/hr 上限18hr $12   
 * 提示：    
-  1. 进入NYC方向单向收费   
+  1. 进入NYC方向单向收费，即回程不收费   
   2. LT 及 GWB 上层Upper Level可以走人工收费通道告知收费员3人及以上的Carpool，即使用PACP   
+【例】A. 白天从荷兰隧道进NYC下城，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，无论几人乘车都不能享受$7.75的折扣。收费：高峰期NJ/NY EZPass付$13.75，其余时间$11.75；外州EZPass或无EZPass统一收$16。  
+B. 3人白天从林肯隧道/乔治华盛顿大桥上层进NYC中城，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，需要经过Cash **&** EZPass车道声明Carpool享受$7.75的折扣，同时EZPass账户中需要增加PACP计划。收费：NY或NJ EZPass付$7.75；外州EZPass或无EZPass统一收$16。   
+C. 白天从OBX/GB/BB进SI(温馨提示：SI的超速抓拍较多)，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，中途必经Verrazano大桥（参考下面NYC MTA收费公路条目）。收费：1）若这个自然月去SI大于等于3次，则每次NY EZPass付$6.88+6.55=$13.43，NJ EZPass付$6.88+10.17=$17.05，同时EZPass账户中需要增加PASI计划；2）若这个自然月去SI小于3次，则每次高峰期NY EZPass付$13.75+6.55=$20.3，NJ EZPass付$13.75+10.17=$23.92，其余时间NY EZPass付$11.75+6.55=$18.3，NJ EZPass付$11.75+10.17=$21.92；3）外州EZPass或无EZPass统一收$16+10.17=$26.17，不适用于上述优惠计划。   
+D. 白天从OBX/GB/BB进SI，晚上从OBX/GB/BB回NJ。收费：参考C。若需要进入曼岛或布鲁克林，必经Verrazano大桥，则应增加回程经过Verrazano大桥$6.55/$10.17的费用。情况1：NY:$6.88+6.55\*2=$19.98，NJ:$6.88+10.17\*2=$27.22；情况2：高峰期NY:$13.75+6.55\*2=$26.85，NJ:$13.75+10.17\*2=$34.09，其余时间NY:$11.75+6.55\*2=$24.85，NJ:$11.75+10.17\*2=$32.09；情况3：$16+10.17\*2=$36.34。   
+
 
 #### * NJ Turnpike 及 【HOT】GS Pkwy   
 * 路费计算器：   
@@ -110,17 +119,22 @@ https://www.njta.com/toll-calculator
   3. 【强推】GS Pkwy出口130A（US1 North入口）到140A（US22 East）之间免费通行   
 
 #### * NYC MTA收费公路   
-* **【Hot】史丹顿岛与布鲁克林间：Verrazzano-Narrows Bridge**   
-* **Queens与曼岛间：Queens Midtown Tunnel**   
-* **Bk与曼岛间：Hugh L. Carey Tunnel**   
-* Bronx与法拉盛之间：Bronx-Whitestone Bridge   
-* Bronx与曼岛之间：Henry Hudson Bridge   
+* **【Hot】史丹顿岛与布鲁克林间：Verrazzano-Narrows Bridge(VNB30)**   
+* **Queens与曼岛间：Queens Midtown Tunnel(QMT27)**   
+* **Bk与曼岛间：Hugh L. Carey Tunnel(HCT28)**   
+* Bronx与法拉盛之间：Bronx-Whitestone Bridge(BWB03)及Throgs Neck Bridge(TNB09)   
+* Bronx或Uptown与Queens之间的Robert F. Kennedy Bridge(RFB21 to Bronx, RFB22 to Manhattan)   
+* Bronx与曼岛之间：Henry Hudson Bridge(HHB)   
+* Bk与Rockaway岛之间：Cross Bay Veterans Memorial Bridge(CBB26)及Marine Parkway-Gil Hodges Memorial Bridge(MPB25)
 * 资费标准：    
 https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars   
-【Toll】$6.55(NY EZP)/10.17(NJ EZP)/8.36(Improperly Mounted NY EZP)  
+【Toll】除HHB、CBB(26)及MPB(25)外$6.55(NY EZP)/10.17(NJ及外州 EZP或无EZP)/8.36(Improperly Mounted NY EZP)；HHB $3.00(NY EZP)/7.50(NJ及外州 EZP或无EZP)/4.62(Improperly Mounted NY EZP)；CBB(26)及MPB(25)$2.45(NY EZP)/5.09(NJ及外州 EZP或无EZP)/5.09(Improperly Mounted NY EZP)；SI居民的SIR计划享受Verrazzano大桥每趟$2.75的价格；Rockaway居民享受CBB(26)及MPB(25)每趟$1.60的价格   
 * 提示：
   1. NJ EZPass按照 Tolls By Mail $10.17   
-  2. 双向收费    
+  2. 双向收费，来回各收一次    
+【例】A. 非SI注册车辆（车主无SI专用EZPass）从SI进入Bk，必经Verrazzano大桥，从Bk进入曼岛可选择免费（I-278经过24出口附近后靠右侧车道从26出口出）的Brooklyn大桥、Manhattan大桥、Willamsburg大桥及从皇后区LIC进入中城的Ed Koch Queensboro大桥。也可以选择收费的Hugh L. Carey Tunnel（I-278全程靠左），皇后区LIC的Queens Midtown Tunnel及Robert F. Kennedy Bridge。收费单程：$6.55(NY EZP)/10.17(NJ及外州 EZP或无EZP)/8.36(Improperly Mounted NY EZP)。   
+B. 从GWB前往法拉盛，可从2号出口走免费的FDR Dr South（即Harlem River Dr），从Ed Koch Queensboro Br过河接NY25A（即Northern Blvd），继续直行或接Brooklyn Queens Expy East经Grand Central Pkwy East转回NY25A。收费道路包括I-95接I-678 South经BWB(03)进入NY25A；或者接I-87 South、RFB(21)、I-278、Grand Central Pkwy、NY25A。两种路线均收费$6.55(NY EZP)/10.17(NJ及外州 EZP或无EZP)/8.36(Improperly Mounted NY EZP)。   
+C. 从Bk进入法拉盛传统走法：沿着I-278 North一路北上转I-495 East（即Long Island Expy East）从Exit 23 Main St出口下。注意缅街Main St过植物园后路段不允许直穿（No Thru Traffic），建议提前绕开。高峰期推荐走法见攻略区。   
 
 #### * NYS收费公路
 * Thruway Authority：前往新英格兰：Gov. Mario M. Cuomo Br(MCB,I-287) 及 Castleton-on-Hudson(I87 to I-90 connector) Br   
@@ -261,20 +275,15 @@ https://nywatertaxi.com/
 * 回程从Pulaski Skyway下来后接US1-9 Local，沿着GS Pkwy标志走I-78 Express，之后转I-78 Local，并从最右道走GS Pkwy South进入GS Pkwy   
 Toll:$0(去程走US22，回程走I-78或US22)，$1.96（去程走I-78）。「就是这么神奇，去程I-78收费，回程不收！」
 
-#### * 【Hot】RUNB区域前往DC（浪漫樱花之旅）   
-* 沿 US1 South 过了 Princeton 后上 I-295 East， 直到 Delaware Memorial Br（NJ EZP $4.75, NY EZP $5）。    
-* 继续沿 I-95 到 DE/MD 边界时从最后一个出口右转绕行 DE896、DE4、MD279，过了边界后继续走 I-95，I-95 Express Lane收费$1.93（高峰）/1.49（平峰）/0.61（夜间）。   
-* Baltimore市区视路况选择：Fort McHenry Tunnel(I-95) 或 Baltimore Harbor Tunnel(I-895) 或 Francis Scott Key Br(I-695)   
-* 最后接 MD295 Baltimore-Washington Pkwy 即可到达（DC市区接I-695可绕开地面道路）   
-MD收费公路资费标准：   
-https://mdta.maryland.gov/TollRatesTables   
-路费计算器：   
-https://driveezmd.com/toll-rate-calculator/   
-线路走向：   
-https://www.google.com/maps/d/u/1/edit?mid=1Y2pXAs_-QpFOPdTUF0kiYVQAE80crSl4&usp=sharing   
-Toll:$9（去程，绕行DE/MD边界），$13（去程，直接过边界），$12（回程，绕行边界），$16（回程，直接过边界）   
+#### * 【Hot】New Brunswick/Edison/Piscataway区域（下称RUNB区域）经布鲁克林Bk往返法拉盛Flushing，高峰期路线    
+* 从US1 North进入I-287 一路向东，与NJ440连接   
+* 经过Outerbridge Crossing后靠右从Exit 2出，继续行驶NY440     
+* NY440尽头靠右进入I-278 East，3人及以上可行驶钻石Carpool车道   
+* 沿I-278经过Verrazano大桥前，无论走上下层都提前靠左车道进入Exit 16 Belt Pkwy East   
+* 沿Belt Pkwy从Exit 19进入Nassau Expy， 再从Exit 1N进入I-678 North，从Exit 23 NY25A出到达法拉盛   
+Toll:同道路收费类 PANYNJ NY与NJ州际收费桥梁隧道条目 例C和D，范围$13.43\~$36.34。   
 
-#### * RUNB区域往返GWB乔治华盛顿大桥入口   
+#### * RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）   
 * 从 I-287 或 NJ18 进入 US1 North 过了Menlo Park Mall之后按指示牌提前靠右进入 GS Pkwy North 入口（卡车禁行）   
 * 继续沿着 GS Pkwy，接 I-80 往 GWB 方向    
 * 沿着 I-80 按提示驶入 I-95 GWB 方向   
@@ -290,4 +299,17 @@ Toll:去回程都是$1.96，相比直接走I-95 NJ Turnpike省$8左右
 MA路费计算器：   
 https://www.ezdrivema.com/TollCalculator   
 Toll:$1.96+1.96+5.75+3.95 \~ 4.65=$13.62 \~ 14.32（去程），$3.95 \~ 4.65+1.96+1.96=$7.87 \~ 8.57（回程）   
-提示：如果一路从 I-287 North前往Gov. Mario M. Cuomo Br可节省$3.92
+提示：如果一路从 I-287 North前往Gov. Mario M. Cuomo Br可节省$3.92   
+
+#### * 【Hot】RUNB区域前往DC（浪漫樱花之旅）   
+* 沿 US1 South 过了 Princeton 后上 I-295 East， 直到 Delaware Memorial Br（NJ EZP $4.75, NY EZP $5）。    
+* 继续沿 I-95 到 DE/MD 边界时从最后一个出口右转绕行 DE896、DE4、MD279，过了边界后继续走 I-95，I-95 Express Lane收费$1.93（高峰）/1.49（平峰）/0.61（夜间）。   
+* Baltimore市区视路况选择：Fort McHenry Tunnel(I-95) 或 Baltimore Harbor Tunnel(I-895) 或 Francis Scott Key Br(I-695)   
+* 最后接 MD295 Baltimore-Washington Pkwy 即可到达（DC市区接I-695可绕开地面道路）   
+MD收费公路资费标准：   
+https://mdta.maryland.gov/TollRatesTables   
+路费计算器：   
+https://driveezmd.com/toll-rate-calculator/   
+线路走向：   
+https://www.google.com/maps/d/u/1/edit?mid=1Y2pXAs_-QpFOPdTUF0kiYVQAE80crSl4&usp=sharing   
+Toll:$9（去程，绕行DE/MD边界），$13（去程，直接过边界），$12（回程，绕行边界），$16（回程，直接过边界）   
