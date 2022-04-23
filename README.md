@@ -90,7 +90,7 @@ https://osmand.net/features/start
 
 ———————————————————————    
 ## 停车类   
-#### * NYC停车   
+#### NYC停车   
 * 停车规定：   
 https://www1.nyc.gov/html/dot/html/motorist/parking-regulations.shtml   
 * 换边停车条例及暂停执行日期：   
@@ -107,7 +107,7 @@ https://www1.nyc.gov/html/dot/html/motorist/weektraf.shtml
 * 咪表停车Metered Parking缴费及ParkNYC手机App：   
 https://parknyc.parkmobile.us/parknyc/   
 
-#### * 实用停车位寻找预订App   
+#### 实用停车位寻找预订App   
 * SpotHero街边,   
 * SpotAngels街边,    
 * ParkWhiz预订,   
@@ -115,13 +115,13 @@ https://parknyc.parkmobile.us/parknyc/
 
 ———————————————————————    
 ## EZPass类   
-#### * NJ EZPass   
+#### NJ EZPass   
 * 通勤折扣计划：   
 https://www.ezpassnj.com/en/about/plans.shtml    
 条款（月费$1）：   
 https://www.ezpassnj.com/vector/retailers/tollTagRegistrationNewCustomer.do   
 
-#### * NY EZPass   
+#### NY EZPass   
 * 通勤折扣计划：   
 https://www.e-zpassny.com/en/about/plans.shtml   
 条款（月费PANYNJ版$1，【强推】MTA及NYSBA版免费）：   
@@ -131,7 +131,7 @@ https://www.e-zpassny.com/en/onthego/locations.shtml
 【Hot】每趟支付(Pay Per Trip, PPT)：   
 https://www.e-zpassny.com/en/faq/paypertrip.shtml#:~:text=PAY%20PER%20TRIP%20is%20the,account%20balance%20is%20not%20required.   
 
-#### * 【强推】PANYNJ PASI Plan 史岛桥梁折扣计划 及 PANYNJ PACP 3人及以上共乘Carpool优惠计划   
+#### 【强推】PANYNJ PASI Plan 史岛桥梁折扣计划 及 PANYNJ PACP 3人及以上共乘Carpool优惠计划   
 * 计划介绍：    
 https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts   
 **【推荐】各州居民（含NJ）都可以办NY EZPass：网上注册（月费$1）或 NYC/NYS 实体店购买on-the-go tag（无月费），   
@@ -141,7 +141,7 @@ https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts
 
 ———————————————————————    
 ## 道路收费类      
-#### * 【HOT】PANYNJ NY与NJ州际收费桥梁隧道   
+#### 【HOT】PANYNJ NY与NJ州际收费桥梁隧道   
 * 从NJ进入曼岛：**Holland Tunnel(HT)**, **Lincoln Tunnel(LT)**, **George Washington Bridge(GWB)**,     
 * 从NJ进入史岛：**Outerbridge Crossing(OBX)**, Goethals Bridge(GB), Bayonne Bridge(BB)   
 * 资费标准：   
@@ -162,7 +162,7 @@ https://www.panynj.gov/bridges-tunnels/en/tolls.html
   E. 3人白天从林肯隧道/乔治华盛顿大桥上层进NYC中城，晚上从OBX/GB/BB回NJ，必经Verrazano大桥。收费：NY:$7.75+6.55=$14.3；NJ:$7.75+10.17=$17.92；外州EZPass或无EZPass统一收$16+10.17=$26.17。   
 
 
-#### * NJ Turnpike 及 【HOT】GS Pkwy   
+#### NJ Turnpike 及 【HOT】GS Pkwy   
 * 路费计算器：   
 https://www.njta.com/toll-calculator   
 * 提示：   
@@ -170,7 +170,7 @@ https://www.njta.com/toll-calculator
   2. 享受NJTP平峰折扣需要使用NJ EZPass   
   3. 【强推】GS Pkwy出口130A（US1 North入口）到140A（US22 East）之间免费通行   
 
-#### * NYC MTA收费公路   
+#### NYC MTA收费公路   
 * **【Hot】史丹顿岛与布鲁克林间：Verrazzano-Narrows Bridge(VNB30)**   
 * **Queens与曼岛间：Queens Midtown Tunnel(QMT27)**   
 * **Bk与曼岛间：Hugh L. Carey Tunnel(HCT28)**   
@@ -189,7 +189,7 @@ https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars
   B. 从GWB前往法拉盛，可从2号出口走免费的FDR Dr South（即Harlem River Dr），从Ed Koch Queensboro Br过河接NY25A（即Northern Blvd），继续直行或接Brooklyn Queens Expy East经Grand Central Pkwy East转回NY25A。收费道路包括I-95接I-678 South经BWB(03)进入NY25A；或者接I-87 South、RFB(21)、I-278、Grand Central Pkwy、NY25A。两种路线均收费$6.55(NY EZP)/10.17(NJ及外州 EZP或无EZP)/8.36(Improperly Mounted NY EZP)。   
   C. 从Bk进入法拉盛传统走法：沿着I-278 North一路北上转I-495 East（即Long Island Expy East）从Exit 23 Main St出口下。注意缅街Main St过植物园后路段不允许直穿（No Thru Traffic），建议提前绕开。高峰期推荐走法见攻略区。   
 
-#### * NYS收费公路
+#### NYS收费公路
 * Thruway Authority：前往新英格兰：Gov. Mario M. Cuomo Br(MCB,I-287) 及 Castleton-on-Hudson(I87 to I-90 connector) Br   
 路费计算器：   
 https://wwwapps.thruway.ny.gov/tollcalculator/   
@@ -206,7 +206,7 @@ Kingston-Rhinecliff Br, Rip Van Winkle Br
 https://nysba.ny.gov/toll-rates   
 提示：自西向东单向收费   
 
-#### * 【Hot】NJ与DE间跨特拉华河桥梁
+#### 【Hot】NJ与DE间跨特拉华河桥梁
 * Delaware Memorial Br(I-295)   
 资费标准：    
 https://www.delawarememorialbridge.com/dmb-travel   
@@ -215,14 +215,14 @@ https://www.delawarememorialbridge.com/dmb-travel
   1. 这是跨越特拉华河最南边的桥,也是NJ唯一直连DE的桥   
   2. 进入DE方向单向收费   
 
-#### * NJ与费城间跨特拉华河桥梁     
+#### NJ与费城间跨特拉华河桥梁     
 * Betsy Ross Br(NJ90), Ben Franklin Br(I-676), Walt Whitman Br(I-76) and Commodore Barry Br(US322)   
 资费标准：   
 http://www.drpa.org/travel/toll-schedule.html    
 【Toll】$5   
 提示：进入费城方向单向收费    
 
-#### * NJ与PA（除费城）间跨特拉华河收费桥梁   
+#### NJ与PA（除费城）间跨特拉华河收费桥梁   
 * 【Hot】Trenton-Morrisville Br(US1),【Hot】Scudder Falls Br(I-295),    
 New Hope-Lambertville Br(US202), 【Hot】I-78, Easton-Phillipsburg Br(US22),   
 Portland-Columbia Br,【Hot】Delaware Water Gap Br(I-80), Milford-Montague Br(US206)   
@@ -246,7 +246,7 @@ https://www.bcbridges.org/toll-rates-e-zpass
 https://dcdbc.com/ratesandrestr.php   
 【Toll】$1   
 
-#### * NJ与PA（除费城）间跨特拉华河免费桥梁：   
+#### NJ与PA（除费城）间跨特拉华河免费桥梁：   
 * 【Hot】US1 旁边的Lower Trenton Br（Trenton Makes）除非一定要走免费道路，否则不推荐,   
 具有历史意义的Washington Crossing Br,   
 US202旁边的New Hope-Lambertville Br和Centre Bridge-Stockton Br,   
@@ -258,11 +258,11 @@ US22旁边的Northampton Street Br,
 * 免费NJ与PA间跨州桥梁：   
 https://nj1015.com/10-toll-free-bridges-connecting-nj-and-pa/   
 
-#### * 大西洋城高速Atlantic City Expressway：   
+#### 大西洋城高速Atlantic City Expressway：   
 * 资费标准：   
 https://www.sjta.com/acexpressway/toll_info.asp   
 
-#### * 开普梅县收费桥梁Cape May County Bridges：   
+#### 开普梅县收费桥梁Cape May County Bridges：   
 * 资费标准：   
 https://capemaycountynj.gov/657/Toll-Schedule   
 * Cape May, NJ轮渡去Lewes, DE（昂贵，不推荐）：   
@@ -270,7 +270,7 @@ https://www.cmlf.com/schedules-fares
 
 ———————————————————————    
 ## 公共交通出行类    
-#### * NJ及NY公路铁路客运   
+#### NJ及NY公路铁路客运   
 * NJ官网：   
 https://www.state.nj.us/nj/trans/buses/   
 **【Hot】NJ Transit**：   
@@ -289,7 +289,7 @@ https://www.panynj.gov/path/en/index.html
 Amtrak官网：   
 https://www.amtrak.com/home.html   
 
-#### * NJ与NY水路客运   
+#### NJ与NY水路客运   
 * **【推荐】NY/NJ港口航线图**：   
 https://www.panynj.gov/port-authority/en/help-center/ferries.html   
 * **【推荐】NJ与NY之间跨哈德逊河的NY Waterway**：   
@@ -299,7 +299,7 @@ https://www.libertylandingcityferry.com/
 * Highlands, NJ往返NYC：   
 https://seastreak.com/ferry-routes-and-schedules/   
 
-#### * NYC内水路客运   
+#### NYC内水路客运   
 * **【强推】往返于Battery Park City或Midtown West和St George Terminal, SI之间的快艇单程$2.75，15分钟抵达Downtown！！**   
 * 免费轮渡：史丹顿岛轮渡Staten Island Ferry   
 * 收费轮渡：NYC Ferry：   
@@ -309,18 +309,18 @@ https://nywatertaxi.com/
 
 ———————————————————————    
 ## 违章处理类    
-#### * NJ路费违章violation处理   
+#### NJ路费违章violation处理   
 * https://www.ezpassnj.com/vector/violations/violationInquiry.do?locale=en_US&from=Home&btnLogin.x=1&formid=frmViol   
 
-#### * NY路费违章处理   
+#### NY路费违章处理   
 * https://www.e-zpassny.com/vector/violations/violationInquiry.do?locale=en_US&from=Home   
 
-#### * NYC交罚单及申诉   
+#### NYC交罚单及申诉   
 * https://www1.nyc.gov/site/finance/vehicles/dispute-a-ticket.page 或 Pay or Dispute App   
 
 ——————————————————————— 
 ## 攻略区    
-#### * 【Hot】New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC    
+#### 【Hot】New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC    
 * 从 I-287 或 NJ18 进入 US1 North 过了Menlo Park Mall之后按指示牌提前靠右进入GS Pkwy North入口（卡车禁行）   
 * 行驶至出口140A US22 East出，注意提前变道进入出口。（如果错过可以从Union收费站最右侧2个通道出口142A转入 I-78 East）   
 * US22靠左行驶从左侧出口进入US1-9 North Express（经过Pulaski Skyway），之后一直靠左直行即可抵达隧道入口   
@@ -328,7 +328,7 @@ https://nywatertaxi.com/
 * 回程从Pulaski Skyway下来后接US1-9 Local，沿着GS Pkwy标志走I-78 Express，之后转I-78 Local，并从最右道走GS Pkwy South进入GS Pkwy   
 Toll:$0(去程走US22，回程走I-78或US22)，$1.96（去程走I-78）。「就是这么神奇，去程I-78收费，回程不收！」
 
-#### * 【Hot】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线    
+#### 【Hot】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线    
 * 从US1 North进入I-287 一路向东，与NJ440连接   
 * 经过Outerbridge Crossing后靠右从Exit 2出，继续行驶NY440     
 * NY440尽头靠右进入I-278 East，3人及以上可行驶钻石Carpool车道   
@@ -336,13 +336,13 @@ Toll:$0(去程走US22，回程走I-78或US22)，$1.96（去程走I-78）。「�
 * 沿Belt Pkwy从Exit 19进入Nassau Expy， 再从Exit 1N进入I-678 North，从Exit 23 NY25A出到达法拉盛   
 Toll:同道路收费类 PANYNJ NY与NJ州际收费桥梁隧道条目 例C和D，范围$13.43\~$36.34。   
 
-#### * RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）   
+#### RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）   
 * 从 I-287 或 NJ18 进入 US1 North 过了Menlo Park Mall之后按指示牌提前靠右进入 GS Pkwy North 入口（卡车禁行）   
 * 继续沿着 GS Pkwy，接 I-80 往 GWB 方向    
 * 沿着 I-80 按提示驶入 I-95 GWB 方向   
 Toll:去回程都是$1.96，相比直接走I-95 NJ Turnpike省$8左右   
 
-#### * RUNB区域前往Boston（新英格兰幸福之旅）   
+#### RUNB区域前往Boston（新英格兰幸福之旅）   
 * 从 I-287 或 NJ18 进入 US1 North 过了Menlo Park Mall之后按指示牌提前靠右进入 GS Pkwy North 入口（卡车禁行）   
 * 继续沿着 GS Pkwy，过 NJ/NY 边界后接 I-287 往 Gov. Mario M. Cuomo Br(Tappan Zee Br) 方向   
 * I-287 接 Hutchinson River Pkwy(CT15 Merritt Pkwy) 或 I-95 进入CT   
@@ -354,7 +354,7 @@ https://www.ezdrivema.com/TollCalculator
 Toll:$1.96+1.96+5.75+3.95 \~ 4.65=$13.62 \~ 14.32（去程），$3.95 \~ 4.65+1.96+1.96=$7.87 \~ 8.57（回程）   
 提示：如果一路从 I-287 North前往Gov. Mario M. Cuomo Br可节省$3.92   
 
-#### * RUNB区域前往MD/DC/VA（DMV樱花之旅）  
+#### RUNB区域前往MD/DC/VA（DMV樱花之旅）  
 * 沿 US1 South 过了 Princeton 后上 I-295 East， 直到 Delaware Memorial Br（NJ EZP $4.75, NY EZP $5）。    
 * 继续沿 I-95 到 DE/MD 边界时从最后一个出口右转绕行 DE896、DE4、MD279，过了边界后继续走 I-95，I-95 Express Lane收费$1.93（高峰）/1.49（平峰）/0.61（夜间）。   
 * Baltimore市区视路况选择：Fort McHenry Tunnel(I-95) 或 Baltimore Harbor Tunnel(I-895) 或 Francis Scott Key Br(I-695)   
