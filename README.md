@@ -104,7 +104,7 @@ https://www.panynj.gov/bridges-tunnels/en/tolls.html
 * 提示：    
   1. 进入NYC方向单向收费，即回程不收费   
   2. LT 及 GWB 上层Upper Level可以走人工收费通道告知收费员3人及以上的Carpool，即使用PACP   
-【例】A. 白天从荷兰隧道进NYC下城，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，无论几人乘车都不能享受$7.75的折扣。收费：高峰期NJ/NY EZPass付$13.75，其余时间$11.75；外州EZPass或无EZPass统一收$16。  
+* 【例】A. 白天从荷兰隧道进NYC下城，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，无论几人乘车都不能享受$7.75的折扣。收费：高峰期NJ/NY EZPass付$13.75，其余时间$11.75；外州EZPass或无EZPass统一收$16。  
 B. 3人白天从林肯隧道/乔治华盛顿大桥上层进NYC中城，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，需要经过Cash **&** EZPass车道声明Carpool享受$7.75的折扣，同时EZPass账户中需要增加PACP计划。收费：NY或NJ EZPass付$7.75；外州EZPass或无EZPass统一收$16。   
 C. 白天从OBX/GB/BB进SI(温馨提示：SI的超速抓拍较多)，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，中途必经Verrazano大桥（参考下面NYC MTA收费公路条目）。收费：1）若这个自然月去SI大于等于3次，则每次NY EZPass付$6.88+6.55=$13.43，NJ EZPass付$6.88+10.17=$17.05，同时EZPass账户中需要增加PASI计划；2）若这个自然月去SI小于3次，则每次高峰期NY EZPass付$13.75+6.55=$20.3，NJ EZPass付$13.75+10.17=$23.92，其余时间NY EZPass付$11.75+6.55=$18.3，NJ EZPass付$11.75+10.17=$21.92；3）外州EZPass或无EZPass统一收$16+10.17=$26.17，不适用于上述优惠计划。   
 D. 白天从OBX/GB/BB进SI，晚上从OBX/GB/BB回NJ。收费：参考C。若需要进入曼岛或布鲁克林，必经Verrazano大桥，则应增加回程经过Verrazano大桥$6.55/$10.17的费用。情况1：NY:$6.88+6.55\*2=$19.98，NJ:$6.88+10.17\*2=$27.22；情况2：高峰期NY:$13.75+6.55\*2=$26.85，NJ:$13.75+10.17\*2=$34.09，其余时间NY:$11.75+6.55\*2=$24.85，NJ:$11.75+10.17\*2=$32.09；情况3：$16+10.17\*2=$36.34。   
@@ -132,7 +132,7 @@ https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars
 * 提示：
   1. NJ EZPass按照 Tolls By Mail $10.17   
   2. 双向收费，来回各收一次    
-【例】A. 非SI注册车辆（车主无SI专用EZPass）从SI进入Bk，必经Verrazzano大桥，从Bk进入曼岛可选择免费（I-278经过24出口附近后靠右侧车道从26出口出）的Brooklyn大桥、Manhattan大桥、Willamsburg大桥及从皇后区LIC进入中城的Ed Koch Queensboro大桥。也可以选择收费的Hugh L. Carey Tunnel（I-278全程靠左），皇后区LIC的Queens Midtown Tunnel及Robert F. Kennedy Bridge。收费单程：$6.55(NY EZP)/10.17(NJ及外州 EZP或无EZP)/8.36(Improperly Mounted NY EZP)。   
+* 【例】A. 非SI注册车辆（车主无SI专用EZPass）从SI进入Bk，必经Verrazzano大桥，从Bk进入曼岛可选择免费（I-278经过24出口附近后靠右侧车道从26出口出）的Brooklyn大桥、Manhattan大桥、Willamsburg大桥及从皇后区LIC进入中城的Ed Koch Queensboro大桥。也可以选择收费的Hugh L. Carey Tunnel（I-278全程靠左），皇后区LIC的Queens Midtown Tunnel及Robert F. Kennedy Bridge。收费单程：$6.55(NY EZP)/10.17(NJ及外州 EZP或无EZP)/8.36(Improperly Mounted NY EZP)。   
 B. 从GWB前往法拉盛，可从2号出口走免费的FDR Dr South（即Harlem River Dr），从Ed Koch Queensboro Br过河接NY25A（即Northern Blvd），继续直行或接Brooklyn Queens Expy East经Grand Central Pkwy East转回NY25A。收费道路包括I-95接I-678 South经BWB(03)进入NY25A；或者接I-87 South、RFB(21)、I-278、Grand Central Pkwy、NY25A。两种路线均收费$6.55(NY EZP)/10.17(NJ及外州 EZP或无EZP)/8.36(Improperly Mounted NY EZP)。   
 C. 从Bk进入法拉盛传统走法：沿着I-278 North一路北上转I-495 East（即Long Island Expy East）从Exit 23 Main St出口下。注意缅街Main St过植物园后路段不允许直穿（No Thru Traffic），建议提前绕开。高峰期推荐走法见攻略区。   
 
