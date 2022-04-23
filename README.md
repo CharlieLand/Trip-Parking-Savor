@@ -19,13 +19,13 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
 4. [EZPass类](#EZPass类)
     - [NJ EZPass](#NJ-EZPass)
     - [NY EZPass](#NY-EZPass)
-    - [【强推】PANYNJ PASI及PACP](#【强推】PANYNJ-PASI-Plan-史岛桥梁折扣计划-及-PANYNJ-PACP-3人及以上共乘Carpool优惠计划)
+    - [【强推】PANYNJ PASI及PACP](#PANYNJ-PASI-Plan-史岛桥梁折扣计划-及-PANYNJ-PACP-3人及以上共乘Carpool优惠计划)
 5. [道路收费类](#道路收费类)
-    - [【HOT】PANYNJ NY与NJ州际收费桥梁隧道](#【HOT】PANYNJ-NY与NJ州际收费桥梁隧道)
-    - [NJ Turnpike及【HOT】GS Pkwy](#NJ-Turnpike及【HOT】GS-Pkwy)
+    - [【HOT】PANYNJ NY与NJ州际收费桥梁隧道](#PANYNJ-NY与NJ州际收费桥梁隧道)
+    - [NJ Turnpike及【HOT】GS Pkwy](#NJ-Turnpike及GS-Pkwy)
     - [NYC MTA收费公路](#NYC-MTA收费公路)
     - [NYS收费公路](#NYS收费公路)
-    - [【Hot】NJ与DE间跨特拉华河桥梁](#【Hot】NJ与DE间跨特拉华河桥梁)
+    - [【Hot】NJ与DE间跨特拉华河桥梁](#NJ与DE间跨特拉华河桥梁)
     - [NJ与费城间跨特拉华河桥梁](#NJ与费城间跨特拉华河桥梁)
     - [NJ与PA（除费城）间跨特拉华河收费桥梁](#NJ与PA（除费城）间跨特拉华河收费桥梁)
     - [NJ与PA（除费城）间跨特拉华河免费桥梁](#NJ与PA（除费城）间跨特拉华河免费桥梁)
@@ -40,8 +40,8 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
     - [NY路费违章处理](#NY路费违章处理)
     - [NYC交罚单及申诉](#NYC交罚单及申诉)
 8. [攻略区](#攻略区)
-    - [【Hot】New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC](#【Hot】New-Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC)
-    - [【Hot】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线](#【Hot】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线)
+    - [【Hot】New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC](#New-Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC)
+    - [【Hot】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线](#RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线)
     - [RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）](#RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）)
     - [RUNB区域前往Boston（新英格兰幸福之旅）](#RUNB区域前往Boston（新英格兰幸福之旅）)
     - [RUNB区域前往MD/DC/VA（DMV樱花之旅）](#RUNB区域前往MD/DC/VA（DMV樱花之旅）)
@@ -131,7 +131,7 @@ https://www.e-zpassny.com/en/onthego/locations.shtml
 【Hot】每趟支付(Pay Per Trip, PPT)：   
 https://www.e-zpassny.com/en/faq/paypertrip.shtml#:~:text=PAY%20PER%20TRIP%20is%20the,account%20balance%20is%20not%20required.   
 
-#### 【强推】PANYNJ PASI Plan 史岛桥梁折扣计划 及 PANYNJ PACP 3人及以上共乘Carpool优惠计划   
+#### PANYNJ PASI Plan 史岛桥梁折扣计划 及 PANYNJ PACP 3人及以上共乘Carpool优惠计划   
 * 计划介绍：    
 https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts   
 **【推荐】各州居民（含NJ）都可以办NY EZPass：网上注册（月费$1）或 NYC/NYS 实体店购买on-the-go tag（无月费），   
@@ -141,7 +141,7 @@ https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts
 
 ———————————————————————    
 ## 道路收费类      
-#### 【HOT】PANYNJ NY与NJ州际收费桥梁隧道   
+#### PANYNJ NY与NJ州际收费桥梁隧道   
 * 从NJ进入曼岛：**Holland Tunnel(HT)**, **Lincoln Tunnel(LT)**, **George Washington Bridge(GWB)**,     
 * 从NJ进入史岛：**Outerbridge Crossing(OBX)**, Goethals Bridge(GB), Bayonne Bridge(BB)   
 * 资费标准：   
@@ -162,7 +162,7 @@ https://www.panynj.gov/bridges-tunnels/en/tolls.html
   E. 3人白天从林肯隧道/乔治华盛顿大桥上层进NYC中城，晚上从OBX/GB/BB回NJ，必经Verrazano大桥。收费：NY:$7.75+6.55=$14.3；NJ:$7.75+10.17=$17.92；外州EZPass或无EZPass统一收$16+10.17=$26.17。   
 
 
-#### NJ Turnpike及【HOT】GS Pkwy   
+#### NJ Turnpike及GS Pkwy   
 * 路费计算器：   
 https://www.njta.com/toll-calculator   
 * 提示：   
@@ -206,7 +206,7 @@ Kingston-Rhinecliff Br, Rip Van Winkle Br
 https://nysba.ny.gov/toll-rates   
 提示：自西向东单向收费   
 
-#### 【Hot】NJ与DE间跨特拉华河桥梁
+#### NJ与DE间跨特拉华河桥梁
 * Delaware Memorial Br(I-295)   
 资费标准：    
 https://www.delawarememorialbridge.com/dmb-travel   
@@ -320,7 +320,7 @@ https://nywatertaxi.com/
 
 ——————————————————————— 
 ## 攻略区    
-#### 【Hot】New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC    
+#### New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC    
 * 从 I-287 或 NJ18 进入 US1 North 过了Menlo Park Mall之后按指示牌提前靠右进入GS Pkwy North入口（卡车禁行）   
 * 行驶至出口140A US22 East出，注意提前变道进入出口。（如果错过可以从Union收费站最右侧2个通道出口142A转入 I-78 East）   
 * US22靠左行驶从左侧出口进入US1-9 North Express（经过Pulaski Skyway），之后一直靠左直行即可抵达隧道入口   
@@ -328,7 +328,7 @@ https://nywatertaxi.com/
 * 回程从Pulaski Skyway下来后接US1-9 Local，沿着GS Pkwy标志走I-78 Express，之后转I-78 Local，并从最右道走GS Pkwy South进入GS Pkwy   
 Toll:$0(去程走US22，回程走I-78或US22)，$1.96（去程走I-78）。「就是这么神奇，去程I-78收费，回程不收！」
 
-#### 【Hot】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线    
+#### RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线    
 * 从US1 North进入I-287 一路向东，与NJ440连接   
 * 经过Outerbridge Crossing后靠右从Exit 2出，继续行驶NY440     
 * NY440尽头靠右进入I-278 East，3人及以上可行驶钻石Carpool车道   
