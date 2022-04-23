@@ -56,7 +56,7 @@ https://osmand.net/features/start
 https://www1.nyc.gov/html/dot/html/motorist/parking-regulations.shtml   
 * 换边停车说明：   
 https://www1.nyc.gov/html/dot/html/motorist/alternate-side-parking.shtml   
-https://www1.nyc.gov/html/dot/downloads/pdf/2021-asp-calendar-standard-chinese.pdf （中文）   
+https://www1.nyc.gov/html/dot/downloads/pdf/2022-asp-calendar-traditional-chinese.pdf （繁体中文，2022版）  
 * 路边停车告示标志地图：   
 https://nycdotsigns.net/   
 * 路边停车资费：   
