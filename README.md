@@ -322,6 +322,7 @@ Penn Station导航图：https://d3jueu6xs1mcfw.cloudfront.net/public/NY%20Penn%2
 ！Apple Pay中银联卡（借记、信用）显示不可用。    
 * Step 3 乘坐NJ Transit 至目的地。    
 NJ Transit火车轻轨线路图：https://content.njtransit.com/public/pdfs/maps/NJTRailSystemMap-Aug2022.pdf    
+Northeast Corridor东北走廊线路时刻表：https://content.njtransit.com/public/NEC-WKDY-072422_3.pdf   
 Northeast Corridor线至 Metuchen$11.75/Edison$13.25/New Brunswick$14或（工作日）Raritan Valley线至Dunellen$12.25/Bound Brook$14。    
 在NJ Transit App或售票机上购买至目的地的车票$13.25\~14，并于车内激活电子票以方便检票员检票。此App支持中国版的PayPal，并可使用绑定的银联卡（借记、信用）付款。    
 ！注意在App中查看火车Schedule以确定是否停靠您的目的地。    
