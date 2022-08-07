@@ -38,7 +38,7 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
     - [NY路费违章处理](#NY路费违章处理)
     - [NYC交罚单及申诉](#NYC交罚单及申诉)
 7. [攻略区](#攻略区)
-    - [【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域（下称RUNB区域）](#【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域（下称RUNB区域）)
+    - [【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域](#【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域)
     - [【HOT】New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC](#New-Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC)
     - [【HOT】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线](#【HOT】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线)
     - [RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）](#RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）)
@@ -298,7 +298,7 @@ https://nywatertaxi.com/
 
 ——————————————————————— 
 ## 攻略区    
-#### 【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域（下称RUNB区域）    
+#### 【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域     
 Step 0 准备一张含PayWave标志的银行卡（不含礼品卡和无法充值的预付卡）。    
 若卡片不含此标志，请尝试于手机钱包中添加此卡，并同时携带现金备用。    
 ！OMNY系统目前支持Google Pay, Apple Pay, Samsung Pay, Fitbit Pay以及银联/Visa/MasterCard/Discover/美国运通/JCB的信用卡。    
