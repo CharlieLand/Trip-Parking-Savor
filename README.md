@@ -44,7 +44,7 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
     - [RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）](#RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）)
     - [RUNB区域前往Boston（新英格兰幸福之旅）](#RUNB区域前往Boston（新英格兰幸福之旅）)
     - [RUNB区域前往MD/DC/VA（DMV樱花之旅）](#RUNB区域前往MD/DC/VA（DMV樱花之旅）)    
-附录. [基础知识](#基础知识)
+8. [基础知识](#基础知识)
     - [美国公路等级](#美国公路等级)
     - [常见缩写](#常见缩写)
 
