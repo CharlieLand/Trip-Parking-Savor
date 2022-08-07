@@ -273,6 +273,8 @@ https://www.panynj.gov/path/en/index.html
 https://www.panynj.gov/path/en/schedules-maps.html   
 Amtrak官网：   
 https://www.amtrak.com/home.html   
+Acela高速铁路（美国目前最快铁路，从波士顿经纽约至华盛顿DC，停靠Metropark）：    
+https://www.amtrak.com/acela-train    
 
 #### NJ与NY水路客运   
 * **【推荐】NY/NJ港口航线图**：   
