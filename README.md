@@ -257,7 +257,8 @@ https://www.state.nj.us/nj/trans/buses/
 **【Hot】NJ Transit**：   
 https://www.njtransit.com/   
 铁路图：   
-https://d2g63oyneaimm8.cloudfront.net/sites/default/files/NJ%20TRANSIT%20Rail%20System%20Map%20%E2%80%93%20October%202021.pdf   
+2021年10月旧版：https://d2g63oyneaimm8.cloudfront.net/sites/default/files/NJ%20TRANSIT%20Rail%20System%20Map%20%E2%80%93%20October%202021.pdf   
+2022年8月新版：https://content.njtransit.com/public/pdfs/maps/NJTRailSystemMap-Aug2022.pdf    
 **【Hot】NYC官网（含NYC Subway, Long Island Rail Road and Metro-North Railroad）**：   
 https://new.mta.info/fares   
 Staten Island Railway：   
