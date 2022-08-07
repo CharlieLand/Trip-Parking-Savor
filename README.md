@@ -326,7 +326,7 @@ NJ Transit火车各线路时刻表：https://www.njtransit.com/schedules/printab
 Northeast Corridor东北走廊线路时刻表：https://content.njtransit.com/public/NEC-WKDY-072422_3.pdf （工作日）https://content.njtransit.com/public/NEC-WKND-072422_0.pdf （周末）     
 Northeast Corridor线至 Metuchen$11.75/Edison$13.25/New Brunswick$14或（工作日）Raritan Valley线至Dunellen$12.25/Bound Brook$14。    
 在NJ Transit App或售票机上购买至目的地的车票$13.25\~14，并于车内激活电子票以方便检票员检票。此App支持中国版的PayPal，并可使用绑定的银联卡（借记、信用）付款。    
-！注意在App中查看火车Schedule以确定是否停靠您的目的地。    
+！注意在App中查看火车Schedule以确定是否停靠您的目的地，在开车前5分钟大屏幕上会显示停靠站台。    
 总共花费$24.75\~27    
 * Step 3替代版 乘坐Amtrak的Northeast Regional线或Palmetto线至New Brunswick 或 至Metropark    
 至NB：    
