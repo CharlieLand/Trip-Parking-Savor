@@ -310,7 +310,7 @@ https://nywatertaxi.com/
 #### 【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域     
 * Step 0 准备一张含PayWave标志的银行卡（不含礼品卡和无法充值的预付卡）。    
 若卡片不含此标志，请尝试于手机钱包中添加此卡，并同时携带现金备用。    
-！OMNY系统目前支持Google Pay, Apple Pay, Samsung Pay, Fitbit Pay以及银联/Visa/MasterCard/Discover/美国运通/JCB的信用卡。    
+！OMNY系统目前支持Google Pay, Apple Pay, Samsung Pay, Fitbit Pay以及银联（开通小额免密支付）/Visa/MasterCard/Discover/美国运通/JCB的信用卡。    
 ！中国大陆发行的卡中，Apple Pay仅支持银联（或带银联双标卡）。银联借记卡无法支付，其他借记卡不能有PIN码限制。    
 * Step 1 乘坐机场Airtrain至Jamaica LIRR长岛铁路火车站。    
 若发现无法使用OMNY，请购买MetroCard（刷磁条入闸机）并充值至少$8。中国卡的zipcode填00000。    
