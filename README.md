@@ -38,8 +38,7 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
     - [NY路费违章处理](#NY路费违章处理)
     - [NYC交罚单及申诉](#NYC交罚单及申诉)
 7. [攻略区](#攻略区)
-    - [【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域](#【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域)
-    - [【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域](#【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域)
+    - [【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域](#hot新老生从jfk返回new-brunswickedisonpiscataway区域)
     - [【HOT】New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC](#New-Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC)
     - [【HOT】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线](#【HOT】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线)
     - [RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）](#RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）)
@@ -311,9 +310,9 @@ https://nywatertaxi.com/
 ！Apple Pay中银联卡（借记、信用）显示不可用。    
 * Step 3 乘坐NJ Transit 至目的地。    
 Northeast Corridor线至 Metuchen$11.75/Edison$13.25/New Brunswick$14或（工作日）Raritan Valley线至Dunellen$12.25/Bound Brook$14。    
-在NJ Transit App或售票机上购买至目的地的车票$13.25~14，并于车内激活电子票以方便检票员检票。此App支持中国版的PayPal，并可使用绑定的银联卡（借记、信用）付款。    
+在NJ Transit App或售票机上购买至目的地的车票$13.25\~14，并于车内激活电子票以方便检票员检票。此App支持中国版的PayPal，并可使用绑定的银联卡（借记、信用）付款。    
 ！注意在App中查看火车Schedule以确定是否停靠您的目的地。    
-总共花费$24.75~27    
+总共花费$24.75\~27    
 * Step 3替代版 乘坐Amtrak的Northeast Regional线或Palmetto线至New Brunswick 或 至Metropark    
 至NB：    
 NER111  工作日   5:15-5:54    
