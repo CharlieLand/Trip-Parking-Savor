@@ -2,7 +2,8 @@
 The repo is to reduce your cost on tolls, parking fees, and other transportation fares within the NYC Bay Area(NJ Mainly).   
 
 更新于8/6/2022， 欢迎提出意见和建议   
-【优惠】NJTransit推出往返New York Penn Station的火车票40\%折扣，9/2截止    
+【迎新】攻略区更新JFK前往RU New Brunswick的公共交通搭乘方式，欢迎批评指点。
+【优惠】NJTransit推出往返New York Penn Station的火车票40\%折扣，9/2截止，相见https://www.njtransit.com/newyork    
 【重要】7月10日起，乔治华盛顿大桥(George Washington Bridge)将采取完全无现金收费，拼车折扣将被取消。此后只有林肯隧道仍保留拼车折扣（需提前加入PACP计划）。详见 https://www.panynj.gov/bridges-tunnels/en/cashless-tolling---b-t.html    
 【Note】电子狗（雷达监测器）购买推荐：https://www.bestbuy.com/site/escort-x80-radar-detector-black/5797708.p?skuId=5797708 感谢群友Jchen的分享：与Waze并用效果更佳   
 【New】荷兰隧道林肯隧道夜间进入纽约方向施工信息敬请关注Port Authority官网   
@@ -122,6 +123,7 @@ https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts
 #### PANYNJ NY与NJ州际收费桥梁隧道   
 * 从NJ进入曼岛：**Holland Tunnel(HT)**, **Lincoln Tunnel(LT)**, **George Washington Bridge(GWB)**,     
 * 从NJ进入史岛：**Outerbridge Crossing(OBX)**, Goethals Bridge(GB), Bayonne Bridge(BB)   
+* 至于是 MTA大都会运输署 还是 PANYNJ 纽约与新泽西港航局 所属桥梁，请参照：http://web.mta.info/bandt/html/btmap.html    
 * 资费标准：   
 https://www.panynj.gov/bridges-tunnels/en/tolls.html   
 【Toll】使用NJ EZP或 NY EZP行驶 HT, LT, GWB 或者一个自然月内PASI不足3次：高峰期$13.75，平峰期$11.75； PACP：$7.75； PASI：$6.88     
@@ -306,9 +308,12 @@ https://nywatertaxi.com/
 * Step 1 乘坐机场Airtrain至Jamaica LIRR长岛铁路火车站。    
 若发现无法使用OMNY，请购买MetroCard（刷磁条入闸机）并充值至少$8。中国卡的zipcode填00000。    
 * Step 2 乘坐LIRR任意线路至Penn Station。    
+Long Island Rail Road长岛铁路线路图：https://new.mta.info/map/5361    
+Penn Station导航图：https://d3jueu6xs1mcfw.cloudfront.net/public/NY%20Penn%20Station%20Directory_011022.pdf    
 在MTA eTix App（若有网络）或售票机上购买至Penn Station的火车，请选City Ticket $5。并于车内激活电子票以方便检票员检票。    
 ！Apple Pay中银联卡（借记、信用）显示不可用。    
 * Step 3 乘坐NJ Transit 至目的地。    
+NJ Transit火车轻轨线路图：https://content.njtransit.com/public/pdfs/maps/NJTRailSystemMap-Aug2022.pdf    
 Northeast Corridor线至 Metuchen$11.75/Edison$13.25/New Brunswick$14或（工作日）Raritan Valley线至Dunellen$12.25/Bound Brook$14。    
 在NJ Transit App或售票机上购买至目的地的车票$13.25\~14，并于车内激活电子票以方便检票员检票。此App支持中国版的PayPal，并可使用绑定的银联卡（借记、信用）付款。    
 ！注意在App中查看火车Schedule以确定是否停靠您的目的地。    
