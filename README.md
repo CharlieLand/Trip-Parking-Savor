@@ -124,6 +124,7 @@ https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts
 * 从NJ进入曼岛：**Holland Tunnel(HT)**, **Lincoln Tunnel(LT)**, **George Washington Bridge(GWB)**,     
 * 从NJ进入史岛：**Outerbridge Crossing(OBX)**, Goethals Bridge(GB), Bayonne Bridge(BB)   
 * 至于是 MTA大都会运输署 还是 PANYNJ 纽约与新泽西港航局 所属桥梁，请参照：http://web.mta.info/bandt/html/btmap.html    
+* 各桥隧实时通行用时预计：https://www.panynj.gov/bridges-tunnels/en/index.html    
 * 资费标准：   
 https://www.panynj.gov/bridges-tunnels/en/tolls.html   
 【Toll】使用NJ EZP或 NY EZP行驶 HT, LT, GWB 或者一个自然月内PASI不足3次：高峰期$13.75，平峰期$11.75； PACP：$7.75； PASI：$6.88     
