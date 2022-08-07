@@ -2,7 +2,7 @@
 The repo is to reduce your cost on tolls, parking fees, and other transportation fares within the NYC Bay Area(NJ Mainly).   
 
 更新于8/6/2022， 欢迎提出意见和建议   
-【优惠】
+【优惠】NJTransit推出往返New York Penn Station的火车票40\%折扣，9/2截止    
 【重要】7月10日起，乔治华盛顿大桥(George Washington Bridge)将采取完全无现金收费，拼车折扣将被取消。此后只有林肯隧道仍保留拼车折扣（需提前加入PACP计划）。详见 https://www.panynj.gov/bridges-tunnels/en/cashless-tolling---b-t.html    
 【Note】电子狗（雷达监测器）购买推荐：https://www.bestbuy.com/site/escort-x80-radar-detector-black/5797708.p?skuId=5797708 感谢群友Jchen的分享：与Waze并用效果更佳   
 【New】荷兰隧道林肯隧道夜间进入纽约方向施工信息敬请关注Port Authority官网   
@@ -38,12 +38,12 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
     - [NY路费违章处理](#NY路费违章处理)
     - [NYC交罚单及申诉](#NYC交罚单及申诉)
 7. [攻略区](#攻略区)
-    - [【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域（下称RUNB区域）](# 【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域（下称RUNB区域）)
-    - [【HOT】New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC](# New-Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC)
-    - [【HOT】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线](# 【HOT】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线)
-    - [RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）](# RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）)
-    - [RUNB区域前往Boston（新英格兰幸福之旅）](# RUNB区域前往Boston（新英格兰幸福之旅）)
-    - [RUNB区域前往MD/DC/VA（DMV樱花之旅）](# RUNB区域前往MD/DC/VA（DMV樱花之旅）)
+    - [【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域（下称RUNB区域）](#【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域（下称RUNB区域）)
+    - [【HOT】New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC](#New-Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC)
+    - [【HOT】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线](#【HOT】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线)
+    - [RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）](#RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）)
+    - [RUNB区域前往Boston（新英格兰幸福之旅）](#RUNB区域前往Boston（新英格兰幸福之旅）)
+    - [RUNB区域前往MD/DC/VA（DMV樱花之旅）](#RUNB区域前往MD/DC/VA（DMV樱花之旅）)
 附录 [基础知识](#基础知识)
     - [美国公路等级](#美国公路等级)
     - [常见缩写](#常见缩写)
