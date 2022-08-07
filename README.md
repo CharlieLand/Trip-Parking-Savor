@@ -1,26 +1,24 @@
 # Trip-Parking-Savor
 The repo is to reduce your cost on tolls, parking fees, and other transportation fares within the NYC Bay Area(NJ Mainly).   
 
-更新于6/13/2022， 欢迎提出意见和建议   
-【重要】自7月10日起，乔治华盛顿大桥(George Washington Bridge)将采取完全无现金收费，拼车折扣将被取消。此后只有林肯隧道仍保留拼车折扣（需提前加入PACP计划）。详见 https://www.panynj.gov/bridges-tunnels/en/cashless-tolling---b-t.html    
+更新于8/6/2022， 欢迎提出意见和建议   
+【优惠】
+【重要】7月10日起，乔治华盛顿大桥(George Washington Bridge)将采取完全无现金收费，拼车折扣将被取消。此后只有林肯隧道仍保留拼车折扣（需提前加入PACP计划）。详见 https://www.panynj.gov/bridges-tunnels/en/cashless-tolling---b-t.html    
 【Note】电子狗（雷达监测器）购买推荐：https://www.bestbuy.com/site/escort-x80-radar-detector-black/5797708.p?skuId=5797708 感谢群友Jchen的分享：与Waze并用效果更佳   
 【New】荷兰隧道林肯隧道夜间进入纽约方向施工信息敬请关注Port Authority官网   
 【New】道路收费类新增常见案例   
 
 ## 目录
 
-1. [基础知识](#基础知识)
-    - [美国公路等级](#美国公路等级)
-    - [常见缩写](#常见缩写)
-2. [地图类](#地图类)
-3. [停车类](#停车类)
+1. [地图类](#地图类)
+2. [停车类](#停车类)
     - [NYC停车](#NYC停车)
     - [实用停车位寻找预订App](#实用停车位寻找预订App)
-4. [EZPass类](#EZPass类)
+3. [EZPass类](#EZPass类)
     - [NJ EZPass](#NJ-EZPass)
     - [NY EZPass](#NY-EZPass)
     - [【强推】PANYNJ PASI及PACP](#PANYNJ-PASI-Plan-史岛桥梁折扣计划-及-PANYNJ-PACP-3人及以上共乘Carpool优惠计划)
-5. [道路收费类](#道路收费类)
+4. [道路收费类](#道路收费类)
     - [【HOT】PANYNJ NY与NJ州际收费桥梁隧道](#PANYNJ-NY与NJ州际收费桥梁隧道)
     - [NJ Turnpike及【HOT】GS Pkwy](#NJ-Turnpike及GS-Pkwy)
     - [NYC MTA收费公路](#NYC-MTA收费公路)
@@ -31,56 +29,28 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
     - [NJ与PA（除费城）间跨特拉华河免费桥梁](#NJ与PA（除费城）间跨特拉华河免费桥梁)
     - [大西洋城高速Atlantic City Expressway](#大西洋城高速Atlantic-City-Expressway)
     - [开普梅县收费桥梁Cape May County Bridges](#开普梅县收费桥梁Cape-May-County-Bridges)
-6. [公共交通出行类](#公共交通出行类)
+5. [公共交通出行类](#公共交通出行类)
     - [NJ及NY公路铁路客运](#NJ及NY公路铁路客运)
     - [NJ与NY水路客运](#NJ与NY水路客运)
     - [NYC内水路客运](#NYC内水路客运)
-7. [违章处理类](#违章处理类)
+6. [违章处理类](#违章处理类)
     - [NJ路费违章violation处理](#NJ路费违章violation处理)
     - [NY路费违章处理](#NY路费违章处理)
     - [NYC交罚单及申诉](#NYC交罚单及申诉)
-8. [攻略区](#攻略区)
-    - [【HOT】New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC](#New-Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC)
-    - [【HOT】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线](#【HOT】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线)
-    - [RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）](#RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）)
-    - [RUNB区域前往Boston（新英格兰幸福之旅）](#RUNB区域前往Boston（新英格兰幸福之旅）)
-    - [RUNB区域前往MD/DC/VA（DMV樱花之旅）](#RUNB区域前往MD/DC/VA（DMV樱花之旅）)
+7. [攻略区](#攻略区)
+    - [【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域（下称RUNB区域）](# 【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域（下称RUNB区域）)
+    - [【HOT】New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC](# New-Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC)
+    - [【HOT】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线](# 【HOT】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线)
+    - [RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）](# RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）)
+    - [RUNB区域前往Boston（新英格兰幸福之旅）](# RUNB区域前往Boston（新英格兰幸福之旅）)
+    - [RUNB区域前往MD/DC/VA（DMV樱花之旅）](# RUNB区域前往MD/DC/VA（DMV樱花之旅）)
+附录 [基础知识](#基础知识)
+    - [美国公路等级](#美国公路等级)
+    - [常见缩写](#常见缩写)
 
-
-## 基础知识
-#### 美国公路等级  
-* 州际公路  Interstate，如I-95，I-287等   
-* 国道     US Route，如US1，US9，US22等   
-* 州道     State Route，如NJ18，NJ27，NY440等   
-* 县道     County Route，如Middle Sex529等   
-* 收费公路  Turnpike，如NJ Turnpike，PA Turnpike等   
-* 花园道路  Parkway，如Garden State Parkway(GS Pkwy)，Belt Parkway等   
-
-#### 常见缩写
-* NJ      | New Jersey 新泽西州   
-* NYC     | New York City 纽约市   
-* NYS     | New York State 纽约州   
-* 曼岛     | Manhattan 曼哈顿岛   
-* WTC     | World Trade Center 世贸中心   
-* PANYNJ  | Port Authority NY & NJ 纽约与新泽西港务局   
-* PATH    | Port Authority Trans-Hudson 港务局穿越哈德逊河铁路   
-* SI/史岛  | Staten Island 史丹顿岛   
-* Bk      | Brooklyn 布鲁克林（布碌仑）   
-* LIC     | Long Island City 长岛市，属于皇后区Queens   
-* JC      | Jersey City 泽西市   
-* Philly  | Philadelphia 费城
-* PA      | Pennsylvania 宾州   
-* CT      | Connecticut 康州   
-* DE      | Delaware 特拉华州（免税州）   
-* MD      | Maryland 马里兰州   
-* MA      | Massachusetts 麻省   
-* DC      | Washington, District of Columbia 首都华盛顿（哥伦比亚特区）   
-* MTA     | Metropolitan Transportation Authority 大都会运输署   
-* NYSBA   | NY State Bridge Authority 纽约州桥梁管理局
-
-———————————————————————
 ## 地图类   
-* Google Maps 及 Apple Map 路况、卫星、街景信息相对准确   
+* Google Maps 路况、卫星、街景信息相对准确，特别提示：NYC范围内除非有告示，不然红灯禁止右转   
+* Apple Map 的Transit公共交通功能相对友好，推荐没有车的同学搭配Transit App使用    
 * Google Earth 可显示三维街景  
 * Waze 使用户能上报路况及警察信息， Waze Carpool可以为他人提供顺风车   
 * OpenStreetMap 可显示道路种类（颜色越深一般限速越高，分叉越少）  
@@ -95,10 +65,18 @@ https://osmand.net/features/start
 https://www1.nyc.gov/html/dot/html/motorist/parking-regulations.shtml   
 * 换边停车条例及暂停执行日期：   
 https://www1.nyc.gov/html/dot/html/motorist/alternate-side-parking.shtml   
-https://www1.nyc.gov/html/dot/downloads/pdf/2022-asp-calendar-traditional-chinese.pdf （繁体中文，2022版）  
+https://www1.nyc.gov/html/dot/downloads/pdf/2022-asp-calendar-traditional-chinese.pdf （繁体中文，2022版） 
+除周日外暂停执行日期：8/15周一，9/5周一，9/26周一，9/27周二，    
+10/5周三，10/10周一，10/11周二，10/17周一，10/18周二，10/24周一，    
+11/1周二，11/8周二，11/11周五，11/24周四，12/8周四，12/26周一    
 * 路边停车告示标志地图：   
 https://nycdotsigns.net/   
-* 路边停车资费：   
+注意：消防栓前后15英尺不得停车，包括自行车道旁的浮动停车道   
+* No Stopping, No Standing 和 No Parking 的区别   
+1. 都不可停车等待   
+2. 只有 No Parking 可以在路边装卸货物   
+3. No Standing 和 No Parking 可以接送乘客上下车   
+* 路边停车资费 每小时$1.25～$7.50：   
 https://www1.nyc.gov/html/dot/html/motorist/parking-rates.shtml   
 * 市政停车场Municipal Parking地图：   
 https://www1.nyc.gov/html/dot/html/motorist/parkinglist.shtml   
@@ -153,13 +131,13 @@ https://www.panynj.gov/bridges-tunnels/en/tolls.html
 史岛SGT码头附近有Empire Outlet附属SP+停车场 及 码头附属Municipal Metered停车场。SP+停车场在Groupon上24hr仅需$9.5，Municipal $1.5/hr 上限18hr $12   
 * 提示：    
   1. 进入NYC方向单向收费，即回程不收费   
-  2. LT 及 GWB 上层Upper Level可以走人工收费通道告知收费员3人及以上的Carpool，即使用PACP   
+  2. Lincoln Tunnel可以走人工收费通道告知收费员3人及以上的Carpool，即使用PACP   
 * 例：  
-  A. 白天从荷兰隧道/乔治华盛顿大桥下层进NYC下城，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，无论几人乘车都不能享受$7.75的折扣。收费：高峰期NJ/NY EZPass付$13.75，其余时间$11.75；外州EZPass或无EZPass统一收$16。  
-  B. 3人白天从林肯隧道/乔治华盛顿大桥上层进NYC中城，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，需要经过Cash **&** EZPass车道声明Carpool享受$7.75的折扣，同时EZPass账户中需要增加PACP计划。收费：NY或NJ EZPass付$7.75；外州EZPass或无EZPass统一收$16。   
-  C. 白天从OBX/GB/BB进SI(温馨提示：SI的超速抓拍较多)，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，中途必经Verrazano大桥（参考下面NYC MTA收费公路条目）。收费：1）若该自然月从NJ进入SI大于等于3次，则每次NY EZPass付$6.88+6.55=$13.43，NJ EZPass付$6.88+10.17=$17.05，同时EZPass账户中需要增加PASI计划；2）若该自然月去SI小于3次，则每次高峰期NY EZPass付$13.75+6.55=$20.3，NJ EZPass付$13.75+10.17=$23.92，其余时间NY EZPass付$11.75+6.55=$18.3，NJ EZPass付$11.75+10.17=$21.92；3）外州EZPass或无EZPass统一收$16+10.17=$26.17，不适用上述优惠计划。   
-  D. 白天从OBX/GB/BB进SI，晚上从OBX/GB/BB回NJ。收费：参考C。若需要进入曼岛或布鲁克林，必经Verrazano大桥，则应增加回程经过Verrazano大桥$6.55/$10.17的费用。情况1：NY:$6.88+6.55\*2=$19.98，NJ:$6.88+10.17\*2=$27.22；情况2：高峰期NY:$13.75+6.55\*2=$26.85，NJ:$13.75+10.17\*2=$34.09，其余时间NY:$11.75+6.55\*2=$24.85，NJ:$11.75+10.17\*2=$32.09；情况3：$16+10.17\*2=$36.34。   
-  E. 3人白天从林肯隧道/乔治华盛顿大桥上层进NYC中城，晚上从OBX/GB/BB回NJ，必经Verrazano大桥。收费：NY:$7.75+6.55=$14.3；NJ:$7.75+10.17=$17.92；外州EZPass或无EZPass统一收$16+10.17=$26.17。   
+  A【不推荐】. 白天从荷兰隧道/乔治华盛顿大桥进NYC下城，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，无论几人乘车都不能享受$7.75的折扣。收费：高峰期NJ/NY EZPass付$13.75，其余时间$11.75；外州EZPass或无EZPass统一收$16。  
+  B【合乘推荐】. 3人白天从林肯隧道进NYC中城，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，需要经过Cash **&** EZPass车道声明Carpool享受$7.75的折扣，同时EZPass账户中需要增加PACP计划。收费：NY或NJ EZPass付$7.75；外州EZPass或无EZPass统一收$16。   
+  C【去SI 3+次推荐】. 白天从OBX/GB/BB进SI(温馨提示：SI的超速抓拍较多)，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，中途必经Verrazano大桥（参考下面NYC MTA收费公路条目）。收费：1）若该自然月从NJ进入SI大于等于3次，则每次NY EZPass付$6.88+6.55=$13.43，NJ EZPass付$6.88+10.17=$17.05，同时EZPass账户中需要增加PASI计划；2）若该自然月去SI小于3次，则每次高峰期NY EZPass付$13.75+6.55=$20.3，NJ EZPass付$13.75+10.17=$23.92，其余时间NY EZPass付$11.75+6.55=$18.3，NJ EZPass付$11.75+10.17=$21.92；3）外州EZPass或无EZPass统一收$16+10.17=$26.17，不适用上述优惠计划。   
+  D【快捷路径】. 白天从OBX/GB/BB进SI，晚上从OBX/GB/BB回NJ。收费：参考C。若需要进入曼岛或布鲁克林，必经Verrazano大桥，则应增加回程经过Verrazano大桥$6.55/$10.17的费用。情况1：NY:$6.88+6.55\*2=$19.98，NJ:$6.88+10.17\*2=$27.22；情况2：高峰期NY:$13.75+6.55\*2=$26.85，NJ:$13.75+10.17\*2=$34.09，其余时间NY:$11.75+6.55\*2=$24.85，NJ:$11.75+10.17\*2=$32.09；情况3：$16+10.17\*2=$36.34。   
+  E【替代】. 3人白天从林肯隧道进NYC中城，晚上从OBX/GB/BB回NJ，必经Verrazano大桥。收费：NY:$7.75+6.55=$14.3；NJ:$7.75+10.17=$17.92；外州EZPass或无EZPass统一收$16+10.17=$26.17。   
 
 
 #### NJ Turnpike及GS Pkwy   
@@ -320,6 +298,34 @@ https://nywatertaxi.com/
 
 ——————————————————————— 
 ## 攻略区    
+#### 【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域（下称RUNB区域）    
+Step 0 准备一张含PayWave标志的银行卡（不含礼品卡和无法充值的预付卡）。    
+若卡片不含此标志，请尝试于手机钱包中添加此卡，并同时携带现金备用。    
+！OMNY系统目前支持Google Pay, Apple Pay, Samsung Pay, Fitbit Pay以及银联/Visa/MasterCard/Discover/美国运通/JCB的信用卡。    
+！中国大陆发行的卡中，Apple Pay仅支持银联（或带银联双标卡）。银联借记卡无法支付，其他借记卡不能有PIN码限制。    
+Step 1 乘坐机场Airtrain至Jamaica LIRR长岛铁路火车站。    
+若发现无法使用OMNY，请购买MetroCard（刷磁条入闸机）并充值至少$8。中国卡的zipcode填00000。    
+
+Step 2 乘坐LIRR任意线路至Penn Station。    
+在MTA eTix App（若有网络）或售票机上购买至Penn Station的火车，请选City Ticket $5。并于车内激活电子票以方便检票员检票。    
+！Apple Pay中银联卡（借记、信用）显示不可用。    
+
+Step 3 乘坐NJ Transit 至目的地。    
+Northeast Corridor线至 Metuchen$11.75/Edison$13.25/New Brunswick$14或（工作日）Raritan Valley线至Dunellen$12.25/Bound Brook$14。    
+在NJ Transit App或售票机上购买至目的地的车票$13.25~14，并于车内激活电子票以方便检票员检票。此App支持中国版的PayPal，并可使用绑定的银联卡（借记、信用）付款。    
+！注意在App中查看火车Schedule以确定是否停靠您的目的地。    
+
+总共花费$24.75~27    
+
+Step 3替代版 乘坐Amtrak的Northeast Regional线或Palmetto线至New Brunswick 或 至Metropark    
+至NB：    
+NER111  工作日   5:15-5:54    
+Palmetto 每日   6:02-6:40    
+NER171 工作日   12:35-13:17    
+NER165 周日   20:01-20:45    
+
+至Metropark：班次众多，可以选择最快26分钟的Acela    
+
 #### 【HOT】New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC    
 * 从 I-287 或 NJ18 进入 US1 North 过了Menlo Park Mall之后按指示牌提前靠右进入GS Pkwy North入口（卡车禁行）   
 * 行驶至出口140A US22 East出，注意提前变道进入出口。（如果错过可以从Union收费站最右侧2个通道出口142A转入 I-78 East）   
@@ -365,4 +371,37 @@ https://mdta.maryland.gov/TollRatesTables
 https://driveezmd.com/toll-rate-calculator/   
 线路走向：   
 https://www.google.com/maps/d/u/1/edit?mid=1Y2pXAs_-QpFOPdTUF0kiYVQAE80crSl4&usp=sharing   
-Toll:$9（去程，绕行DE/MD边界），$13（去程，直接过边界），$12（回程，绕行边界），$16（回程，直接过边界）   
+Toll:$9（去程，绕行DE/MD边界），$13（去程，直接过边界），$12（回程，绕行边界），$16（回程，直接过边界）  
+
+——————————————————————— 
+
+## 基础知识
+#### 美国公路等级  
+* 州际公路  Interstate，如I-95，I-287等   
+* 国道     US Route，如US1，US9，US22等   
+* 州道     State Route，如NJ18，NJ27，NY440等   
+* 县道     County Route，如Middle Sex529等   
+* 收费公路  Turnpike，如NJ Turnpike，PA Turnpike等   
+* 花园道路  Parkway，如Garden State Parkway(GS Pkwy)，Belt Parkway等   
+
+#### 常见缩写
+* NJ      | New Jersey 新泽西州   
+* NYC     | New York City 纽约市   
+* NYS     | New York State 纽约州   
+* 曼岛     | Manhattan 曼哈顿岛   
+* WTC     | World Trade Center 世贸中心   
+* PANYNJ  | Port Authority NY & NJ 纽约与新泽西港务局   
+* PATH    | Port Authority Trans-Hudson 港务局穿越哈德逊河铁路   
+* SI/史岛  | Staten Island 史丹顿岛   
+* Bk      | Brooklyn 布鲁克林（布碌仑）   
+* LIC     | Long Island City 长岛市，属于皇后区Queens   
+* JC      | Jersey City 泽西市   
+* Philly  | Philadelphia 费城
+* PA      | Pennsylvania 宾州   
+* CT      | Connecticut 康州   
+* DE      | Delaware 特拉华州（免税州）   
+* MD      | Maryland 马里兰州   
+* MA      | Massachusetts 麻省   
+* DC      | Washington, District of Columbia 首都华盛顿（哥伦比亚特区）   
+* MTA     | Metropolitan Transportation Authority 大都会运输署   
+* NYSBA   | NY State Bridge Authority 纽约州桥梁管理局
