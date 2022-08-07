@@ -254,20 +254,23 @@ https://www.cmlf.com/schedules-fares
 #### NJ及NY公路铁路客运   
 * NJ官网：   
 https://www.state.nj.us/nj/trans/buses/   
-**【Hot】NJ Transit**：   
+**【HOT】NJ Transit**：   
 https://www.njtransit.com/   
 铁路图：   
 2021年10月旧版：https://d2g63oyneaimm8.cloudfront.net/sites/default/files/NJ%20TRANSIT%20Rail%20System%20Map%20%E2%80%93%20October%202021.pdf   
 2022年8月新版：https://content.njtransit.com/public/pdfs/maps/NJTRailSystemMap-Aug2022.pdf    
-**【Hot】NYC官网（含NYC Subway, Long Island Rail Road and Metro-North Railroad）**：   
+列车各线路时刻表：https://www.njtransit.com/schedules/printable   
+**【HOT】NYC官网（含NYC Subway, Long Island Rail Road and Metro-North Railroad）**：   
 https://new.mta.info/fares   
 Staten Island Railway：   
 https://new.mta.info/agency/staten-island-railway   
 PANYNJ官网：   
 客运站Midtown Bus Terminal, George Washington Bridge Bus Station, Journal Square Transportation Center：   
 https://www.panynj.gov/bus-terminals/en/index.html   
-**【Hot】PATH轻轨**：   
+**【HOT】PATH轻轨**：   
 https://www.panynj.gov/path/en/index.html   
+列车时刻表及线路图：    
+https://www.panynj.gov/path/en/schedules-maps.html   
 Amtrak官网：   
 https://www.amtrak.com/home.html   
 
