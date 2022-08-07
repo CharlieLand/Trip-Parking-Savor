@@ -2,7 +2,7 @@
 The repo is to reduce your cost on tolls, parking fees, and other transportation fares within the NYC Bay Area(NJ Mainly).   
 
 更新于8/6/2022， 欢迎提出意见和建议   
-【迎新】攻略区更新JFK前往RU New Brunswick的公共交通搭乘方式，欢迎批评指点。    
+【迎新】攻略区更新JFK前往RU New Brunswick的公共交通搭乘方式，欢迎批评指正。    
 【优惠】NJTransit推出往返New York Penn Station的火车票40\%折扣，9/2截止，相见https://www.njtransit.com/newyork    
 【重要】7月10日起，乔治华盛顿大桥(George Washington Bridge)将采取完全无现金收费，拼车折扣将被取消。此后只有林肯隧道仍保留拼车折扣（需提前加入PACP计划）。详见 https://www.panynj.gov/bridges-tunnels/en/cashless-tolling---b-t.html    
 【Note】电子狗（雷达监测器）购买推荐：https://www.bestbuy.com/site/escort-x80-radar-detector-black/5797708.p?skuId=5797708 感谢群友Jchen的分享：与Waze并用效果更佳   
@@ -316,6 +316,7 @@ https://nywatertaxi.com/
 若发现无法使用OMNY，请购买MetroCard（刷磁条入闸机）并充值至少$8。中国卡的zipcode填00000。    
 * Step 2 乘坐LIRR任意线路至Penn Station。    
 Long Island Rail Road长岛铁路线路图：https://new.mta.info/map/5361    
+LIRR City Terminal线路时间表：https://new.mta.info/document/84986    
 Penn Station导航图：https://d3jueu6xs1mcfw.cloudfront.net/public/NY%20Penn%20Station%20Directory_011022.pdf    
 在MTA eTix App（若有网络）或售票机上购买至Penn Station的火车，请选City Ticket $5。并于车内激活电子票以方便检票员检票。    
 ！Apple Pay中银联卡（借记、信用）显示不可用。    
