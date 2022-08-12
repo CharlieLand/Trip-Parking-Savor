@@ -267,7 +267,7 @@ https://www.cmlf.com/schedules-fares
 #### NJ及NY公路铁路客运   
 * NJ政府交通部门官网：   
 https://www.state.nj.us/nj/trans/buses/   
-* **【HOT】NJ Transit NJ交通运输**    
+* **【HOT】NJ Transit 新泽西公共交通**    
 官网：https://www.njtransit.com/   
 有频繁通学需求可以考虑Student Pass：https://www.njtransit.com/studentpass   
 * 铁路：   
