@@ -372,6 +372,8 @@ NER171 工作日   12:35-13:17
 NER165 周日   20:01-20:45    
 至Metropark：班次众多，可以选择最快26分钟的Acela    
 
+！JFK机场快速巴士至EWR纽瓦克机场\$29，可接驳NJ Transit   
+
 #### 【HOT】New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC    
 * 从 I-287 或 NJ18 进入 US1 North 过了Menlo Park Mall之后按指示牌提前靠右进入GS Pkwy North入口（卡车禁行）   
 * 行驶至出口140A US22 East出，注意提前变道进入出口。（如果错过可以从Union收费站最右侧2个通道出口142A转入 I-78 East）   
@@ -425,6 +427,8 @@ Toll:$9（去程，绕行DE/MD边界），$13（去程，直接过边界），$1
 * MNR市区线：Midtown去Uptown可从Grand Central Terminal车站前往Harlem 125th St（所有路线均可）；Bronx的洋基体育场Hudson Line的Yankees 153rd Street；纽约植物园Harlem Line的Botanical Garden   
 * 缆车：前往罗斯福岛   
 * 轮渡：免费轮渡前往史丹顿岛，收费轮渡可前往LIC及Brooklyn详见公共交通水路部分   
+* 快速巴士、SBS巴士及NICE Bus (Nassau Inter-County Express)   
+* NY Waterway Midtown 39th St码头接驳巴士   
 
 ——————————————————————— 
 
