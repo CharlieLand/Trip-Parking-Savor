@@ -2,7 +2,8 @@
 The repo is to reduce your cost on tolls, parking fees, and other transportation fares within the NYC Bay Area(NJ Mainly).   
 
 更新于8/12/2022， 欢迎提出意见和建议   
-【新生特辑】已更新RUNB公共交通出行方式。攻略区更新JFK前往RU New Brunswick的公共交通搭乘方式，欢迎批评指正。    
+【新生特辑】已更新RUNB公共交通出行方式。攻略区更新JFK前往RU New Brunswick的公共交通搭乘方式，欢迎批评指正    
+【New】9/12起，纽约轮渡单程将涨价至\$4，多次票接近\$2.75每程   
 【优惠】NJTransit推出往返New York Penn Station的火车票40\%折扣，9/2截止，相见https://www.njtransit.com/newyork    
 【重要】7月10日起，乔治华盛顿大桥(George Washington Bridge)将采取完全无现金收费，拼车折扣将被取消。此后只有林肯隧道仍保留拼车折扣（需提前加入PACP计划）。详见 https://www.panynj.gov/bridges-tunnels/en/cashless-tolling---b-t.html    
 【Note】电子狗（雷达监测器）购买推荐：https://www.bestbuy.com/site/escort-x80-radar-detector-black/5797708.p?skuId=5797708 感谢群友Jchen的分享：与Waze并用效果更佳   
@@ -275,10 +276,10 @@ https://www.state.nj.us/nj/trans/buses/
 2022年8月新版线路图：https://content.njtransit.com/public/pdfs/maps/NJTRailSystemMap-Aug2022.pdf    
 列车各线路时刻表：https://www.njtransit.com/schedules/printable   
 热门车站：   
-    1. Northeast Corridor东北走廊线:Jersey Avenue, New Brunswick, Edison爱迪生, Metuchen, Metropark, Rahway, Newark Airport 纽瓦克机场, Newark Penn 纽瓦克宾州站（换乘PATH红线）, New York Penn 纽约宾州站   
+    1. Northeast Corridor东北走廊线:Jersey Ave, New Brunswick, Edison爱迪生, Metuchen, Metropark（接驳Amtrak）, Rahway, Newark Airport 纽瓦克机场, Newark Penn 纽瓦克宾州站（换乘PATH红线）, New York Penn 纽约宾州站   
     2. Raritan Valley拉里坦河谷线(周末终点站是Newark Penn):Bound Brook, Dunellen, Plainfield, Rahway,  Newark Airport 纽瓦克机场, Newark Penn 纽瓦克宾州站（换乘PATH红线）, New York Penn 纽约宾州站   
     3. North Jersey Coast北泽西海岸线: Perth Amboy, Woodbridge, Avenel, Rahway,  Newark Airport 纽瓦克机场, Newark Penn 纽瓦克宾州站（换乘PATH红线）, New York Penn 纽约宾州站   
-    4. PATH轻轨: Newark Penn（换乘上述三条线）, Harrison, Journal Square, Grove Street, Exchange Place, World Trade Center(NYC), Newport, Hoboken, 14th St(NYC), 23rd St(NYC), 33rd St(NYC)   
+    4. PATH轻轨: Newark Penn（换乘上述三条线）, Harrison, Journal Square, Grove Street（泽西市中心）, Exchange Place（哈德孙河新泽西侧）, World Trade Center(NYC), Newport, Hoboken, 14th St(NYC), 23rd St(NYC), 33rd St(NYC)   
 ！去北部或者Hoboken可在Secaucus Junction站换乘， Rahway可换乘前三条线。   
 * 公交（接受硬币、$1纸币和App电子票；部分大站有自动售票机和人工售票窗口，必须购买纸质或电子票）   
 总指南：https://www.njtransit.com/rider-guide-for-bus-customers   
