@@ -419,6 +419,13 @@ https://driveezmd.com/toll-rate-calculator/
 https://www.google.com/maps/d/u/1/edit?mid=1Y2pXAs_-QpFOPdTUF0kiYVQAE80crSl4&usp=sharing   
 Toll:$9（去程，绕行DE/MD边界），$13（去程，直接过边界），$12（回程，绕行边界），$16（回程，直接过边界）  
 
+#### 害怕搭乘纽约地铁？请收好是纽约非地铁专题   
+* PATH：工作日6a～11p从Downtown前往Midtown可从世贸中心（WTC）乘坐绿线至Newport，换乘黄线至Christopher St，9th St，14th St，23rd St，33rd St。其他时间需要在Grove St换乘   
+* LIRR City Ticket（限zone 1和zone 3内）：从Midtown前往LGA机场可从Penn Station至Woodside，转Q70SBS巴士；从Midtown前往JFK机场可从Penn Station至Jamaica，转Airtrain。去法拉盛可乘Port Washington线至Flushing Main St；详见：https://new.mta.info/fares/cityticket   
+* MNR市区线：Midtown去Uptown可从Grand Central Terminal车站前往Harlem 125th St（所有路线均可）；Bronx的洋基体育场Hudson Line的Yankees 153rd Street；纽约植物园Harlem Line的Botanical Garden   
+* 缆车：前往罗斯福岛   
+* 轮渡：免费轮渡前往史丹顿岛，收费轮渡可前往LIC及Brooklyn详见公共交通水路部分   
+
 ——————————————————————— 
 
 ## 基础知识
