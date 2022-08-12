@@ -271,7 +271,7 @@ https://www.cmlf.com/schedules-fares
 https://www.state.nj.us/nj/trans/buses/   
 * **【HOT】NJ Transit 新泽西公共交通**    
 官网：https://www.njtransit.com/   
-有频繁通学需求可以考虑Student Pass：https://www.njtransit.com/studentpass   
+有频繁通学需求可以考虑Student Monthly Pass，RU学生75折。当月10号前购买下个月月票：https://www.njtransit.com/studentpass   
 * 铁路：   
 2021年10月旧版线路图：https://d2g63oyneaimm8.cloudfront.net/sites/default/files/NJ%20TRANSIT%20Rail%20System%20Map%20%E2%80%93%20October%202021.pdf   
 2022年8月新版线路图：https://content.njtransit.com/public/pdfs/maps/NJTRailSystemMap-Aug2022.pdf    
