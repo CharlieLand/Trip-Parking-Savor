@@ -1,8 +1,8 @@
 # Trip-Parking-Savor
 The repo is to reduce your cost on tolls, parking fees, and other transportation fares within the NYC Bay Area(NJ Mainly).   
 
-更新于8/6/2022， 欢迎提出意见和建议   
-【迎新】攻略区更新JFK前往RU New Brunswick的公共交通搭乘方式，欢迎批评指正。    
+更新于8/12/2022， 欢迎提出意见和建议   
+【新生特辑】已更新RUNB公共交通出行方式。攻略区更新JFK前往RU New Brunswick的公共交通搭乘方式，欢迎批评指正。    
 【优惠】NJTransit推出往返New York Penn Station的火车票40\%折扣，9/2截止，相见https://www.njtransit.com/newyork    
 【重要】7月10日起，乔治华盛顿大桥(George Washington Bridge)将采取完全无现金收费，拼车折扣将被取消。此后只有林肯隧道仍保留拼车折扣（需提前加入PACP计划）。详见 https://www.panynj.gov/bridges-tunnels/en/cashless-tolling---b-t.html    
 【Note】电子狗（雷达监测器）购买推荐：https://www.bestbuy.com/site/escort-x80-radar-detector-black/5797708.p?skuId=5797708 感谢群友Jchen的分享：与Waze并用效果更佳   
@@ -10,7 +10,7 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
 【New】道路收费类新增常见案例   
 
 ## 目录
-
+新生请参考1、6、7，有车的老司机请参考1～5、7
 1. [地图类](#地图类)
 2. [停车类](#停车类)
     - [NYC停车](#NYC停车)
@@ -30,14 +30,14 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
     - [NJ与PA（除费城）间跨特拉华河免费桥梁](#NJ与PA（除费城）间跨特拉华河免费桥梁)
     - [大西洋城高速Atlantic City Expressway](#大西洋城高速Atlantic-City-Expressway)
     - [开普梅县收费桥梁Cape May County Bridges](#开普梅县收费桥梁Cape-May-County-Bridges)
-5. [公共交通出行类](#公共交通出行类)
-    - [NJ及NY公路铁路客运](#NJ及NY公路铁路客运)
-    - [NJ与NY水路客运](#NJ与NY水路客运)
-    - [NYC内水路客运](#NYC内水路客运)
-6. [违章处理类](#违章处理类)
+5. [违章处理类](#违章处理类)
     - [NJ路费违章violation处理](#NJ路费违章violation处理)
     - [NY路费违章处理](#NY路费违章处理)
     - [NYC交罚单及申诉](#NYC交罚单及申诉)
+6. [公共交通出行类](#公共交通出行类)
+    - [NJ及NY公路铁路客运](#NJ及NY公路铁路客运)
+    - [NJ与NY水路客运](#NJ与NY水路客运)
+    - [NYC内水路客运](#NYC内水路客运)
 7. [攻略区](#攻略区)
     - [【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域](#hot新老生从jfk返回new-brunswickedisonpiscataway区域)
     - [【HOT】New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC](#hotnew-brunswickedisonpiscataway区域下称runb区域往返holland隧道口进入nyc)
@@ -125,6 +125,8 @@ https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts
 * 从NJ进入史岛：**Outerbridge Crossing(OBX)**, Goethals Bridge(GB), Bayonne Bridge(BB)   
 * 至于是 MTA大都会运输署 还是 PANYNJ 纽约与新泽西港航局 所属桥梁，请参照：http://web.mta.info/bandt/html/btmap.html    
 * 各桥隧实时通行用时预计：https://www.panynj.gov/bridges-tunnels/en/index.html    
+* **若不想开车前往纽约，推荐将车停放在Metropark火车站的停车楼（可以遮雨）**，收费标准参考：    
+https://www.nexusparkingsystems.com/metro-rates.html    
 * 资费标准：   
 https://www.panynj.gov/bridges-tunnels/en/tolls.html   
 【Toll】使用NJ EZP或 NY EZP行驶 HT, LT, GWB 或者一个自然月内PASI不足3次：高峰期$13.75，平峰期$11.75； PACP：$7.75； PASI：$6.88     
@@ -250,30 +252,72 @@ https://capemaycountynj.gov/657/Toll-Schedule
 https://www.cmlf.com/schedules-fares   
 
 ———————————————————————    
+## 违章处理类    
+#### NJ路费违章violation处理   
+* https://www.ezpassnj.com/vector/violations/violationInquiry.do?locale=en_US&from=Home&btnLogin.x=1&formid=frmViol   
+
+#### NY路费违章处理   
+* https://www.e-zpassny.com/vector/violations/violationInquiry.do?locale=en_US&from=Home   
+
+#### NYC交罚单及申诉   
+* https://www1.nyc.gov/site/finance/vehicles/dispute-a-ticket.page 或 Pay or Dispute App   
+
+———————————————————————    
 ## 公共交通出行类    
 #### NJ及NY公路铁路客运   
-* NJ官网：   
+* NJ政府交通部门官网：   
 https://www.state.nj.us/nj/trans/buses/   
-**【HOT】NJ Transit**：   
-https://www.njtransit.com/   
-铁路图：   
-2021年10月旧版：https://d2g63oyneaimm8.cloudfront.net/sites/default/files/NJ%20TRANSIT%20Rail%20System%20Map%20%E2%80%93%20October%202021.pdf   
-2022年8月新版：https://content.njtransit.com/public/pdfs/maps/NJTRailSystemMap-Aug2022.pdf    
+* **【HOT】NJ Transit NJ交通运输**    
+官网：https://www.njtransit.com/   
+有频繁通学需求可以考虑Student Pass：https://www.njtransit.com/studentpass   
+* 铁路：   
+2021年10月旧版线路图：https://d2g63oyneaimm8.cloudfront.net/sites/default/files/NJ%20TRANSIT%20Rail%20System%20Map%20%E2%80%93%20October%202021.pdf   
+2022年8月新版线路图：https://content.njtransit.com/public/pdfs/maps/NJTRailSystemMap-Aug2022.pdf    
 列车各线路时刻表：https://www.njtransit.com/schedules/printable   
-**【HOT】NYC官网（含NYC Subway, Long Island Rail Road and Metro-North Railroad）**：   
+热门车站：   
+    1. Northeast Corridor东北走廊线:Jersey Avenue, New Brunswick, Edison爱迪生, Metuchen, Metropark, Rahway, Newark Airport 纽瓦克机场, Newark Penn 纽瓦克宾州站（换乘PATH红线）, New York Penn 纽约宾州站   
+    2. Raritan Valley拉里坦河谷线(周末终点站是Newark Penn):Bound Brook, Dunellen, Plainfield, Rahway,  Newark Airport 纽瓦克机场, Newark Penn 纽瓦克宾州站（换乘PATH红线）, New York Penn 纽约宾州站   
+    3. North Jersey Coast北泽西海岸线: Perth Amboy, Woodbridge, Avenel, Rahway,  Newark Airport 纽瓦克机场, Newark Penn 纽瓦克宾州站（换乘PATH红线）, New York Penn 纽约宾州站   
+    4. PATH轻轨: Newark Penn（换乘上述三条线）, Harrison, Journal Square, Grove Street, Exchange Place, World Trade Center(NYC), Newport, Hoboken, 14th St(NYC), 23rd St(NYC), 33rd St(NYC)   
+！去北部或者Hoboken可在Secaucus Junction站换乘， Rahway可换乘前三条线。   
+* 公交（接受硬币、$1纸币和App电子票；部分大站有自动售票机和人工售票窗口，必须购买纸质或电子票）   
+总指南：https://www.njtransit.com/rider-guide-for-bus-customers   
+公交线路交互式地图：https://mybusnow.njtransit.com/bustime/map/displaymap.jsp    
+整合地图：http://www.dougandadrienne.info/njbus/indexcnj.html   
+行程规划：https://www.njtransit.com/trip-planner-to   
+吐槽网站（火车）：https://njtranshit.com/   
+常用线路：   
+    0. RU校车路线（Knight Mover夜间车需要RUID，并打电话732-932-RIDE7433）：https://ipo.rutgers.edu/dots 配合使用TransLoc App      
+    1. Highland Park，Edison，Metuchen和Woodbridge方向的810、814    
+    2. Somerset及Bound Brook方向的851、852北线，853、1R（至Somerville）南线    
+    3. East Brunswick方向的811、815（经Perth Amboy至Woodbridge）818   
+    4. North Brunswick方向的M1、M4   
+    5. New Brunswick市区环线M5，5th/6th Ward Shuttle穿梭巴士Brunsquick 1、Brunsquick 2      
+    6. Piscataway北部及South Plainfield 或 Metuchen 前往Plainfield火车站的819   
+    7. 纽约中城港务局巴士总站Port Authority Bus Terminal线：Bridgewater出发的114， Somerville出发的117，Avenel出发的115，Perth Amboy出发的116    
+    8. Coach USA Suburban城郊线往返纽约(多地点)：经New Brunswick（上车点Albany St交Spring St或New Brunswick Park and Ride）有100路、500路、600路；经East Brunswick（上车点East Brunswick Transportation Center或Neilson Parking Plaza）有100路、300路、500路、600路；经North Brunswick（上车点NJ27交Hidden Lake Dr）有100路、600路。详情：https://www.coachusa.com/suburban-transit/schedules ;购票（RU学生在613 George Street买票）：https://www.coachusa.com/suburban-transit/online-ticket-books 及https://www.coachusa.com/suburban-transit/where-to-buy          
+* NJTransit App使用:    
+    1. 购票：Buy Ticket，线路和所跨区间数请参考:Rider Tool->Bus Timetable->选择线路，电子票支持Paypal（含中国区Paypal银联卡）、Apple Pay、信用卡、Debit Card借记卡（不支持银联）付款，上车时激活电子票并向公交司机或火车检票员展示        
+    2. 火车站出发时刻表：DepartureVision，选择车站，显示时刻表    
+    3. 公交线路：MyBus，选择路线、方向及站点，显示发车情况   
+    4. 计划时刻表：Schedule，选择起点、终点及时间，显示乘车步骤及计划   
+
+**【HOT】NYC官网（含NYC Subway纽约地铁, Long Island Rail Road长岛铁路，及Metro-North Railroad北方铁路）**：   
+纽约地铁大部分车站及巴士已安装OMNY系统，目前支持Google Pay, Apple Pay, Samsung Pay, Fitbit Pay以及银联（开通小额免密支付）/Visa/MasterCard/Discover/美国运通/JCB的信用卡。注意 Roosevelt Tramway罗斯福岛缆车目前仅支持MetroCard。LIRR长岛铁路及MNR北方铁路请使用MTA eTix App购票。     
 https://new.mta.info/fares   
-Staten Island Railway：   
+Staten Island Railway史丹顿岛铁路（支持OMNY）：   
 https://new.mta.info/agency/staten-island-railway   
-PANYNJ官网：   
-客运站Midtown Bus Terminal, George Washington Bridge Bus Station, Journal Square Transportation Center：   
+PANYNJ纽约与新泽西港航局官网：   
+客运站包括Midtown Bus Terminal曼哈顿中城巴士总站, George Washington Bridge Bus Station乔治华盛顿大桥巴士站, Journal Square Transportation Center新泽西期刊广场运输中心：   
 https://www.panynj.gov/bus-terminals/en/index.html   
 **【HOT】PATH轻轨**：   
+PATH接受SmartLink卡（若非通勤需求，不推荐）及每趟支付的纽约交通卡MetroCard，不支持无限次交通卡   
 https://www.panynj.gov/path/en/index.html   
 列车时刻表及线路图：    
 https://www.panynj.gov/path/en/schedules-maps.html   
-Amtrak官网：   
+Amtrak美铁官网：   
 https://www.amtrak.com/home.html   
-Acela高速铁路（美国目前最快铁路，从波士顿经纽约至华盛顿DC，停靠Metropark）：    
+Acela高速铁路（美国目前最快铁路，从波士顿经纽约至华盛顿DC，停靠新泽西Metropark）：    
 https://www.amtrak.com/acela-train    
 
 #### NJ与NY水路客运   
@@ -293,17 +337,6 @@ https://seastreak.com/ferry-routes-and-schedules/
 https://www.ferry.nyc/routes-and-schedules/   
 * Downtown往返IKEA的NY Water Taxi：   
 https://nywatertaxi.com/   
-
-———————————————————————    
-## 违章处理类    
-#### NJ路费违章violation处理   
-* https://www.ezpassnj.com/vector/violations/violationInquiry.do?locale=en_US&from=Home&btnLogin.x=1&formid=frmViol   
-
-#### NY路费违章处理   
-* https://www.e-zpassny.com/vector/violations/violationInquiry.do?locale=en_US&from=Home   
-
-#### NYC交罚单及申诉   
-* https://www1.nyc.gov/site/finance/vehicles/dispute-a-ticket.page 或 Pay or Dispute App   
 
 ——————————————————————— 
 ## 攻略区    
