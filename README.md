@@ -329,8 +329,9 @@ https://www.panynj.gov/port-authority/en/help-center/ferries.html
 https://www.nywaterway.com/ferryroutesschedules.aspx   
 * Liberty Landing Ferry靠近Liberty State Park：   
 https://www.libertylandingcityferry.com/   
-* Highlands, NJ往返NYC：   
+* Highlands，Atlantic Highlands，及Sandy Hook Beach往返NYC：   
 https://seastreak.com/ferry-routes-and-schedules/   
+Seastreak还能带你去Nantucket, MA和Martha’s Vineyard
 
 #### NYC内水路客运   
 * **【强推】往返于Battery Park City或Midtown West和St George Terminal, SI之间的快艇单程$2.75，15分钟抵达Downtown！！**   
