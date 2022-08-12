@@ -295,7 +295,7 @@ https://www.state.nj.us/nj/trans/buses/
     6. New Brunswick市区环线M5，5th/6th Ward Shuttle穿梭巴士Brunsquick 1、Brunsquick 2      
     7. Piscataway北部及South Plainfield 或 Metuchen 前往Plainfield火车站的819   
     8. 纽约中城港务局巴士总站Port Authority Bus Terminal线：Bridgewater出发的114， Somerville出发的117，Avenel出发的115，Perth Amboy出发的116    
-    9. Coach USA Suburban城郊线往返纽约(多地点)：经New Brunswick（上车点Albany St交Spring St或New Brunswick Park and Ride）有100路、500路、600路；经East Brunswick（上车点East Brunswick Transportation Center或Neilson Parking Plaza）有100路、300路、500路、600路；经North Brunswick（上车点NJ27交Hidden Lake Dr）有100路、600路。详情：https://www.coachusa.com/suburban-transit/schedules ;购票（RU学生在613 George Street买票）：https://www.coachusa.com/suburban-transit/online-ticket-books 及https://www.coachusa.com/suburban-transit/where-to-buy          
+    9. Coach USA Suburban城郊线往返纽约(多地点)：经New Brunswick（上车点Albany St交Spring St或New Brunswick Park and Ride）有100路、500路、600路；经East Brunswick（上车点East Brunswick Transportation Center或Neilson Parking Plaza）有100路、300路、500路、600路；经North Brunswick（上车点NJ27交Hidden Lake Dr）有100路、600路。详情：https://www.coachusa.com/suburban-transit/schedules ;购票（RU学生在613 George Street买票：http://sabo.rutgers.edu/services/bus-tickets/ ）：https://www.coachusa.com/suburban-transit/online-ticket-books 及https://www.coachusa.com/suburban-transit/where-to-buy          
 * NJTransit App使用:    
     1. 购票：Buy Ticket，线路和所跨区间数请参考:Rider Tool->Bus Timetable->选择线路，电子票支持Paypal（含中国区Paypal银联卡）、Apple Pay、信用卡、Debit Card借记卡（不支持银联）付款，上车时激活电子票并向公交司机或火车检票员展示        
     2. 火车站出发时刻表：DepartureVision，选择车站，显示时刻表    
