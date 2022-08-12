@@ -287,15 +287,15 @@ https://www.state.nj.us/nj/trans/buses/
 行程规划：https://www.njtransit.com/trip-planner-to   
 吐槽网站（火车）：https://njtranshit.com/   
 常用线路：   
-    0. RU校车路线（Knight Mover夜间车需要RUID，并打电话732-932-RIDE7433）：https://ipo.rutgers.edu/dots 配合使用TransLoc App      
-    1. Highland Park，Edison，Metuchen和Woodbridge方向的810、814    
-    2. Somerset及Bound Brook方向的851、852北线，853、1R（至Somerville）南线    
-    3. East Brunswick方向的811、815（经Perth Amboy至Woodbridge）818   
-    4. North Brunswick方向的M1、M4   
-    5. New Brunswick市区环线M5，5th/6th Ward Shuttle穿梭巴士Brunsquick 1、Brunsquick 2      
-    6. Piscataway北部及South Plainfield 或 Metuchen 前往Plainfield火车站的819   
-    7. 纽约中城港务局巴士总站Port Authority Bus Terminal线：Bridgewater出发的114， Somerville出发的117，Avenel出发的115，Perth Amboy出发的116    
-    8. Coach USA Suburban城郊线往返纽约(多地点)：经New Brunswick（上车点Albany St交Spring St或New Brunswick Park and Ride）有100路、500路、600路；经East Brunswick（上车点East Brunswick Transportation Center或Neilson Parking Plaza）有100路、300路、500路、600路；经North Brunswick（上车点NJ27交Hidden Lake Dr）有100路、600路。详情：https://www.coachusa.com/suburban-transit/schedules ;购票（RU学生在613 George Street买票）：https://www.coachusa.com/suburban-transit/online-ticket-books 及https://www.coachusa.com/suburban-transit/where-to-buy          
+    1. RU校车路线（Knight Mover夜间车需要RUID，并打电话732-932-RIDE7433）：https://ipo.rutgers.edu/dots 配合使用TransLoc App      
+    2. Highland Park，Edison，Metuchen和Woodbridge方向的810、814    
+    3. Somerset及Bound Brook方向的851、852北线，853、1R（至Somerville）南线    
+    4. East Brunswick方向的811、815（经Perth Amboy至Woodbridge）818   
+    5. North Brunswick方向的M1、M4   
+    6. New Brunswick市区环线M5，5th/6th Ward Shuttle穿梭巴士Brunsquick 1、Brunsquick 2      
+    7. Piscataway北部及South Plainfield 或 Metuchen 前往Plainfield火车站的819   
+    8. 纽约中城港务局巴士总站Port Authority Bus Terminal线：Bridgewater出发的114， Somerville出发的117，Avenel出发的115，Perth Amboy出发的116    
+    9. Coach USA Suburban城郊线往返纽约(多地点)：经New Brunswick（上车点Albany St交Spring St或New Brunswick Park and Ride）有100路、500路、600路；经East Brunswick（上车点East Brunswick Transportation Center或Neilson Parking Plaza）有100路、300路、500路、600路；经North Brunswick（上车点NJ27交Hidden Lake Dr）有100路、600路。详情：https://www.coachusa.com/suburban-transit/schedules ;购票（RU学生在613 George Street买票）：https://www.coachusa.com/suburban-transit/online-ticket-books 及https://www.coachusa.com/suburban-transit/where-to-buy          
 * NJTransit App使用:    
     1. 购票：Buy Ticket，线路和所跨区间数请参考:Rider Tool->Bus Timetable->选择线路，电子票支持Paypal（含中国区Paypal银联卡）、Apple Pay、信用卡、Debit Card借记卡（不支持银联）付款，上车时激活电子票并向公交司机或火车检票员展示        
     2. 火车站出发时刻表：DepartureVision，选择车站，显示时刻表    
