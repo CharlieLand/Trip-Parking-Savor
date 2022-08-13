@@ -5,7 +5,7 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
 【新生特辑】已更新RUNB公共交通出行方式。攻略区更新JFK前往RU New Brunswick的公共交通搭乘方式，欢迎批评指正    
 【New】9月12日起，纽约轮渡单程将涨价至\$4，多次票接近\$2.75每程 ，详见 https://www.ny1.com/nyc/all-boroughs/transit/2022/07/14/nyc-ferry-to-raise-single-ride-fare--add-discounts-for-some-new-yorkers   
 【New】纽约轮渡开通Rockaway海滩快线，详见：https://www.ferry.nyc/blog/new-rockaway-rocket/   
-【优惠】NJTransit推出往返New York Penn Station的火车票40\%折扣，9/2截止，详见https://www.njtransit.com/newyork    
+【火车优惠】NJTransit推出往返New York Penn Station的火车票40\%折扣，限非假日的工作日，9/2截止，详见https://www.njtransit.com/newyork    
 【重要】7月10日起，乔治华盛顿大桥(George Washington Bridge)将采取完全无现金收费，拼车折扣将被取消。此后只有林肯隧道仍保留拼车折扣（需提前加入PACP计划）。详见 https://www.panynj.gov/bridges-tunnels/en/cashless-tolling---b-t.html    
 【Note】电子狗（雷达监测器）购买推荐：https://www.bestbuy.com/site/escort-x80-radar-detector-black/5797708.p?skuId=5797708 感谢群友Jchen的分享：与Waze并用效果更佳   
 【New】荷兰隧道林肯隧道夜间进入纽约方向施工信息敬请关注Port Authority官网   
