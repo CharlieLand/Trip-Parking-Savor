@@ -123,7 +123,7 @@ https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts
 ———————————————————————    
 ## 道路收费类      
 #### PANYNJ NY与NJ州际收费桥梁隧道   
-* **高峰时段: 工作日早高峰6\~10 am, 晚高峰4\~8 pm； 周六周日: 11 am \~ 9 pm**   
+* **高峰时段: 工作日早高峰6\~10 am, 晚高峰4\~8 pm；双休日: 11 am \~ 9 pm**   
 * 从NJ进入曼岛：**Holland Tunnel(HT)**, **Lincoln Tunnel(LT)**, **George Washington Bridge(GWB)**,     
 * 从NJ进入史岛：**Outerbridge Crossing(OBX)**, Goethals Bridge(GB), Bayonne Bridge(BB)   
 * 至于是 MTA大都会运输署 还是 PANYNJ 纽约与新泽西港航局 所属桥梁，请参照：http://web.mta.info/bandt/html/btmap.html    
@@ -148,7 +148,7 @@ https://www.panynj.gov/bridges-tunnels/en/tolls.html
 
 
 #### NJ Turnpike及GS Pkwy   
-* **高峰时段：工作日早高峰7\~9 am, 晚高峰4:30\~6:30 pm，双休日全天**
+* **高峰时段：工作日早高峰7\~9 am, 晚高峰4:30\~6:30 pm；双休日全天**
 * 路费计算器：   
 https://www.njta.com/toll-calculator   
 * 提示：   
