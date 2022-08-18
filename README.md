@@ -2,6 +2,7 @@
 The repo is to reduce your cost on tolls, parking fees, and other transportation fares within the NYC Bay Area(NJ Mainly).   
 
 更新于8/18/2022， 欢迎提出意见和建议   
+【New】无EZ Pass的同学想要交现金过路费去纽约可以参考攻略区Lincoln隧道口走法   
 【新生特辑】已更新RUNB公共交通出行方式。攻略区更新JFK前往RU New Brunswick的公共交通搭乘方式，欢迎批评指正    
 【New】9月12日起，纽约轮渡单程将涨价至\$4，多次票接近\$2.75每程 ，详见 https://www.ny1.com/nyc/all-boroughs/transit/2022/07/14/nyc-ferry-to-raise-single-ride-fare--add-discounts-for-some-new-yorkers   
 【New】纽约轮渡开通Downtown Wall St华尔街直达Rockaway海滩快线，详见：https://www.ferry.nyc/blog/new-rockaway-rocket/   
@@ -377,7 +378,7 @@ NER165 周日   20:01-20:45
 ！JFK机场快速巴士至EWR纽瓦克机场\$29，可接驳NJ Transit   
 
 #### 【HOT】RUNB区域往返Lincoln隧道口进入NYC    
-鉴于目前油价偏高，特此提供综合油费和路费的林肯隧道口走法
+鉴于目前油价偏高，特此提供综合油费和路费的林肯隧道口走法，此方法也是用现金去纽约的走法，需过2个人工收费通道及林肯隧道收费站   
 * 从 I-287 或 NJ18 进入 US1 North 过了Menlo Park Mall之后按指示牌提前靠右进入GS Pkwy North入口（卡车禁行）   
 * 行驶至出口142A（最右侧三个车道）转入 I-78 East   
 * 在收费站前靠左走I-95 Lincoln Tunnel方向
