@@ -133,7 +133,7 @@ https://www.nexusparkingsystems.com/metro-rates.html
 https://www.panynj.gov/bridges-tunnels/en/tolls.html   
 【Toll】使用NJ EZP或 NY EZP行驶 HT, LT, GWB 或者一个自然月内PASI不足3次：高峰期$13.75，平峰期$11.75； PACP：$7.75； PASI：$6.88     
 外州EZPass或邮寄路费Tolls by Mail：$16   
-**高峰期: 工作日6\~10 am, 4\~8 pm； 周六周日: 11 am \~ 9 pm**     
+**高峰时段: 工作日早高峰6\~10 am, 晚高峰4\~8 pm； 周六周日: 11 am \~ 9 pm**     
 【强推】从OBX/GB进入SI，将车停放在 St George Terminal 后有免费的 Staten Island Ferry 前往 Downtown 及 单程收费$2.75的 NYC Ferry 前往 WTC 或 Midtown West；     
 史岛SGT码头附近有Empire Outlet附属SP+停车场 及 码头附属Municipal Metered停车场。SP+停车场在Groupon上24hr仅需$9.5，Municipal $1.5/hr 上限18hr $12   
 * 提示：    
@@ -148,7 +148,7 @@ https://www.panynj.gov/bridges-tunnels/en/tolls.html
 
 
 #### NJ Turnpike及GS Pkwy   
-* Peak hours高峰时段：工作日7am至9am，4:30pm至6:30pm，周末全天
+**高峰时段：工作日早高峰7\~9 am, 晚高峰4:30\~6:30 pm，双休日全天**
 * 路费计算器：   
 https://www.njta.com/toll-calculator   
 * 提示：   
@@ -381,9 +381,11 @@ NER165 周日   20:01-20:45
 鉴于目前油价偏高，特此提供综合油费和路费的林肯隧道口走法。此方法也是用现金去纽约的走法，需过2个人工收费通道及林肯隧道收费站   
 * 从 I-287 或 NJ18 进入 US1 North 过了Menlo Park Mall之后按指示牌提前靠右进入GS Pkwy North入口（卡车禁行）   
 * 行驶至出口142A（最右侧三个车道）转入 I-78 East   
-* 在收费站前靠左走I-95 Lincoln Tunnel方向
+* 在收费站（出口14）前靠左走I-95 Lincoln Tunnel方向
 * 从出口16E NJ495 Lincoln Tunnel下，直到收费站
 * 回程建议从15E出口转US1-9 Local，沿着GS Pkwy标志走I-78 Express，之后转I-78 Local（按GS Pkwy标志指示方向），并从最右道走GS Pkwy South进入GS Pkwy
+* 从出口9 NJ18 New Brunswick进入I-95，至出口16E需要$6.84（NJ EZPass offpeak hours即工作日非早晚高峰时段）或9.15（外州EZPass或NJ EZPass peak hours）   
+* 从出口10 I-287进入I-95，至出口16E需要$6.42（NJ EZPass offpeak hours）或8.55（外州EZPass或NJ EZPass peak hours）
 Toll:去程$1.96+2.25（NJ EZPass offpeak hours）或2.99（外州EZPass或NJ EZPass peak hours）。回程$1.51（NJ EZPass offpeak hours）或2.01（外州EZPass或NJ EZPass peak hours）  
 
 #### 【HOT】RUNB区域往返Holland隧道口进入NYC    
