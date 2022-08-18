@@ -1,15 +1,13 @@
 # Trip-Parking-Savor
 The repo is to reduce your cost on tolls, parking fees, and other transportation fares within the NYC Bay Area(NJ Mainly).   
 
-更新于8/12/2022， 欢迎提出意见和建议   
+更新于8/18/2022， 欢迎提出意见和建议   
 【新生特辑】已更新RUNB公共交通出行方式。攻略区更新JFK前往RU New Brunswick的公共交通搭乘方式，欢迎批评指正    
 【New】9月12日起，纽约轮渡单程将涨价至\$4，多次票接近\$2.75每程 ，详见 https://www.ny1.com/nyc/all-boroughs/transit/2022/07/14/nyc-ferry-to-raise-single-ride-fare--add-discounts-for-some-new-yorkers   
 【New】纽约轮渡开通Downtown Wall St华尔街直达Rockaway海滩快线，详见：https://www.ferry.nyc/blog/new-rockaway-rocket/   
 【火车优惠】NJTransit推出往返New York Penn Station的火车票40\%折扣，限非假日的工作日，9/2截止，详见https://www.njtransit.com/newyork    
 【重要】7月10日起，乔治华盛顿大桥(George Washington Bridge)将采取完全无现金收费，拼车折扣将被取消。此后只有林肯隧道仍保留拼车折扣（需提前加入PACP计划）。详见 https://www.panynj.gov/bridges-tunnels/en/cashless-tolling---b-t.html    
 【Note】电子狗（雷达监测器）购买推荐：https://www.bestbuy.com/site/escort-x80-radar-detector-black/5797708.p?skuId=5797708 感谢群友Jchen的分享：与Waze并用效果更佳   
-【New】荷兰隧道林肯隧道夜间进入纽约方向施工信息敬请关注Port Authority官网   
-【New】道路收费类新增常见案例   
 
 ## 目录
 新生请参考1、6、7，有车的老司机请参考1～5、7
@@ -307,7 +305,7 @@ https://www.state.nj.us/nj/trans/buses/
     4. 计划时刻表：Schedule，选择起点、终点及时间，显示乘车步骤及计划   
 
 **【HOT】NYC官网（含NYC Subway纽约地铁, Long Island Rail Road长岛铁路，及Metro-North Railroad北方铁路）**：   
-纽约地铁大部分车站及巴士已安装OMNY系统，目前支持Google Pay, Apple Pay, Samsung Pay, Fitbit Pay以及银联（开通小额免密支付）/Visa/MasterCard/Discover/美国运通/JCB的信用卡。注意 Roosevelt Tramway罗斯福岛缆车目前仅支持MetroCard。LIRR长岛铁路及MNR北方铁路请使用MTA eTix App购票。     
+纽约地铁大部分车站及巴士已安装OMNY系统，目前支持Google Pay, Apple Pay, Samsung Pay, Fitbit Pay以及银联（开通小额免密支付）/Visa/MasterCard/Discover/美国运通/JCB的信用卡。注意 Roosevelt Tramway罗斯福岛缆车目前仅支持MetroCard。LIRR长岛铁路及MNR北方铁路请使用MTA TrainTime（原为eTix）App购票。     
 https://new.mta.info/fares   
 Staten Island Railway史丹顿岛铁路（支持OMNY）：   
 https://new.mta.info/agency/staten-island-railway   
@@ -356,7 +354,7 @@ https://nywatertaxi.com/
 Long Island Rail Road长岛铁路线路图：https://new.mta.info/map/5361    
 LIRR City Terminal线路时间表：https://new.mta.info/document/84986    
 Penn Station导航图：https://d3jueu6xs1mcfw.cloudfront.net/public/NY%20Penn%20Station%20Directory_011022.pdf    
-在MTA eTix App（若有网络）或售票机上购买至Penn Station的火车，请选City Ticket $5。并于车内激活电子票以方便检票员检票。    
+在MTA TrainTime（原为eTix） App或售票机上购买至Penn Station的火车，请选City Ticket $5。并于车内激活电子票以方便检票员检票。    
 ！Apple Pay中银联卡（借记、信用）显示不可用。    
 * Step 3 乘坐NJ Transit 至目的地。    
 NJ Transit火车轻轨线路图：https://content.njtransit.com/public/pdfs/maps/NJTRailSystemMap-Aug2022.pdf    
