@@ -123,6 +123,7 @@ https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts
 ———————————————————————    
 ## 道路收费类      
 #### PANYNJ NY与NJ州际收费桥梁隧道   
+* **高峰时段: 工作日早高峰6\~10 am, 晚高峰4\~8 pm； 周六周日: 11 am \~ 9 pm**   
 * 从NJ进入曼岛：**Holland Tunnel(HT)**, **Lincoln Tunnel(LT)**, **George Washington Bridge(GWB)**,     
 * 从NJ进入史岛：**Outerbridge Crossing(OBX)**, Goethals Bridge(GB), Bayonne Bridge(BB)   
 * 至于是 MTA大都会运输署 还是 PANYNJ 纽约与新泽西港航局 所属桥梁，请参照：http://web.mta.info/bandt/html/btmap.html    
@@ -132,8 +133,7 @@ https://www.nexusparkingsystems.com/metro-rates.html
 * 资费标准：   
 https://www.panynj.gov/bridges-tunnels/en/tolls.html   
 【Toll】使用NJ EZP或 NY EZP行驶 HT, LT, GWB 或者一个自然月内PASI不足3次：高峰期$13.75，平峰期$11.75； PACP：$7.75； PASI：$6.88     
-外州EZPass或邮寄路费Tolls by Mail：$16   
-**高峰时段: 工作日早高峰6\~10 am, 晚高峰4\~8 pm； 周六周日: 11 am \~ 9 pm**     
+外州EZPass或邮寄路费Tolls by Mail：$16     
 【强推】从OBX/GB进入SI，将车停放在 St George Terminal 后有免费的 Staten Island Ferry 前往 Downtown 及 单程收费$2.75的 NYC Ferry 前往 WTC 或 Midtown West；     
 史岛SGT码头附近有Empire Outlet附属SP+停车场 及 码头附属Municipal Metered停车场。SP+停车场在Groupon上24hr仅需$9.5，Municipal $1.5/hr 上限18hr $12   
 * 提示：    
@@ -148,7 +148,7 @@ https://www.panynj.gov/bridges-tunnels/en/tolls.html
 
 
 #### NJ Turnpike及GS Pkwy   
-**高峰时段：工作日早高峰7\~9 am, 晚高峰4:30\~6:30 pm，双休日全天**
+* **高峰时段：工作日早高峰7\~9 am, 晚高峰4:30\~6:30 pm，双休日全天**
 * 路费计算器：   
 https://www.njta.com/toll-calculator   
 * 提示：   
