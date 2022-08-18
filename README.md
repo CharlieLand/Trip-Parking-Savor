@@ -39,8 +39,9 @@ The repo is to reduce your cost on tolls, parking fees, and other transportation
     - [NJ与NY水路客运](#NJ与NY水路客运)
     - [NYC内水路客运](#NYC内水路客运)
 7. [攻略区](#攻略区)
-    - [【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域](#hot新老生从jfk返回new-brunswickedisonpiscataway区域)
-    - [【HOT】New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC](#hotnew-brunswickedisonpiscataway区域下称runb区域往返holland隧道口进入nyc)
+    - [【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域（下称RUNB区域）](#hot新老生从jfk返回new-brunswickedisonpiscataway区域下称runb区域)
+    - [【HOT】RUNB区域往返Lincoln隧道口进入NYC](#runb区域往返lincoln隧道口进入nyc)
+    - [【HOT】RUNB区域往返Holland隧道口进入NYC](#runb区域往返holland隧道口进入nyc)
     - [【HOT】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线](#hotrunb区域经布鲁克林Bk往返法拉盛flushing高峰期路线)
     - [RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）](#runb区域往返gwb乔治华盛顿大桥入口往返法拉盛路线2)
     - [RUNB区域前往Boston（新英格兰幸福之旅）](#runb区域前往boston新英格兰幸福之旅)
@@ -146,6 +147,7 @@ https://www.panynj.gov/bridges-tunnels/en/tolls.html
 
 
 #### NJ Turnpike及GS Pkwy   
+* Peak hours高峰时段：工作日7am至9am，4:30pm至6:30pm，周末全天
 * 路费计算器：   
 https://www.njta.com/toll-calculator   
 * 提示：   
@@ -343,7 +345,7 @@ https://nywatertaxi.com/
 
 ——————————————————————— 
 ## 攻略区    
-#### 【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域     
+#### 【HOT】新老生从JFK返回New Brunswick/Edison/Piscataway区域（下称RUNB区域）     
 * Step 0 准备一张含PayWave标志的银行卡（不含礼品卡和无法充值的预付卡）。    
 若卡片不含此标志，请尝试于手机钱包中添加此卡，并同时携带现金备用。    
 ！OMNY系统目前支持Google Pay, Apple Pay, Samsung Pay, Fitbit Pay以及银联（开通小额免密支付）/Visa/MasterCard/Discover/美国运通/JCB的信用卡。    
@@ -374,13 +376,22 @@ NER165 周日   20:01-20:45
 
 ！JFK机场快速巴士至EWR纽瓦克机场\$29，可接驳NJ Transit   
 
-#### 【HOT】New Brunswick/Edison/Piscataway区域（下称RUNB区域）往返Holland隧道口进入NYC    
+#### 【HOT】RUNB区域往返Lincoln隧道口进入NYC    
+鉴于目前油价偏高，特此提供综合油费和路费的林肯隧道口走法
+* 从 I-287 或 NJ18 进入 US1 North 过了Menlo Park Mall之后按指示牌提前靠右进入GS Pkwy North入口（卡车禁行）   
+* 行驶至出口142A（最右侧三个车道）转入 I-78 East   
+* 在收费站前靠左走I-95 Lincoln Tunnel方向
+* 从出口16E NJ495 Lincoln Tunnel下，直到收费站
+* 回程建议从15E出口转US1-9 Local，沿着GS Pkwy标志走I-78 Express，之后转I-78 Local（按GS Pkwy标志指示方向），并从最右道走GS Pkwy South进入GS Pkwy
+Toll:去程$1.96+2.25（NJ EZPass offpeak hours）或2.99（外州EZPass或NJ EZPass peak hours）。回程$1.51（NJ EZPass offpeak hours）或2.01（外州EZPass或NJ EZPass peak hours）  
+
+#### 【HOT】RUNB区域往返Holland隧道口进入NYC    
 * 从 I-287 或 NJ18 进入 US1 North 过了Menlo Park Mall之后按指示牌提前靠右进入GS Pkwy North入口（卡车禁行）   
 * 行驶至出口140A US22 East出，注意提前变道进入出口。（如果错过可以从Union收费站最右侧2个通道出口142A转入 I-78 East）   
 * US22靠左行驶从左侧出口进入US1-9 North Express（经过Pulaski Skyway），之后一直靠左直行即可抵达隧道入口   
 * 若驶入I-78，请走Local或靠左标着Holland Tunnel的Express，按提示从58B出口转US1-9 North（若继续直行将通过收费站$3.5且路面较差），后面转入US1-9 Express Pulaski Skyway   
 * 回程从Pulaski Skyway下来后接US1-9 Local，沿着GS Pkwy标志走I-78 Express，之后转I-78 Local，并从最右道走GS Pkwy South进入GS Pkwy   
-Toll:$0(去程走US22，回程走I-78或US22)，$1.96（去程走I-78）。「就是这么神奇，去程I-78收费，回程不收！」
+Toll:$0(去程走US22，回程走I-78或US22)，$1.96（去程走I-78）。「就是这么神奇，去程I-78收费，回程不收！」  
 
 #### 【HOT】RUNB区域经布鲁克林Bk往返法拉盛Flushing，高峰期路线    
 * 从US1 North进入I-287 一路向东，与NJ440连接   
@@ -388,7 +399,7 @@ Toll:$0(去程走US22，回程走I-78或US22)，$1.96（去程走I-78）。「�
 * NY440尽头靠右进入I-278 East，3人及以上可行驶钻石Carpool车道   
 * 沿I-278经过Verrazano大桥前，无论走上下层都提前靠左车道进入Exit 16 Belt Pkwy East   
 * 沿Belt Pkwy从Exit 19进入Nassau Expy， 再从Exit 1N进入I-678 North，从Exit 23 NY25A出到达法拉盛   
-Toll:同道路收费类 PANYNJ NY与NJ州际收费桥梁隧道条目 例C和D，范围$13.43\~$36.34。   
+Toll:同道路收费类 PANYNJ NY与NJ州际收费桥梁隧道条目 例C和D，范围$13.43\~$36.34    
 
 #### RUNB区域往返GWB乔治华盛顿大桥入口（往返法拉盛路线2）   
 * 从 I-287 或 NJ18 进入 US1 North 过了Menlo Park Mall之后按指示牌提前靠右进入 GS Pkwy North 入口（卡车禁行）   
