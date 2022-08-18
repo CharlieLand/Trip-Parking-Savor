@@ -384,9 +384,9 @@ NER165 周日   20:01-20:45
 * 在收费站（出口14）前靠左走I-95 Lincoln Tunnel方向
 * 从出口16E NJ495 Lincoln Tunnel下，直到收费站
 * 回程建议从15E出口转US1-9 Local，沿着GS Pkwy标志走I-78 Express，之后转I-78 Local（按GS Pkwy标志指示方向），并从最右道走GS Pkwy South进入GS Pkwy
-* 从出口9 NJ18 New Brunswick进入I-95，至出口16E需要$6.84（NJ EZPass offpeak hours即工作日非早晚高峰时段）或9.15（外州EZPass或NJ EZPass peak hours）   
-* 从出口10 I-287进入I-95，至出口16E需要$6.42（NJ EZPass offpeak hours）或8.55（外州EZPass或NJ EZPass peak hours）
-Toll:去程$1.96+2.25（NJ EZPass offpeak hours）或2.99（外州EZPass或NJ EZPass peak hours）。回程$1.51（NJ EZPass offpeak hours）或2.01（外州EZPass或NJ EZPass peak hours）  
+* 从出口9 NJ18 New Brunswick进入I-95，至出口16E需要$6.84（NJ EZPass offpeak hours即工作日非早晚高峰时段）或9.15（外州EZPass或NJ EZPass peak hours或现金）   
+* 从出口10 I-287进入I-95，至出口16E需要$6.42（NJ EZPass offpeak hours）或8.55（外州EZPass或NJ EZPass peak hours或现金）
+Toll:去程$1.96+2.25（NJ EZPass offpeak hours）或2.99（外州EZPass或NJ EZPass peak hours或现金）。回程$1.51（NJ EZPass offpeak hours）或2.01（外州EZPass或NJ EZPass peak hours或现金）  
 
 #### 【HOT】RUNB区域往返Holland隧道口进入NYC    
 * 从 I-287 或 NJ18 进入 US1 North 过了Menlo Park Mall之后按指示牌提前靠右进入GS Pkwy North入口（卡车禁行）   
