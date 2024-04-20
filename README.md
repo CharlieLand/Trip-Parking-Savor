@@ -132,17 +132,17 @@ https://www.panynj.gov/bridges-tunnels/en/e-zpass.html#PAplansDiscounts
 https://www.nexusparkingsystems.com/metro-rates.html    
 * 资费标准：   
 https://www.panynj.gov/bridges-tunnels/en/tolls.html   
-【Toll】使用NJ EZP或 NY EZP行驶 HT, LT, GWB 或者一个自然月内PASI不足3次：高峰期$13.75，平峰期$11.75； PACP：$7.75； PASI：$6.88     
-外州EZPass或邮寄路费Tolls by Mail：$16     
+【Toll】（自2024年1月7日起）使用NJ/NY EZP行驶 HT, LT, GWB 或者一个自然月内PASI不足3次：高峰期$15.38，平峰期$13.38； ~~PACP：$7.75；~~ PASI：$7.69     
+外州EZPass或邮寄路费Tolls by Mail：$17.63     
 【强推】从OBX/GB进入SI，将车停放在 St George Terminal 后有免费的 Staten Island Ferry 前往 Downtown 及 单程收费$2.75的 NYC Ferry 前往 WTC 或 Midtown West；     
 史岛SGT码头附近有Empire Outlet附属SP+停车场 及 码头附属Municipal Metered停车场。SP+停车场在Groupon上24hr仅需$9.5，Municipal $1.5/hr 上限18hr $12   
 * 提示：    
   1. 进入NYC方向单向收费，即回程不收费   
-  2. Lincoln Tunnel可以走人工收费通道告知收费员3人及以上的Carpool，即使用PACP   
+ ~~2. Lincoln Tunnel可以走人工收费通道告知收费员3人及以上的Carpool，即使用PACP~~   
 * 例：  
-  A【不推荐】. 白天从荷兰隧道/乔治华盛顿大桥进NYC下城，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，无论几人乘车都不能享受$7.75的折扣。收费：高峰期NJ/NY EZPass付$13.75，其余时间$11.75；外州EZPass或无EZPass统一收$16。  
-  B【合乘推荐】. 3人白天从林肯隧道进NYC中城，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，需要经过Cash **&** EZPass车道声明Carpool享受$7.75的折扣，同时EZPass账户中需要增加PACP计划。收费：NY或NJ EZPass付$7.75；外州EZPass或无EZPass统一收$16。   
-  C【去SI 3+次推荐】. 白天从OBX/GB/BB进SI(温馨提示：SI的超速抓拍较多)，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，中途必经Verrazano大桥（参考下面NYC MTA收费公路条目）。收费：1）若该自然月从NJ进入SI大于等于3次，则每次NY EZPass付$6.88+6.55=$13.43，NJ EZPass付$6.88+10.17=$17.05，同时EZPass账户中需要增加PASI计划；2）若该自然月去SI小于3次，则每次高峰期NY EZPass付$13.75+6.55=$20.3，NJ EZPass付$13.75+10.17=$23.92，其余时间NY EZPass付$11.75+6.55=$18.3，NJ EZPass付$11.75+10.17=$21.92；3）外州EZPass或无EZPass统一收$16+10.17=$26.17，不适用上述优惠计划。   
+  A【常规走法】. 白天从乔治华盛顿大桥/林肯隧道/荷兰隧道进纽约，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ。~~无论几人乘车都不能享受$7.75的折扣。~~  
+  ~~B【合乘推荐】. 3人白天从林肯隧道进NYC中城，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，需要经过Cash **&** EZPass车道声明Carpool享受$7.75的折扣，同时EZPass账户中需要增加PACP计划。收费：NY或NJ EZPass付$7.75；外州EZPass或无EZPass统一收$16。~~   
+  C【去SI 3+次推荐】. 白天从OBX/GB/BB进SI(温馨提示：SI的超速抓拍较多)，晚上从乔治华盛顿大桥/林肯隧道/荷兰隧道回NJ，中途必经Verrazano韦拉扎诺大桥（参考下面NYC MTA收费公路条目）。收费：1）若该自然月从NJ进入SI大于等于3次，则每次NY EZPass付$7.69+6.94=$14.63，NJ EZPass付$7.69+11.19=$18.88，同时EZPass账户中需要增加PASI计划；2）若该自然月去SI小于3次，则每次高峰期NY EZPass付$15.38+6.94=$22.32，NJ EZPass付$15.38+11.19=$26.57，其余时间NY EZPass付$13.38+6.94=$20.32，NJ EZPass付$13.38+11.19=$24.57；3）外州EZPass或无EZPass统一收$17.63+11.19=$28.82，不适用上述优惠计划。   
   D【快捷路径】. 白天从OBX/GB/BB进SI，晚上从OBX/GB/BB回NJ。收费：参考C。若需要进入曼岛或布鲁克林，必经Verrazano大桥，则应增加回程经过Verrazano大桥$6.55/$10.17的费用。情况1：NY:$6.88+6.55\*2=$19.98，NJ:$6.88+10.17\*2=$27.22；情况2：高峰期NY:$13.75+6.55\*2=$26.85，NJ:$13.75+10.17\*2=$34.09，其余时间NY:$11.75+6.55\*2=$24.85，NJ:$11.75+10.17\*2=$32.09；情况3：$16+10.17\*2=$36.34。   
   E【替代】. 3人白天从林肯隧道进NYC中城，晚上从OBX/GB/BB回NJ，必经Verrazano大桥。收费：NY:$7.75+6.55=$14.3；NJ:$7.75+10.17=$17.92；外州EZPass或无EZPass统一收$16+10.17=$26.17。   
 
@@ -164,8 +164,8 @@ https://www.njta.com/toll-calculator
 * Bronx或Uptown与Queens之间的Robert F. Kennedy Bridge(RFB21 to Bronx, RFB22 to Manhattan)   
 * Bronx与曼岛之间：Henry Hudson Bridge(HHB)   
 * Bk与Rockaway岛之间：Cross Bay Veterans Memorial Bridge(CBB26)及Marine Parkway-Gil Hodges Memorial Bridge(MPB25)
-* 资费标准：    
-https://new.mta.info/fares-and-tolls/bridges-and-tunnels/tolls-by-vehicle/cars   
+* 资费标准：
+https://new.mta.info/tolls/vehicle-types
 【Toll】除HHB、CBB(26)及MPB(25)外$6.55(NY EZP)/10.17(NJ及外州 EZP或无EZP)/8.36(Improperly Mounted NY EZP)；HHB $3.00(NY EZP)/7.50(NJ及外州 EZP或无EZP)/4.62(Improperly Mounted NY EZP)；CBB(26)及MPB(25)$2.45(NY EZP)/5.09(NJ及外州 EZP或无EZP)/5.09(Improperly Mounted NY EZP)；SI居民的SIR计划享受Verrazzano大桥每趟$2.75的价格；Rockaway居民享受CBB(26)及MPB(25)每趟$1.60的价格   
 * 提示：
   1. NJ EZPass按照 Tolls By Mail $10.17   
